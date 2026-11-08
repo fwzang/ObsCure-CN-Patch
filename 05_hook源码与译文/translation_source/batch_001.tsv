@@ -1,0 +1,3079 @@
+记录号	英文原文	中文译文	状态
+0	Phrase test number 2	测试语句 2	已翻译
+1	The door is locked.	门是锁着的。	已翻译
+2	\x01It's a \x03glass door\x01. It's closed...	\x01这是一扇\x03玻璃门\x01。它关着...	已翻译
+3	I unlocked the door.	我把门解锁了。	已翻译
+4	Teammate: Stan	队友：斯坦	已翻译
+5	Teammate: Josh	队友：乔什	已翻译
+6	Teammate: Kenny 	队友：肯尼	已翻译
+7	Teammate: Ashley	队友：阿什利	已翻译
+8	Teammate: Shannon	队友：香农	已翻译
+9	No teammate	没有队友	已翻译
+10	The door is jammed. I can't open it.	门卡住了，打不开。	已翻译
+11	The goods elevator is completely out of order.	货梯完全坏了。	已翻译
+12	No point in going down, I'd be blocked by the \ngoods elevator debris before I can get down. 	下去也没用，还没下去我就会被货梯残骸挡住。	已翻译
+13	The gate can't be opened, the goods \nelevator isn't there.	闸门打不开，货梯不在那里。	已翻译
+14	No problem, the goods elevator is already \nthere...	没问题，货梯已经在那里了...	已翻译
+15	The gate is already open.	闸门已经开了。	已翻译
+16	Safety activated. The goods elevator \ncan't move now.	安全装置已启动，货梯现在无法移动。	已翻译
+17	Safety de-activated.	安全装置已解除。	已翻译
+18	The door is locked.	门是锁着的。	已翻译
+19	The teachers' room door is closed.	教师办公室的门关着。	已翻译
+20	Demo will end in 2 minutes.	试玩版将在 2 分钟后结束。	已翻译
+21	Demo will end in a few seconds.	试玩版即将结束。	已翻译
+22	Stan	斯坦	已翻译
+23	Josh	乔什	已翻译
+24	Kenny	肯尼	已翻译
+25	Ashley	阿什利	已翻译
+26	Shannon	香农	已翻译
+27	Before selecting a new teammate, \n you must return your current teammate.	选择新队友前，必须先让当前队友归队。	已翻译
+28	Ã Select building 	Ã 选择建筑	已翻译
+29	Ð Previous	Ð 上一个	已翻译
+30	ÎÞ Change floor	ÎÞ 切换楼层	已翻译
+31	Press Ã to continue watching the video.\nPress Ð to stop watching the video.	按 Ã 继续观看影片。\n按 Ð 停止观看。	已翻译
+32	Press Ø (SELECT) 	按 Ø（选择）	已翻译
+33	I'll help you to free yourself.	我来帮你脱身。	已翻译
+34	We can do it together.	我们可以一起做。	已翻译
+35	I see something interesting.	我看到有意思的东西。	已翻译
+36	I don't see anything interesting.	我没看到什么有意思的东西。	已翻译
+37	This thing could be useful to us.	这东西可能对我们有用。	已翻译
+38	Press Ø (BACK) 	按 Ø（返回）	已翻译
+39	Press Ø	按 Ø	已翻译
+40	Press Ø	按 Ø	已翻译
+41	No OBSCURE data present.	没有 OBSCURE 数据。	已翻译
+42	Loading.	读取中	已翻译
+43	Load Successful.	读取成功	已翻译
+44	Load failed!	读取失败	已翻译
+45	Saving.	保存中。	已翻译
+46	Save successful.	保存成功	已翻译
+47	Save failed!	保存失败	已翻译
+48	Save game?	保存进度？	已翻译
+49	Are you sure you want to overwrite\nthis saved game?	确定要覆盖这个存档吗？	已翻译
+50	Overwriting data.	正在覆盖数据。	已翻译
+51	Overwrite Successful.	覆盖成功。	已翻译
+52	Overwrite failed!	覆盖失败！	已翻译
+53	Dan 	丹	已翻译
+54	Error.	错误。	已翻译
+55	Insufficient version of DirectX.\nInstall DirectX 8.1 or higher.	DirectX 版本过低。\n请安装 DirectX 8.1 或更高版本。	已翻译
+56	Unable to run the game.	无法运行游戏。	已翻译
+57	Not enough free memory on your computer. \nClose all applications and try again.	电脑内存不足。\n请关闭所有程序后重试。	已翻译
+58	No memory card (8MB) (for PlayStation®2) inserted in \nMEMORY CARD slot 1. If you wish to save your game\ndata, insert a memory card (8MB) (for PlayStation®2) \nwith at least 281KB of free space or press Ã to \ncontinue without saving.		跳过（PS2/Xbox 遗留）
+59	No memory card (8MB) (for PlayStation®2) inserted in \nMEMORY CARD slot 1 or 2. If you wish to save your game\ndata, insert a memory card (8MB) (for PlayStation®2) \nwith at least 281KB of free space or press Ã to \ncontinue without saving.		跳过（PS2/Xbox 遗留）
+60	Insufficient free space on memory card (8MB) (for \nPlayStation®2) in MEMORY CARD slot 1. Insert a memory \ncard (8MB) (for PlayStation®2) with at least 281KB of \nfree space, or create some space using the console's \ninternal browser.\nPress Ã to continue without saving.		跳过（PS2/Xbox 遗留）
+61	Insufficient free space on memory card (8MB) (for\nPlayStation®2) in MEMORY CARD slot 2. Insert a memory\ncard (8MB) (for PlayStation®2) with at least 281KB of\nfree space, or create some space using the console's\ninternal browser.\nPress Ã to continue without saving.		跳过（PS2/Xbox 遗留）
+62	Insufficient free space on memory card (8MB) (for \nPlayStation®2) in MEMORY CARD slot 1 and 2. Insert a \nmemory card (8MB) (for PlayStation®2) with at least \n281 KB of free space, or create some space using the \nconsole's internal browser.\nPress Ã to continue without saving.		跳过（PS2/Xbox 遗留）
+63	No OBSCURE save data present on memory \ncard (8MB) (for PlayStation®2) in MEMORY \nCARD slot 1.		跳过（PS2/Xbox 遗留）
+64	No OBSCURE save data present on memory \ncard (8MB) (for PlayStation®2) in MEMORY \nCARD slot 2.		跳过（PS2/Xbox 遗留）
+65	No memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 1.		跳过（PS2/Xbox 遗留）
+66	No memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 2.		跳过（PS2/Xbox 遗留）
+67	Memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 1 is unformatted.		跳过（PS2/Xbox 遗留）
+68	Memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 2 is unformatted.		跳过（PS2/Xbox 遗留）
+69	Please select MEMORY CARD slot.		跳过（PS2/Xbox 遗留）
+70	MEMORY CARD slot 1.		跳过（PS2/Xbox 遗留）
+71	MEMORY CARD slot 2.		跳过（PS2/Xbox 遗留）
+72	Checking memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 1. Do not remove memory \ncard (8MB) (for PlayStation®2), controller, \nor reset/switch off the console.		跳过（PS2/Xbox 遗留）
+73	Checking memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 2. Do not remove memory card (8MB) \n(for PlayStation®2), controller, or reset/switch off the \nconsole.		跳过（PS2/Xbox 遗留）
+74	Memory card (8MB) (for PlayStation®2) error!\nPlease check memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 1 and try again.		跳过（PS2/Xbox 遗留）
+75	Memory card (8MB) (for PlayStation®2) error!\nPlease check memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 2 and try again.		跳过（PS2/Xbox 遗留）
+76	Loading data.\nDo not remove memory card (8MB) (for\nPlayStation®2), controller, or reset/switch off\nthe console.		跳过（PS2/Xbox 遗留）
+77	Load failed!\nCheck memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 1 and please try again.		跳过（PS2/Xbox 遗留）
+78	Load failed!\nCheck memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 2 and please try again.		跳过（PS2/Xbox 遗留）
+79	Load Successful.		跳过（PS2/Xbox 遗留）
+80	Load Game?		跳过（PS2/Xbox 遗留）
+81	Memory card (8MB) (for PlayStation®2) in\nMEMORY CARD slot 1 is unformatted.\nFormat memory card (8MB) (for PlayStation®2)?		跳过（PS2/Xbox 遗留）
+82	Memory card (8MB) (for PlayStation®2) in\nMEMORY CARD slot 2 is unformatted.\nFormat memory card (8MB) (for PlayStation®2)?		跳过（PS2/Xbox 遗留）
+83	Formatting memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 1. Do not remove memory \ncard (8MB) (for PlayStation®2), controller, \nor reset/switch off console.		跳过（PS2/Xbox 遗留）
+84	Formatting memory card (8MB) (for PlayStation®2) in \nMEMORY CARD slot 2. Do not remove memory card \n(8MB) (for PlayStation®2), controller, or reset/switch \noff console.		跳过（PS2/Xbox 遗留）
+85	Format Successful.		跳过（PS2/Xbox 遗留）
+86	Format failed!\nPlease check memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 1 and try again.		跳过（PS2/Xbox 遗留）
+87	Format failed!\nPlease check memory card (8MB) (for PlayStation®2) \nin MEMORY CARD slot 2 and try again.		跳过（PS2/Xbox 遗留）
+88	Insufficient free space on memory card (8MB) (for \nPlayStation®2) in MEMORY CARD slot 1. \nOBSCURE requires 281KB of free space to save data.		跳过（PS2/Xbox 遗留）
+89	Insufficient free space on memory card (8MB) (for \nPlayStation®2) in MEMORY CARD slot 2. \nOBSCURE requires 281KB of free space to save data.		跳过（PS2/Xbox 遗留）
+90	Saving data. Do not remove memory card (8MB) \n(for PlayStation®2), controller, or reset/switch off \nthe console.		跳过（PS2/Xbox 遗留）
+91	Save failed!\nCheck memory card (8MB) (for PlayStation®2)\nin MEMORY CARD slot 1 and please try again.		跳过（PS2/Xbox 遗留）
+92	Save failed!\nCheck memory card (8MB) (for PlayStation®2)\nin MEMORY CARD slot 2 and please try again.		跳过（PS2/Xbox 遗留）
+93	Save successful.		跳过（PS2/Xbox 遗留）
+94	Save game?		跳过（PS2/Xbox 遗留）
+95	Are you sure you wish to overwrite this \nsave file?		跳过（PS2/Xbox 遗留）
+96	Overwriting data.\nDo not remove memory card (8MB) \n(for PlayStation®2), controller, or\nreset/switch off console.		跳过（PS2/Xbox 遗留）
+97	Overwrite Successful.		跳过（PS2/Xbox 遗留）
+98	Overwrite failed!\nPlease check memory card (8MB) (for PlayStation®2)\nin MEMORY CARD slot 1 and try again.		跳过（PS2/Xbox 遗留）
+99	Overwrite failed!\nPlease check memory card (8MB) (for PlayStation®2)\nin MEMORY CARD slot 2 and try again.		跳过（PS2/Xbox 遗留）
+100	À Help	À 帮助	已翻译
+101	Ã   Displays the main menu\nÂ   Return to the gathering point\nÎ    Upper floor\nÞ    Lower floor\n÷    Previous tab\nÆ    Next tab\nÐ    Quit	Ã 显示主菜单\nÂ 返回集合点\nÎ 上一层\nÞ 下一层\n÷ 上一个标签\nÆ 下一个标签\nÐ 退出	已翻译
+102	Ã    Displays the menu for the building selected\nÂ     Return to the gathering point\n÷     Previous tab\nÆ     Next tab\nÀ     Help\nÐ     Quit	Ã 显示所选建筑的菜单\nÂ 返回集合点\n÷ 上一个标签\nÆ 下一个标签\nÀ 帮助\nÐ 退出	已翻译
+103	Gathering Â	集合点 Â	已翻译
+104	Return to the gathering point ?\nÃ Confirm\nÐ Cancel	返回集合点？\nÃ 确定\nÐ 取消	已翻译
+105	Ð Quit	Ð 退出	已翻译
+106	Your Xbox doesn't have enough free blocks to\nsave games. You need to free \n		跳过（PS2/Xbox 遗留）
+107	Saving OBSCURE.\nPlease don't turn off your Xbox console.		跳过（PS2/Xbox 遗留）
+108	Unable to load saved game. \nPress Ã  to continue. 		跳过（PS2/Xbox 遗留）
+109	Unable to save OBSCURE.\nPress Ã to continue.		跳过（PS2/Xbox 遗留）
+110	Loading OBSCURE. \nPlease do not switch off your Xbox console.\n		跳过（PS2/Xbox 遗留）
+111	You have exceeded the maximum number\nof saves for OBSCURE.		跳过（PS2/Xbox 遗留）
+112	Some saved games are damaged or missing.\nRestore those files?\n		跳过（PS2/Xbox 遗留）
+113	Restoring OBSCURE.\nPlease do not switch off your Xbox console.\n		跳过（PS2/Xbox 遗留）
+114	Restore Successful.		跳过（PS2/Xbox 遗留）
+115	Your Xbox doesn't have enough free blocks\n to save games.\nPress Ã to continue.		跳过（PS2/Xbox 遗留）
+116	 more block(s).\nPress Ã to continue without saving or Ð to \nfree more blocks.		跳过（PS2/Xbox 遗留）
+117	All unsaved progress will be lost. \nAre you sure you want to load \nOBSCURE save game?	所有未保存的进度都会丢失。\n确定要读取 OBSCURE 存档吗？	已翻译
+118	This save game is damaged. \nOverwrite this save game?\n	这个存档已损坏。\n是否覆盖这个存档？	已翻译
+119	Overwrite this saved game?\nThe previous saved game will be lost.	覆盖这个存档？\n之前的存档将会丢失。	已翻译
+120	No OBSCURE data present.	没有 OBSCURE 数据。	已翻译
+121	Saving.	保存中。	已翻译
+122	Move Up 	向上移动	已翻译
+123	Move Down 	向下移动	已翻译
+124	Move Right 	向右移动	已翻译
+125	Move Left 	向左移动	已翻译
+126	Walk	行走	已翻译
+127	Action 	动作	已翻译
+128	Change target	切换目标	已翻译
+129	Change player	切换角色	已翻译
+130	Special Aptitude	特殊能力	已翻译
+131	Lock	锁定	已翻译
+132	Light boost	强光	已翻译
+133	Documents	文件	已翻译
+134	Pause / Undo 	暂停 / 撤销	已翻译
+135	Directional arrow - Up	方向键 - 上	已翻译
+136	Directional arrow - Down	方向键 - 下	已翻译
+137	Directional arrow - Right	方向键 - 右	已翻译
+138	Directional arrow - Left	方向键 - 左	已翻译
+139	Help me!	救命！	已翻译
+140	Next Weapon	下一把武器	已翻译
+141	Follow me!	跟我来！	已翻译
+142	Stay here!	待在这里！	已翻译
+143	Item Menu	物品菜单	已翻译
+144	Weapon Menu	武器菜单	已翻译
+145	Up	上	已翻译
+146	Down	下	已翻译
+147	Right	右	已翻译
+148	Left	左	已翻译
+149	Validate	确认	已翻译
+150	Undo	撤销	已翻译
+151	Reload	换弹	已翻译
+152	A flashlight in good working order. \nIt might be useful.	一把状态良好的手电筒。\n应该能派上用场。	已翻译
+153	Low-powered flashlight.	低电量手电筒。	已翻译
+154	A baseball bat.\nI can break things with that...	一根棒球棍。\n我可以用它砸东西...	已翻译
+155	Bat	棒球棍	已翻译
+156	An old pistol. \nThe magazine has 15 9mm bullets.	一把旧手枪。\n弹匣里有 15 发 9mm 子弹。	已翻译
+157	Old pistol	旧手枪	已翻译
+158	A laser.	一把激光枪。	已翻译
+159	Laser	激光枪	已翻译
+160	A flare gun.	一把信号枪。	已翻译
+161	Flare gun	信号枪	已翻译
+162	A semi-automatic pump-action shotgun \nthat can hold 7 cartridges.	一把半自动泵动式霰弹枪，\n可装 7 发弹药。	已翻译
+163	Pump-action shotgun	泵动式霰弹枪	已翻译
+164	A light grenade.	一颗光弹。	已翻译
+165	Light grenade	光弹	已翻译
+166	A metal bar.	一根金属棒。	已翻译
+167	Metal bar	金属棒	已翻译
+168	A flare.	一枚信号弹。	已翻译
+169	Flare	信号弹	已翻译
+170	A rechargeable battery.	一块充电电池。	已翻译
+171	Rechargeable battery	充电电池	已翻译
+172	A battery.	一节电池。	已翻译
+173	Battery	电池	已翻译
+174	Ammunition for the pump-action shotgun.	泵动式霰弹枪的弹药。	已翻译
+175	Pump-action shotgun ammunition	泵动式霰弹枪弹药	已翻译
+176	Ammunition for a pistol.	手枪的弹药。	已翻译
+177	Pistol ammunition.	手枪弹药	已翻译
+178	A statuette.	一尊小雕像。	已翻译
+179	Statuette	小雕像	已翻译
+180	A broken statuette.	一尊破损的小雕像。	已翻译
+181	A praying statuette.	一尊祈祷的小雕像。	已翻译
+182	A statuette with its arms out, like a cross.	一尊张开双臂呈十字状的小雕像。	已翻译
+183	A statuette with its hands behind its back.	一尊双手背在身后的小雕像。	已翻译
+184	A box.\n It's very heavy!	一个箱子。\n它非常重！	已翻译
+185	Heavy box 	沉重的箱子	已翻译
+186	A mirror.	一面镜子。	已翻译
+187	Mirror	镜子	已翻译
+188	A bar with a hook.	一根带钩子的铁棍。	已翻译
+189	Bar with a hook	带钩铁棍	已翻译
+190	A box of fuses.	一盒保险丝。	已翻译
+191	Box of fuses	保险丝盒	已翻译
+192	A mallet.	一把木槌。	已翻译
+193	Mallet	木槌	已翻译
+194	A wooden wedge.	一个木楔。	已翻译
+195	Wooden wedge	木楔	已翻译
+196	I took a paper cup.	我拿了一个纸杯。	已翻译
+197	Paper cup	纸杯	已翻译
+198	Cup full of acid.	装满酸的杯子。	已翻译
+199	Cup holed by the acid.	被酸腐蚀穿洞的杯子。	已翻译
+200	That looks like the needle of a compass.	那看起来像指南针的指针。	已翻译
+201	Compass needle		待翻译
+202	A screwdriver.		待翻译
+203	Screwdriver		待翻译
+204	A reel of film.\nIt says "Archive 23". 		待翻译
+205	Reel of film 23		待翻译
+206	A reel of film.\nIt says "Archive 24".		待翻译
+207	Reel of film 24		待翻译
+208	A photograph.		待翻译
+209	Photo		待翻译
+210	A handwritten document.		待翻译
+211	Document		待翻译
+212	A map.		待翻译
+213	Map		待翻译
+214	A scrap of paper.\nWritten on it: Latitude: 0° - Longitude: 345°.		待翻译
+215	Scrap of paper		待翻译
+216	A key.		待翻译
+217	Key		待翻译
+218	A Disc, lets you save when you wish.		待翻译
+219	Disc lets you save when you wish.		待翻译
+220	I found a first-aid kit.		待翻译
+221	First-aid kit		待翻译
+222	It's sticky tape.		待翻译
+223	Sticky tape		待翻译
+224	Pliers.		待翻译
+225	Pliers		待翻译
+226	A charger.		待翻译
+227	Charger		待翻译
+228	The nurse blocked the door with this wheel. \nStrange idea! It's like the one in the filing \nroom in the administration building. 		待翻译
+229	Wheel.\nIt looks like the ones in the filing room\nin the administration building.		待翻译
+230	The amphitheater key.		待翻译
+231	Amphitheater key.		待翻译
+232	The amphitheater is open now.		待翻译
+233	A rusty key. \nIt should probably open an old door.		待翻译
+234	Rusted key		待翻译
+235	Key to the teachers' room.		待翻译
+236	Key to the teachers' room		待翻译
+237	It's the key to the library building. \n(Ground Floor).		待翻译
+238	The key to the library building.\n(Ground Floor)		待翻译
+239	Library key		待翻译
+240	Library key		待翻译
+241	I need a key to get into the library.		待翻译
+242	The dining hall key (Ground Floor).		待翻译
+243	Dining hall key (Ground Floor)		待翻译
+244	It's a videocassette. \nThe label reads: "subject 37 part 1"		待翻译
+245	Videocassette, "subject 37" 		待翻译
+246	This wooden plank seems solid.		待翻译
+247	Wooden plank		待翻译
+248	It's an old photo. There are two people in it \nbut the image has deteriorated so much \nthat their faces are not recognizable.\n In any case, they are not very fashionable. 		待翻译
+249	Was it lying in the bin or what?!\nThis photo was taken on a boat.\nI think it is approaching an island, \nor something like that.		待翻译
+250	A photo like one taken in the last century.\nIt shows a young couple with the woman \nseeming to be pregnant (otherwise, poor girl...)\nCome to that ... this face ...		待翻译
+251	A plant maybe, or a tree? I've never seen \nanything like it! I think that it is arranged \nover him... to avoid the light.		待翻译
+252	Cool, I found our class report!		待翻译
+253	It's a map of the ground floor of building A.		待翻译
+254	It's a map of the 1st floor of building A.		待翻译
+255	A scrap of paper. The text was covered up.\nI need a light source to read it...		待翻译
+256	Scrap of paper.		待翻译
+257			跳过
+258	No weapon		待翻译
+259	Contact weapon		待翻译
+260	Revolver		待翻译
+261	Pump-action shotgun		待翻译
+262	Flashlight		待翻译
+263	Laser		待翻译
+264	Grenade		待翻译
+265	My cell phone		待翻译
+266	Possibly a kind of lever ...		待翻译
+267	Lever		待翻译
+268	It doesn't work.		待翻译
+269	I can't use that there.		待翻译
+270	I must try something else...		待翻译
+271	That is no use here.		待翻译
+272	That won't get me anywhere.		待翻译
+273	I broke the padlock.		待翻译
+274	An old manuscript.		待翻译
+275	Last night's surveillance videocassette.		待翻译
+276	Surveillance videocassette		待翻译
+277	Possibly a map of the basement...		待翻译
+278			跳过
+279	The key to the secret library office.		待翻译
+280	The key to the secret library office.		待翻译
+281	A reel of wire.		待翻译
+282	Reel of wire. \n Hold down Ã to force a lock		待翻译
+283	An Energy drink. \nThat will help me recover a little.		待翻译
+284	Energy drink		待翻译
+285	An automatic pistol with 10 bullets.		待翻译
+286	An automatic pistol		待翻译
+287	A powerful revolver with 6 shots.		待翻译
+288	A powerful revolver		待翻译
+289	A pump-action shotgun, with 2 cartridges.		待翻译
+290	A pump-action shotgun		待翻译
+291	A good-quality flashlight.\nIt will help me see better in the darkness.		待翻译
+292	Good-Quality flashlight.		待翻译
+293	A very powerful flashlight.\nThe boost can be used for a good while.		待翻译
+294	Very powerful flashlight.		待翻译
+295	An aluminum baseball bat.		待翻译
+296	Aluminum bat		待翻译
+297	A gun with a light taped to it.		待翻译
+298	Gun with a light		待翻译
+299	A key. I don't know what it opens.		待翻译
+300	A key. I don't know what it opens.		待翻译
+301	Morgenstern bat		待翻译
+302	Laser gun		待翻译
+303	Issued by: Cabinet MAC SCHMIND\n\n\nOfficial works acceptance Document\n\nProject No. 503\nBuilding receiving the public\nPrivate high school\n\nFINANCIERS: \n                   Mr. Leonard FRIEDMAN\n                   Mr. Herbert FRIEDMAN\n\nPRIME CONTRACTOR: MAC SCHMIND Associates\nARCHITECT: Richard MAC SCHMIND\n\n\nDate of acceptance of the works: October 1899\nDate works commenced: January 1902\nDescription of the service: \n\nFunction: \nHigh school, \n\nSet of a number of buildings consisting of: \na main building with classrooms \nand administrative rooms, a library, a gymnasium, \na dormitory, a double dining hall, a theater, \na sick bay and different practical work rooms. 		待翻译
+304	January 18, 1903\nLeonard seems to have handled the treatment \nreasonably well. No special symptoms.\n\nMarch 24, 1903\nAfter a few days his skin is covered with melanoma.\nThe tumors are not metastasizing very much, but \ntheir large number is causing a worsening in his \ngeneral condition.\n\nMarch 30, 1903\nThe hypersensitivity of the skin to UV radiation and \nthe first lesions resulting from this are similar to \nXeroderma Pigmentosum, an inherited illness. This \nillness is due to a mutation of the gene that protects \nagainst skin cancers. But, in theory, this illness is \nhereditary. \n\nApril 18, 1903\nHenceforth, Leonard will protect himself from the \nsun, but the damage is done. The light rays have \ncaused an acute reaction in the Mortifilia gene inserted \ninto his system. We did not foresee this, because our \nprevious guinea pigs remained in their cages. At present \nthe entire surface of Leonard's skin is suffering profound \nmutations.\n\nMay 25, 1903\nThe mutations appear to have slowed down. They are,\nhowever, spectacular, and I ask myself how he can\nsurvive in this condition. The wounds have transformed\ninto scabs that look as though they will remain, like the\nbark of a tree. The damage to his skeleton and his\nmetabolism appear irreversible. His temporal lobes and\nhis upper members are the most affected parts. \n\nJune 30, 1904\nHis condition has stabilized. His mental condition\nconcerns me as much as the appearance he has taken on,\nif human appearance can still be spoken of in his case.\nThe only hope to cure him now is to have new guinea\npigs who have suffered in the same way, in order to test a\ntherapy aimed at eradicating the gene and returning the\nsubject to his initial condition.\n\nSeptember 24, 1926\nThis research is very long. I will not live long enough to\nachieve my goal. Unless I inject myself with the treatment\nand remain in the shadows until the serum is discovered.		待翻译
+305	Dear Leonard and Herbert,\n\nI am writing to you as your friend.  I have just \ncome out of the Seattle conference where your \nbook "Eternal life is possible" had an explosive \neffect.\n\nYour discoveries totally contradict the theories of \nDr. Leon Korsenberg and I expect an unfavorable \nreaction from the council.  You have virulent \ndetractors who fear that your research is immoral \nand casts a slur on the entire scientific community.\n\nI have analyzed the file. Your theory certainly \ngoes against the first law of medical ethics. You \nunderstand that without the support of a \nreputation, it will have no other destiny than \nsinking into oblivion. And, sadly, I do not have \nsufficient weight to prevent that.\n\nYou may find salvation outside the scientific \ncommunity, you know. I fear that sanctions may \neven be taken against you and I cannot advise you \nstrongly enough to locate your work in a safe place.\n\n\nI remain, my dear friends, yours sincerely,\n\nYour loyal friend, Walt Kerridan.		待翻译
+306	The Mortifilia comes in the form of ciphers. \n\nClassification appears difficult. This endemic \nplant allows microscopic buds to appear, which do \nnot appear destined to form a new plant but to \npossibly generate other leaves \n(For closer examination). \nThe parasites and the spider-like appearance explain \nits capacity to propagate in an excessive manner.  \nHypothesis verified by the presence of an oversized \nsucker ensuring proliferation.\n\nDetailed examination of the buds: the bud shows \na stupefying germinative power. Hundreds of lines \nat the neck confirm that the species has phenomenal \nlongevity. \n\nCutting the xylems: the ducts are completely dry, \nno trace of humidity. How are these chlorophyll cells \nirrigated? \n\nThe black substance released comes from glands \nlocated on the root; it is poisonous to its biological \nenvironment.  \n\nDuring a darkness - light - darkness sequence, \nvariations in dioxygen concentration are observed, \nwhether DCPIP is present or not. The plant is \nparticularly sensitive to exposure: it fears the light! \nThis plant transgresses the rules of phytology. \n\nMolecular analyses show genetic associations \nthat enable the Mortifilia to be defined as a \nnon-recombinant isolat at the genetic level; \nthis means that it does not have a sexual process \nfor exchanging genetic material, but a parasexual \none. I attempted an experiment during which a \ntransient diploid node was formed. In this node, \nmitotic cross-over was produced at low frequency. \nThe diploid node then self-haploided through the \nloss of chromosomes Using this system, two distinct \nspecies could exchange genetic material.  \n\nConclusion:\n\nIt is certain that the Mortifilia possesses abnormal \nproperties.  Notwithstanding its incredible \nlongevity, the plant is particularly receptive to \ncrossbreeding. Research must be continued and \nthe genotype of these cells must be examined \nin detail.\n		待翻译
+307	Subject 22 - February 17\n\nAge: 17 years \n\nRhesus: O negative \n\t\nPreparation for test No. 1735:\n   Preparation in sterile conditions, for 50 hours at 37°C,\n   of 7.2 mg/ml of XGM and 100 mM of methylglioxak \n   prepared in a swab of phosphate 100 mM pH 7.8.  \n\nExposure time to UV after injection of the agent:  \n   72 hours\n\nWaiting time before injection of the treatment: \n   20 days\n\nPathology level: \n   Level 3 (metastatic)\n\n\nReaction to the treatment :\n   day 1: \n      General condition: stable pathology\n      Temperature: 33°C\n\n   day 2: \n      General condition: unstable pathology\n      Temperature: 38°C\n\n\n   day 3: \n      General condition: numerous hemorrhages\n      Temperature: 43°C\n\t\t\nFAILURE: death of subject.\n\nCONCLUSION: \nIn man, the apoptosis of pericytes induced by the \nXGM is governed by the inducement of an oxidizing \nstress. This stress must be controlled.\n		待翻译
+308	It's revolting! But what happened to \nthis poor person?		待翻译
+309	Strange disappearance\n\nThe Leafmore high school is, once again, at the \nheart of the controversy. In effect, Greg Anderson, \na second-year student, disappeared on Monday \nnight. It was after classes that his friends in the \ndormitory notified his absence. He had gone to the \nsick bay after feeling unwell and it was there that he \nwas seen for the last time.\n\nAnother student disappears! \nThe list of disappearances from Leafmore \nhas got even longer,with a new victim, Tom Maheust. \nThe police have no real clues at this date and a lot of \nparents have decided to change their children from the \nschool. In 5 years, no less than twelve students and no \ntrace has been found.\n\nThe Leafmore affair: the police react\nNew measures have been taken by the police in the \n"Leafmore disappearances" affair. After the \ndisappearance of a sixteenth student, Richard Craig, \nlast Thursday. \n\nControversy at Leafmore\n"But what are the police doing? When will they order \nthe closing of this school?" said Mr. Flynt when coming \nout of police headquarters, after the disappearance of \nhis son, Harry.\nThe answer was not long coming. The principal of the \nestablishment, Mr. Friedman, came this morning to \nmeet journalists:  "It seems that the furious lunatic \nwreaking havoc on our premises is only interested \nin the students staying in the dormitory. We have, \ntherefore, by agreement with the forces of law and \norder, closed access until order returns.\n\nClosure of the Leafmore dormitory\nThree years after the last disappearances at \nLeafmore, none of which have been solved, Herbert \nFriedman, principal of the high school, officially \nannounced that everything was back to normal. \n"Although the perpetrator of these crimes is still loose, \nIt seems that the closing of the dormitory calmed the \nardor of the mental patient responsible for these \ndisappearances".		待翻译
+310	These photos were taken when the school \nwas being built. There are basements \neverywhere under us!		待翻译
+311	Newspaper cuttings referring to \nthe disappearances.		待翻译
+312	If you are reading this letter, you have probably been, \nas I was, locked up by Herbert Friedman. \n\nI can't get out but you might be luckier than me. \nI am afraid I will soon be used as a guinea pig, like \nall the other students... \n\nIf you do get out, I have put together, in a safe \nhidden in the dormitory, all the proof necessary \nto bring down Friedman. Find the...		待翻译
+313	Post-treatment mutations.\n\nType 1: Generalized melanomic attack\nProlonged exposure to UV creates micro-cancers \nin every individual, combated by the cells using \nspecific proteins. The treatment stops the creation \nof these proteins. The subject therefore develops \nnumerous skin cancers. These cancers revive the \ninert mutagenous properties of the treatment. The \ncancer becomes general and often gives rise to \ntype 2, 3 and 4 mutations. \n\nType2: Polytrophy of the members \nVery frequent, this mutation causes hypertrophy \nin the subject or hypertrophy in one of its members. \nIt manifests itself in the over-development of the \narms, of only some phalanxes, the tongue, etc. \nThe hypertrophy is sometimes generalized and \ncauses wounds that are often gangrenous.\n\nType 3:  displacement of the central nervous system \nThe nervous system is relieved and then replaced by \na hybrid nervous system. The symptom is spectacular, \nas the head is neglected to benefit other organs. It is \noften lost by the subject after long days left without \nbloodflow.\n\nType 4: merging\nIn a non-sterile environment, the subject sometimes \ncomes into contact with foreign bodies. On occasion, \nthese bodies (fly, ameba) have merged with the \nsubject. The results are very variable. Sometimes \nvery little of the original individual can be recognized.		待翻译
+314	My dear Herbert,\n\nI am writing to you in secret. \n\nLeonard would leave me if he knew I was \nmeddling in his work. \n\nYou are his twin brother and sometimes \nit seems to me that you understand him better \nthan I. That is why I would like \nyou to speak to him. \n\nWe quarreled last night. \n\nHe is completely obsessed with his research \nand I fear he will go too far. \n\nHe wants to attempt the experiment on himself, \nI am certain. You know him, he is capable of it. \nThat would be foolish, the subjects treated are \nonly stable after three weeks.  \nThere may be secondary effects \nthat appear much later.  \n\nPlease, try to reason with him. \n\n\tYours, \n\n\t\t\t Elisabeth.		待翻译
+315	Elisabeth, \n\nYou were not there, so I am leaving you \nthis message. I hope it will be sufficiently clear. \n\nThis morning I surprised Mr. W. coming out of \nthe amphitheater. I suspect it was \nhe who left the lock chamber open last night.\n\nThat idiot is putting everybody in danger. You \nknow that the current instability means that we \ncannot take the least risk. We must do \nsomething.\n\nTry to engage him in conversation \ntoday, you may be able to learn more.\n\n\n\t\t\tHerbert.		待翻译
+316	\n\nAn advert for the beauty club.		待翻译
+317	The basketball game schedule.		待翻译
+318	An advert against the use of drugs.		待翻译
+319	This guy looks really like our principal, \nbut younger.  But why two photos, is \nhe a megalomaniac or what?		待翻译
+320	It's our principal when he was young, in double... \nI didn't know he had a twin brother!		待翻译
+321	For the attention of teachers and supervisors\nSubject: persistent noise within the school.\n\nLadies, Gentlemen, \n\n\nFor a number of weeks now, you have \nregularly drawn my attention to abnormal noises \ndisturbing the normal running of classes. \n\nA number of causes have been suggested by \ndifferent people, and after checking with the \nmanager of the city roads department, they \nrelate to repairs being performed to the subway \nline passing by our school. \n\nThe Mayor therefore wishes to \noffer his apologies for the disruption \ncaused. Everything should be back to normal \nwithin three months. \n\nI would therefore strongly encourage the teaching \nteam not to allow the spreading of false rumors \nabout the source of these noises.\n\n\n                                The principal  H. Friedman		待翻译
+322	The vegetation is really very strange, particularly \nthe trees. Two more porters have disappeared and \nwe have discovered a slashed corpse. The natives are \nfrightened and want to leave the island. Yet, I think \nwe are reaching our goal. \n\nThe flora is evolving in parallel with our progress, \nwhich is difficult, both physically and morally. \nBizarrely, the fauna is becoming rarified, the \natmosphere leaden, the silence heavy.\n\nThe specimens found here and the geology show \nthat this island was cut off from the world and has \nfollowed a parallel ecological development for three \nthousand years.\n\nBut this period of time would not be sufficient to \ncause such brutal changes. That would need millions \nof years. Something has accelerated the evolution of \nthe species and this ecosystem. I want to find out \nwhat it was.\n\nWe have a trail: black putrefying matter, which \nappears overnight on the vegetation, appears to be \nmore and more prevalent as we progress northwards. \n\nTraces indicate that this may come from a tubercular \nplant. Tomorrow, we must reach the volcanic peak. \nThe soil is light in this part of the island, which should \nfacilitate our analyses of the sub-soil.\n\n\nLeonard Friedman,\nTravel journal,\nJune 21 1895		待翻译
+323	A commemorative plaque for a \nscientific expedition. \nYou can see the coordinates on it.		待翻译
+324	Destiny strikes the \nFriedman family again.\n\nThe community is in mourning at the death of \nLeonard FRIEDMAN.  More than a citizen, the city \nhas lost a brilliant, conscientious and dynamic \nresearcher. Leonard worked to advance the work \nof the brotherhood, not recoiling from any obstacle. \n\nThe scientific community, despite its differences with \nthe duo, admitted that  "He was among those who \ncould have helped us advance in giant steps".\n\nAs all the events surrounding this unusual family, the \ndeath of Leonard Friedman remains enigmatic. \n\nAlthough a good pilot, Leonard lost control of his \ncraft before crashing into the sea. His twin brother \nHerbert, the only escapee from this terrible accident, \nwas rescued from the open sea off Long Island.		待翻译
+325	Reminder of the instructions on the use of drugs. \n\nIssued by: Herbert Friedman\nNote for the attention of teachers, supervisors \nand students.\n\nSubject: reminder about the school regulations\n\n\nLadies, Gentlemen,\n\nI am issuing the following reminder: The consumption \nand,even more so, the sale of all energizing \nsubstances (energy drinks, caffeine powder or drugs) \nare formally prohibited within the establishment. \n\nAny contravention of this rule will be severely punished \nand this will result in expulsion from the school.\n\nI encourage teachers and supervisors to concentrate \ntheir attention on this issue and to inform me of any \nsituation they consider suspicious.		待翻译
+326	Note from the Ministry of Health\n\n\t\t\tPlease note: \n\nThe result of the free sale of "energy drinks" is an \nacceleration in nerve exchanges between the brain \nand the muscles and an increase in intellectual \nperformance.  \n\nBe aware: \n\nThat the absorption  of "energy drinks" \ncauses addiction in the majority of consumers. \n\nThat this product also causes serious headaches \nand intestinal pains in vulnerable persons. \n\nFor these reasons, we order that the sale and \nconsumption of "energy drinks" are prohibited in \nall school establishments, effective today.\nAny contravention will be punished by the law \nin effect, on the same basis as for\ndrugs traffickers.		待翻译
+327	Graffiti... an art in itself.		待翻译
+328	Stan's school record. Not brilliant.		待翻译
+329	The "Teachers'" magazine		待翻译
+330	School Newspaper\nShannon Matthews carried the LEAFMORE colours high.\nShe won the final of the "Champion Genius" broadcast.		待翻译
+331	This graffiti are about disappearances		待翻译
+332	Whoever put up this poster thinks we were \ninvaded by extra-terrestrials.\nAnother paranoiac.		待翻译
+333	For the attention of teachers, supervisors \nand students. \n\nSubject: Warning! The presence of a dangerous animal. \n\nLadies, Gentlemen, \n\nThe authorities have notified me about a savage\nanimal that has escaped from a circus in the area.\nThis animal was last seen approximately one mile\nfrom the school. \n\nBut in view of the suspected direction, it may \nalready be inside the school grounds. \n\nThis animal is very sensitive to light and goes \nunderground during the day and comes out at night. \n\nThe night classes are therefore cancelled until \nthe situation returns to normal. \n\nConsequently, everybody is prohibited from \nwalking in the school grounds after nightfall. \n\nAnything suspicious should be reported to me \nas soon as possible.  \n\n\nThe principal, H. Friedman\n		待翻译
+334	There are messages in the answering machine		待翻译
+335	A teacher forgot his notebook.		待翻译
+336	...\nTheoretically, part of the code of a cell can be \ninhibited by a receptor. A truncated form of the \nreceptor can be overestimated. Could part of the \ncode of a cell from another type be inserted" into \nthe code?  \n\nA transgene between the promoter and the extra-\ncellular part of the promoter could then allow the \ncreation, in series, of proteins foreign to the cell, \nwithout radically changing the code. This transgene \ncould therefore improve the genome while keeping \nthe initial organism alive.\n\nOf course, to perform this kind of manipulation, \nappropriate equipment would be required. \nMiniaturization will soon allow the creation of the \nmicro-pipettes and cellular microscopes that are \nessential for this type of work.\n\nIn the margins of this theory, our research in \nslowing down the M phase is bearing fruit. We will \nsoon enter the cell, at the most sensitive stage of its \nlife: mitosis.\n\nAt that stage, our adventure will really begin. \n(...)"\n\nThe Theory of Transgenetics\nHerbert Friedman - 1891\n		待翻译
+337	Possibly a map of the basement...		待翻译
+338	\n\nA commemorative plaque\nfor a scientific expedition.\nYou can see the coordinates on it.\nLongitude 330° - Latitude 20°.\n\n		待翻译
+339	OFFICE OF TECHNOLOGY OF THE CONGRESS \nDear Sirs,\n\n  Following the conference in Seattle, where \nyour publications and particularly your work entitled \n"Eternal life is possible" were the subject of much \ndiscussion, the experts examined your research...\n  As it was generally accepted that the use of your \nknowledge cannot be controlled, nor can the \necological, social and ethical consequences of your \ndiscoveries in the field of life be measured, we had to \nreach a decision on the maintenance, or not, of the \nresearch budgets.\n\n  What safeguard can be imposed against the eugenic \ntemptation foreseen by your hypotheses? Sacrificing \nthe enrichment of breeding for the benefit of an \nartificial and very certainly contagious life cannot \nreceive our support.\n\n  The contribution of your work to the knowledge of \nindividual characteristics is one thing, but modifying \nthe transmission of these characteristics by such \ninhuman means is another.\n\n  As a consequence, the Office of Technology of \nCongress, in agreement with the international scientific \ncommission has issued a report ruling on your expulsion, \nfor life, from this community. We will be required to \nlegislate on the archiving or destruction of your \nresearch on cellular prolongation.\n\n  In conclusion, no assistance will be allocated to you; \nyour equipment and all your work will be confiscated \nand re-sold. Sworn State agents will arrive on \n8th October to seal up the premises.\n\n  As regards Leafmore High school, a commission \nwill decide on the necessity of closing it or not.\n\n  Cordially yours.		待翻译
+340	My school record! \n		待翻译
+341	Documents about the building of the school.		待翻译
+342	Leonard: development		待翻译
+343	Letter from Walt Kerridan		待翻译
+344	The Mortifilia		待翻译
+345	Development of subject 22		待翻译
+346	Photos of mutations		待翻译
+347	Censored newspaper		待翻译
+348	Photos of the basement		待翻译
+349	Newspaper articles		待翻译
+350	Prisoner's letter		待翻译
+351	Observed mutations		待翻译
+352	Letter from Wickson to Herbert		待翻译
+353	Letter from Friedman to Wickson		待翻译
+354			跳过
+355			跳过
+356			跳过
+357			跳过
+358	Photo of the twins		待翻译
+359			跳过
+360	Expedition documents		待翻译
+361	An old plan		待翻译
+362	Necrology		待翻译
+363			跳过
+364			跳过
+365			跳过
+366			跳过
+367			跳过
+368			跳过
+369			跳过
+370			跳过
+371			跳过
+372			跳过
+373			跳过
+374	Theory of genetic mixing		待翻译
+375	Plan of the basement		待翻译
+376	An old plan		待翻译
+377	Expulsion from the scientific community		待翻译
+378			跳过
+379	This door must be locked...		待翻译
+380	The door seems to be locked.		待翻译
+381	It's locked...		待翻译
+382	I'm sure there are still things to see here...		待翻译
+383	Nothing else to collect here.		待翻译
+384	Closed! But the lock seems fragile...		待翻译
+385	Cool! I managed to force the lock!		待翻译
+386	Nothing more interesting inside...		待翻译
+387	À		跳过
+388	Poor thing, he didn't deserve that...		待翻译
+389	Poor thing, she didn't deserve that...		待翻译
+390	I took all the weapons.		待翻译
+391	Attack		待翻译
+392	Defend yourself		待翻译
+393	Follow me	跟我来	已有译文
+394	Stay here		待翻译
+395	Configuration	设置	已有译文
+396	Help me		待翻译
+397	You can look after yourself		待翻译
+398	You can't look after yourself		待翻译
+399	Choose your weapon		待翻译
+400	Use the weapon I selected for you		待翻译
+401	Player 2 joins the game.\n\nDo you want player 2\nto take control of your teammate?\n\nÃ Confirm\nÐ Cancel		待翻译
+402	No teammate available at the \nmoment. \n\nÐ Cancel		待翻译
+403	Lets stay together!		待翻译
+404	Player 2 quits the party\n\nÃ Confirm\nÐ Cancel		待翻译
+405	Reload	装弹	已有译文
+406	Use		待翻译
+407	Save	保存	已有译文
+408	Give		待翻译
+409	Examine		待翻译
+410	Tape the lamp to the ...		待翻译
+411	Look after Stan		待翻译
+412	Look after Josh		待翻译
+413	Look after Kenny		待翻译
+414	Remove 		待翻译
+415	Look after Ashley		待翻译
+416	Look after Shannon		待翻译
+417	Unload		待翻译
+418	Give all		待翻译
+419	I need tape. 		待翻译
+420	I removed the light.		待翻译
+421	0		跳过
+422	1		跳过
+423	2		跳过
+424	3		跳过
+425	4		跳过
+426	5		跳过
+427	6		跳过
+428	7		跳过
+429	8		跳过
+430	9		跳过
+431	Num 0		待翻译
+432	Num 1		待翻译
+433	Num 2		待翻译
+434	Num 3		待翻译
+435	Num 4		待翻译
+436	Num 5		待翻译
+437	Num 6		待翻译
+438	Num 7		待翻译
+439	Num 8		待翻译
+440	Num 9		待翻译
+441	F1		待翻译
+442	F2		待翻译
+443	F3		待翻译
+444	F4		待翻译
+445	F5		待翻译
+446	F6		待翻译
+447	F7		待翻译
+448	F8		待翻译
+449	F9		待翻译
+450	F10		待翻译
+451	F11		待翻译
+452	F12		待翻译
+453	NumLock		待翻译
+454	A		待翻译
+455	B		待翻译
+456	C		待翻译
+457	D		待翻译
+458	E		待翻译
+459	F		待翻译
+460	G		待翻译
+461	H		待翻译
+462	I		待翻译
+463	J		待翻译
+464	K		待翻译
+465	L		待翻译
+466	M		待翻译
+467	N		待翻译
+468	O		待翻译
+469	P		待翻译
+470	Q		待翻译
+471	R		待翻译
+472	S		待翻译
+473	T		待翻译
+474	U		待翻译
+475	V		待翻译
+476	W		待翻译
+477	X		待翻译
+478	Y		待翻译
+479	Z		待翻译
+480	Space		待翻译
+481	Right Shift		待翻译
+482	Left Shift		待翻译
+483	Right Ctrl		待翻译
+484	Left Ctrl		待翻译
+485	Right Windows		待翻译
+486	Left Windows		待翻译
+487	Right Alt		待翻译
+488	Left Alt		待翻译
+489	CapsLock		待翻译
+490	Tab		待翻译
+491	Application		待翻译
+492	Insert		待翻译
+493	Delete		待翻译
+494	End		待翻译
+495	Home		待翻译
+496	Page Up		待翻译
+497	Page Down		待翻译
+498	Up		待翻译
+499	Down		待翻译
+500	Left		待翻译
+501	Right		待翻译
+502	Enter		待翻译
+503	-		跳过
+504	.		跳过
+505	+		跳过
+506	/		跳过
+507	*		跳过
+508	Esc		待翻译
+509	Backspace		待翻译
+510	Num Enter		待翻译
+511	Joy. Axe X +		待翻译
+512	Joy. Axe X -		待翻译
+513	Joy. Axe Y +		待翻译
+514	Joy. Axe Y -		待翻译
+515	Joy. Axe Z +		待翻译
+516	Joy. Axe Z -		待翻译
+517	Joy. Tilt X +		待翻译
+518	Joy. Tilt X -		待翻译
+519	Joy. Tilt Y +		待翻译
+520	Joy. Tilt Y -		待翻译
+521	Joy. Tilt Z +		待翻译
+522	Joy. Tilt Z -		待翻译
+523	Button 01		待翻译
+524	Button 02		待翻译
+525	Button 03		待翻译
+526	Button 04		待翻译
+527	Button 05		待翻译
+528	Button 06		待翻译
+529	Button 07		待翻译
+530	Button 08		待翻译
+531	Button 09		待翻译
+532	Button 10		待翻译
+533	Button 11		待翻译
+534	Button 12		待翻译
+535	Button 13		待翻译
+536	Button 14		待翻译
+537	Button 15		待翻译
+538	Button 16		待翻译
+539	Kinematic M000: meeting in the central courtyard.		待翻译
+540	Kinematic D103: encounter with Friedman.		待翻译
+541	Kinematic B008: waiting in the cafeteria.		待翻译
+542	Kinematic B105: encounter with Stan.		待翻译
+543	Corridor		待翻译
+544	These closets are closed.		待翻译
+545	But the cops will tell my parents!		待翻译
+546	WITH		待翻译
+547	LOADING		待翻译
+548	The garden		待翻译
+549	The wood		待翻译
+550	The wood		待翻译
+551	The garden		待翻译
+552	This door is closed.		待翻译
+553	These products seem toxic.		待翻译
+554	It's too dark, I can't see anything.		待翻译
+555	The basement	地下室	已有译文
+556	It's too dark. I can't see anything here, \n maybe a set of shelves...		待翻译
+557	The marks on the ground show that\nthe barrels were moved.		待翻译
+558	These are ordinary bags of fertilizer.		待翻译
+559	This switch seems to be missing a lever.		待翻译
+560	This door is closed.		待翻译
+561	I can't see the bottom, it's too black.\nI won't go down without a flashlight.		待翻译
+562	Sticky tape, that might work.		待翻译
+563	The sticky tape can be used to join 2 \nweapons together. Press Ã to continue.		待翻译
+564	Cool, it looks like brand new.		待翻译
+565	A flashlight. \nTo increase its power, hold ÷ \n Be careful, it uses a lot of energy!		待翻译
+566	Use the right analog stick õ to direct\nthe flashlight beam.		待翻译
+567	Press R3 to concentrate/re-establish\nthe flashlight beam.		待翻译
+568	÷   lets you concentrate more light on a \ntarget. Be careful, it will run down the battery\nenergy faster.		待翻译
+569	I don't know what I might meet down there.\nI must find a weapon first...		待翻译
+570	Ah, just what I was looking for!		待翻译
+571	\x01To select the gun,\n\x03hold \x01Ç  \n and use the right analog stick Ê		待翻译
+572	\x01\x03Press and hold \x01Æ \n\x01to lock onto a target. 		待翻译
+573	\x01\x03Hold \x01Æ \n\x01 and press Ã \nto shoot the gun. 		待翻译
+574	You can change target using Ð\n\nDraw in the targets\nusing Æ   and Ð 		待翻译
+575	\x01Combine the weapon and the flashlight - Step 1\n\x03Hold \x01×\x03   down\n\x01+ 泾攀昀琀 愀渀愀氀漀最 猀琀椀挀欀 Ā쫾਀琀漀 猀攀氀攀挀琀 琀栀攀 猀琀椀挀欀礀 琀愀瀀攀		待翻译
+576	\x01Combine the weapon and the flashlight - Step 1\n\x03Hold \x01×\x03   down\n\x01+⃾搀椀爀攀挀琀椀漀渀愀氀 瀀愀搀Ā૾琀漀 猀攀氀攀挀琀 琀栀攀 猀琀椀挀欀礀 琀愀瀀攀		待翻译
+577	\x01Combine the weapon and the flashlight- Step 2\n\x03Hold \x01×\x03   down\x01 \n+ 烾爀攀猀猀 Ā쏾਀琀漀 愀挀琀椀瘀愀琀攀 琀栀攀 猀琀椀挀欀礀 琀愀瀀攀 洀攀渀甀		待翻译
+578	\x01Combine the weapon and the flashlight - Step 3\n\n\x03Hold \x01×\x03   down\x01 + Ǿ쏾਀琀漀 猀琀愀爀琀 琀栀攀 愀挀琀椀漀渀 ∀吀愀瀀攀 琀栀攀 氀愀洀瀀 琀漀∀		待翻译
+579	\x01Combine the weapon and the flashlight - Step 4\n\nUse the 狾椀最栀琀 愀渀愀氀漀最 猀琀椀挀欀 Ā쫾਀琀漀 猀攀氀攀挀琀 琀栀攀 眀攀愀瀀漀渀		待翻译
+580	\x01Combine the weapon and the flashlight - Step 4\n\nUse the 擾椀爀攀挀琀椀漀渀愀氀 瀀愀搀Ā૾琀漀 猀攀氀攀挀琀 琀栀攀 眀攀愀瀀漀渀		待翻译
+581	Combine the weapon and the flashlight - Step 5\n\nPress Ã\nto confirm the assembly		待翻译
+582	Use the right thumbstick Ê to direct\nthe flashlight beam.		待翻译
+583	\x01To select the gun,\n\x03hold \x01 Ç \nand use the directional pad.		待翻译
+584	\x01Combine the weapon and the flashlight- Step 2\n\n\x03Hold \x01×\x03 \x01+ \x01Ã\nto activate the sticky tape menu		待翻译
+585	\x01Combine the weapon and the flashlight - Step 3\n\n\x03Hold \x01×\x03 \x01+ Ǿ쏾਀琀漀 猀琀愀爀琀 琀栀攀 愀挀琀椀漀渀 ∀吀愀瀀攀 琀栀攀 氀愀洀瀀 琀漀∀		待翻译
+586	Combine the weapon and the flashlight - Step 5\n\nPress Ã\nto confirm the assembly		待翻译
+587	\x01To select the gun,\n\x03hold \x01Ç  \x03 down\x01\nand use the directional pad.		待翻译
+588	Use the directional arrows\nto direct the flashlight beam.		待翻译
+589	\x01To select the gun,\n\x03hold the\x01 Ç   \x03key down \x01\nand use ⃾琀栀攀 搀椀爀攀挀琀椀漀渀愀氀 愀爀爀漀眀猀⸀		待翻译
+590	Combine the weapon and the flashlight - Step 1\nHold the ×   key down\n+ directional arrows\nto select the sticky tape.		待翻译
+591	Combine the weapon and the flashlight - Step 4\n\nUse the directional arrows\nto select the weapon.		待翻译
+592	Something is missing from the mechanism.		待翻译
+593	To combine the flashlight with a weapon:\npress ×  and then select the sticky \ntape using the directional buttons þ. \nPress Ã  and confirm the action \n"Tape the lamp to" with Ã.		待翻译
+594	Select the revolver using the directional \nbuttons þ and confirm with Ã. 		待翻译
+595	Hall		待翻译
+596	The school is closed, can't get out...		待翻译
+597	Our school will hammer those useless \nTigers in the basketball game on Saturday!		待翻译
+598	Blah blah blah...		待翻译
+599	That's where general information\nabout the school is displayed..		待翻译
+600	It's so-called drinking water...		待翻译
+601	It's the timetable for the month\nand some small ads.		待翻译
+602	These are information notes about \nthe administration.		待翻译
+603	You can see reception from here.		待翻译
+604	It's completely black inside...		待翻译
+605	A cold drinks dispenser.		待翻译
+606	The Mucus in the Nose are really too brilliant!		待翻译
+607	Cool! The flag in the colours of our basketball \nteam!		待翻译
+608	The water is not flowing any longer.		待翻译
+609	I think the janitor will have a lot of work to do!		待翻译
+610	These file cabinets need to be cleaned up a little.		待翻译
+611	I think the vending machine is out of order...		待翻译
+612	They could have thought of making more \nsolid benches!		待翻译
+613	I don't think I can get by here...		待翻译
+614	I don't have the time to clear all that.		待翻译
+615	The state the roof is in, the next rainfall will\nflood the place! 		待翻译
+616	The janitor's broom is not enough to \nclean all that!		待翻译
+617	It's sad to see the hall in this state...		待翻译
+618	The whole floor seems to have collapsed. \nWe can't go up the stairs.		待翻译
+619	These lockers are filthy.		待翻译
+620	My locker is not in this row.		待翻译
+621	Meeting room		待翻译
+622	Oh, the light! I can't see anything here!		待翻译
+623	The teachers are as tidy as us...		待翻译
+624	The marks of the last meeting are on the table...		待翻译
+625	The last meeting discussed a school \nrenovation project... \nThat wouldn't do it any harm...		待翻译
+626	Agenda for the next meetings: \nthe violence in the establishment, Energy drinks...		待翻译
+627	They are going to clear the school of rats in \ntwo weeks. Much better to start right now!		待翻译
+628	Meeting room		待翻译
+629	That doesn't concern me...		待翻译
+630	Files, they're not interesting.		待翻译
+631	They switched off the heating...		待翻译
+632	The overhead projector seems to be broken...		待翻译
+633	The report of the last discipline council.		待翻译
+634	Reception		待翻译
+635	>From here, you can see the school entrance hall...		待翻译
+636	These are administrative notes.		待翻译
+637	It's a computer, switched off.		待翻译
+638	Books of all sorts.		待翻译
+639	Nothing that's worth the effort of reading.		待翻译
+640	What could so many sets of empty ...\nshelves be used for?		待翻译
+641	Cool, a PC that's on! But no Internet?		待翻译
+642	It's full of folders and other documents \ncrammed with figures...		待翻译
+643	Files, they're not interesting.		待翻译
+644	Teachers' room (ground floor) 		待翻译
+645	Even the teachers have a right to their \nlittle private room...		待翻译
+646	Useless, I'm not hungry.		待翻译
+647	This painting shows 4 charming muses.		待翻译
+648	It's full of educational magazines.		待翻译
+649	I can't open it, it must be blocked by debris.		待翻译
+650	Girls' toilet 		待翻译
+651	I will need help to be able to get to that grid.		待翻译
+652	I opened the grid.		待翻译
+653	It can't be opened without a tool.		待翻译
+654	It's not very clean!		待翻译
+655	Aah, it really stinks here!		待翻译
+656	And I thought girls were more refined.		待翻译
+657	Mmm... the lighting is not very flattering.		待翻译
+658	Boys' toilet		待翻译
+659	This place is really disgusting. 		待翻译
+660	That's nauseating!		待翻译
+661	Better not delay here 		待翻译
+662	Woah, I'm not looking too good...		待翻译
+663	Toilets in the teachers' room.		待翻译
+664	Aah, it's even dirtier than the boys' toilets.		待翻译
+665	Do they aim with their\neyes blindfolded or what?		待翻译
+666	There was a competition here, that's\nthe only explanation.		待翻译
+667	I didn't know the teachers had showers.		待翻译
+668	The teachers are lucky enough \nto have individual showers!		待翻译
+669	That's nauseating!		待翻译
+670	No point in going back that way.		待翻译
+671	Cafeteria		待翻译
+672	It's a so-called drinking water dispenser		待翻译
+673	There's nothing interesting written on it...		待翻译
+674	These junk school phones have been dead\nforever!  		待翻译
+675	No point in trying to switch it on,\nit's been broken for a long time.		待翻译
+676	The Mucus In The Nose! What a terrible band!		待翻译
+677	We'll leave our stuff here.		待翻译
+678	I think the vending machine is out of order...		待翻译
+679	You have selected a teammate.\n\nPress Ã		待翻译
+680	You can give orders to your teammate\nat any time using the directional buttons.\n\n Press Ã  		待翻译
+681	The right directional button lets you \norder your teammate to follow you.\n\nPress Ã		待翻译
+682	The left directional button lets you order \nyour teammate to stay where he/she is.\n\nPress Ã		待翻译
+683	The up directional button asks your \nteammate to come and help you. \n\nPress Ã		待翻译
+684	The down directional button lets you change\nthe weapon your teammate is using.\n\nPress Ã		待翻译
+685			跳过
+686			跳过
+687	You can give weapons and objects to your \nteammate: hold down ×   or Ç , select the \nobject, press Ã , and select "give" \n(Ã to confirm).		待翻译
+688	Now you know everything about using \nyour teammates.		待翻译
+689	You can save the game on\n one of your own discs.  Ã		待翻译
+690	It's a copy of the cafeteria keys.		待翻译
+691	I'll be able to break lots of things with this bat.		待翻译
+692	These junk telephones have been out of \norder for 2 years.		待翻译
+693	You can give orders to your teammate\nat any time using the directional pad.\n\nPress Ã		待翻译
+694	Press right on the directional pad to \norder your teammate to follow you.\n\nPress Ã		待翻译
+695	Press left on the directional pad to order \nyour teammate to stay where he/she is.\n\nPress Ã		待翻译
+696	Press up on the directional pad to ask your \nteammate to come and help you. \n\nPress Ã		待翻译
+697	Press down on the directional pad to  change\nthe weapon your teammate is using.\n\nPress Ã		待翻译
+698	You can give orders to your teammate \nat any time using the \nÊ - ð \nõ - ý keys\n\nPress Ã		待翻译
+699	õ lets you order your teammate\nto follow you.\n\nPress Ã		待翻译
+700	ý lets you order your teammate\nto stay where he/she is.\n\nPress Ã		待翻译
+701	Ê asks your teammate\nto come and help you.\n\nPress Ã		待翻译
+702	ð lets you change\n the weapon your teammate is using.\n\nPress Ã		待翻译
+703	Loft		待翻译
+704	Pots of paint, plaster and maintenance \nproducts. Nothing interesting.		待翻译
+705	It's closed, the lock seems to be rusted...		待翻译
+706	Boxroom		待翻译
+707	Used materials.		待翻译
+708	Loft		待翻译
+709	A toolbox.		待翻译
+710	The creatures came this way.		待翻译
+711	Old furniture covered in sheets.		待翻译
+712	It's a ladder.		待翻译
+713	Cardboard boxes full of schoolbooks.		待翻译
+714	This glass is too dirty, I can't see \nanything through it.		待翻译
+715	From here, you can see the park in front \nof the school.		待翻译
+716	That doesn't look like any animal I know.		待翻译
+717	Spanish classroom		待翻译
+718	My worst nightmare is posted up here:\nthe rules of Spanish grammar.		待翻译
+719	Part of yesterday's lesson.		待翻译
+720	Some of the teacher's things are still here,\nwhich makes me think that he was in as\nmuch of a hurry to leave as the students...		待翻译
+721	A map of Spain.		待翻译
+722	A screwdriver was lost in this room during\nthe renovation work. Please let me know\nif you find it, thank you.   Mr Garrison.		待翻译
+723	The filing room		待翻译
+724	It's here the teachers stored things they \nconfiscated from the students...		待翻译
+725	The closet is empty.		待翻译
+726	It's no good, I can't move it.		待翻译
+727	Maybe I'll find another wheel later.		待翻译
+728	Boxroom in the filing room		待翻译
+729	There's nothing interesting here.		待翻译
+730	This closet is closed.		待翻译
+731	Teachers' room (1st floor) 		待翻译
+732	There are so many bulletin boards\nin this school... 		待翻译
+733	The teachers' key box is wide open! 		待翻译
+734	Maybe we can find the papers\nfor our next class exams... 		待翻译
+735	I'm not really thirsty.		待翻译
+736	It doesn't work. Weird.		待翻译
+737	I hope their meals are better than what \nthe cafeteria serves us!		待翻译
+738	This school certainly likes souvenirs...		待翻译
+739	The person in these two photos really looks like \nour principal when he was younger. But why \ntwo photos, is he a megalomaniac or what?		待翻译
+740	Can't open it. It must be blocked by\ndebris.		待翻译
+741			跳过
+742	Boxroom.		待翻译
+743	Administrative office		待翻译
+744	The school computers are really old.		待翻译
+745	No, but just look at this mess!		待翻译
+746	A cupboard full of administration files.		待翻译
+747	Dates and figures...		待翻译
+748	Administrative office		待翻译
+749	Administrative office		待翻译
+750	Corridor (ground floor)		待翻译
+751	They call that drinking water?		待翻译
+752	I think the vending machine is out of order...		待翻译
+753	There's nothing interesting in this glass case.		待翻译
+754	A cold drinks dispenser.		待翻译
+755	No point in trying, I've never seen that \ntelephone work.		待翻译
+756	Our school won the academic basketball \ntournament three years in a row!		待翻译
+757	This water smells strange...		待翻译
+758	I think the vending machine is out of order.		待翻译
+759	These trophies, the story of our school...		待翻译
+760	Look, an empty locker?..		待翻译
+761	A teacher forgot to close his locker...		待翻译
+762	Toilet		待翻译
+763	This place is really grim... Who would \nwant to come here to relieve themselves?		待翻译
+764	A broom and cleaning products. \nApparently, they weren't used much here.		待翻译
+765	Boxroom		待翻译
+766	I have 3 glasses, that should be enough.		待翻译
+767	Apart from cleaning the windows, \nI don't see what use this will be to me.		待翻译
+768	There's really everything and anything here!		待翻译
+769	I took another cup.		待翻译
+770	Just old cartons.		待翻译
+771	xx: Ammunition in the magazine\nyy: Team ammunition reserve\n(for this type of weapon)		待翻译
+772	Team ammunition reserve\n(for this type of weapon)\n		待翻译
+773	Physics/Chemistry lab		待翻译
+774	It's a bottle of acid. We can't carry it.		待翻译
+775	I filled the glass with acid.		待翻译
+776	The glass is already full of acid.		待翻译
+777	I don't understand any of these equations.		待翻译
+778	This is the teacher's bench, \nthe bottles of acid are opposite it.		待翻译
+779	That sucks! The cup is disintigrating!		待翻译
+780	Maths/physics classroom		待翻译
+781	Ah, the PC... The new plaything of spotty \npre-pubescents with glasses... 		待翻译
+782	A table of arithmetic formulas... \nBrrr, that gives me the shivers!		待翻译
+783	Cannot connect to the Internet, \nthe server must be switched off.		待翻译
+784	Administrative office		待翻译
+785	There are various documents, \nbut nothing useful.		待翻译
+786	Our marks must be on these computers.		待翻译
+787	This computer is broken.		待翻译
+788	I have no desire to start it up!		待翻译
+789	It's the computer that Stan worked on.		待翻译
+790	Staircase		待翻译
+791	There's a completely rusty chain blocking this\ndoor. How can I speed up the process?\n		待翻译
+792	The acid has eaten into the chain.		待翻译
+793	The acid burned through the cup.		待翻译
+794	The cup has disintigrated. It's useless.		待翻译
+795	There are lots of useless things here. 		待翻译
+796	Corridor (1st floor)		待翻译
+797	I smashed the glass door...		待翻译
+798	It's that water that makes you ill.		待翻译
+799	A cold drinks dispenser.		待翻译
+800	There's really nothing interesting in these \nglass cases.		待翻译
+801	Another one!		待翻译
+802	None of these telephones work...		待翻译
+803	Another useless glass case.		待翻译
+804	This fountain is not working either!		待翻译
+805	They're everywhere, those filthy dispensers!		待翻译
+806	The next basketball match is next Saturday!\nI'll be there!		待翻译
+807	Hah! Is the timetable beginning to decompose?		待翻译
+808	Better not drink that water ...		待翻译
+809	The Mucus in the Nose... Really the best,\nthat band!		待翻译
+810	I think it's Mr. Friedman's office...		待翻译
+811	Administrative office.		待翻译
+812	I don't have the access code.		待翻译
+813	There are lots of things on the floor. \nBut I don't see anything interesting.		待翻译
+814	School administration papers, \nnothing very exciting...		待翻译
+815	An old article about our football team.\nIt was always very strong.		待翻译
+816	The screen is broken.		待翻译
+817	Nothing useful.		待翻译
+818	Only student files.		待翻译
+819	A work of art... about as interesting \nas the wallpaper in this room!		待翻译
+820	Living languages classroom		待翻译
+821	So this is how the filthy monsters got into the class!		待翻译
+822	Esto es el mapa de España, hombre!		待翻译
+823	Eso representa America Latina, caramba!		待翻译
+824	The teachers left a folder behind.\nThat proves it's not only the students who\nare scatterbrained!		待翻译
+825	I need help to search this pipe.		待翻译
+826	Biology classroom.		待翻译
+827	This classroom could do with a good cleaning.		待翻译
+828	He went through this hole.		待翻译
+829	That creature has smashed everything.		待翻译
+830	It's professor Walden's satchel. \nBut what was he doing with all that stuff?		待翻译
+831	Dear Leonard and Herbert,\nI am writing to you as your friend.  \nI have heard a lot spoken about you here, \nbut sadly no words of praise. I have \njust left the conference in Seattle where\nyour book "Eternal life is possible" has\nhad an explosive effect.		待翻译
+832	Office of Mr. Friedman		待翻译
+833	Latitude : 20° - Longitude : 330°		待翻译
+834	There are two empty spaces on this map...		待翻译
+835	These are Friedman's files. If I start to \nsearch them all, I'll be at it for centuries!		待翻译
+836	The ventilation is working... \nIt's hot here, it's true...		待翻译
+837	The computer is on, like the ventilation...		待翻译
+838	It's full of trinkets of all kinds.\nHe must have traveled a lot!		待翻译
+839	These masks are really weird!		待翻译
+840	A post-it note from Friedman:\n"I'm in the library if you want to see me".		待翻译
+841	Meeting room		待翻译
+842	Corridor (ground floor)		待翻译
+843	I never knew it was that guy...		待翻译
+844	We're going to hammer the Tigers!\nThey won't know what hit them!		待翻译
+845	I can't wait until next Saturday!		待翻译
+846	Another filthy fountain, \nI think they want to poison us!		待翻译
+847	The last acquisitions for the library...\n		待翻译
+848	Friedman's Hideaway 		待翻译
+849	Library (ground floor)		待翻译
+850	The spiral staircase is half destroyed. \nWe can't go up that way.		待翻译
+851	There are so may books my head is spinning!		待翻译
+852	It's Friedman's office.		待翻译
+853	I can't open the desk drawers,\nthey're locked.		待翻译
+854	Maths/physics classroom		待翻译
+855	This closet is also locked.		待翻译
+856	Hmmm! Last quarter's marks...		待翻译
+857	I've never seen these tvs work.		待翻译
+858	Boys' toilet		待翻译
+859	I'm really not looking my best, am I?		待翻译
+860	It's always this way in here...		待翻译
+861	Opening this grid won't do me any good.		待翻译
+862	I can understand why nobody would want to clean\nsuch filth!		待翻译
+863	Girls' toilet 		待翻译
+864	This toilet is not working...		待翻译
+865	Oooh...best to leave!		待翻译
+866	The neon light makes me look ill...\nunless it was that smell...		待翻译
+867	Living languages classroom		待翻译
+868	Esto es la foto del rey de Espana.		待翻译
+869	Another locked closet.		待翻译
+870	This closet is full of course books.		待翻译
+871	They are language listening booths.		待翻译
+872	Corridor (1st floor)		待翻译
+873	Biology room 2		待翻译
+874	brrr...and we're like that under our skin...		待翻译
+875	A cell from a human body in close-up. Superb...		待翻译
+876	A microscope, small test-tubes...\njust like a real lab!		待翻译
+877	Look, a tv that's working... finally... almost...		待翻译
+878	That's our hamster! \nHe has been experimented on a lot!		待翻译
+879	Abandoned classroom		待翻译
+880	Those beasts have really been everywhere!		待翻译
+881	Another locked closet...		待翻译
+882	It's a long time since this room has \nseen any sunlight!		待翻译
+883	It's nighttime...		待翻译
+884	Old offices, \nI wonder why they are still around...		待翻译
+885	History classroom		待翻译
+886	If only I could be skiing right now...		待翻译
+887	Nothing new on it...		待翻译
+888	With the tables like that, the teacher could \nsee us clearly...		待翻译
+889	Living languages classroom		待翻译
+890	Staircase		待翻译
+891	A reminder of the library rules...		待翻译
+892	Mezzanine (library)		待翻译
+893	So many books!		待翻译
+894	Uninteresting books.		待翻译
+895	You could not read them all in a lifetime.		待翻译
+896	Hmmm, books about philosophy.		待翻译
+897	The comic book section is not very well supplied.		待翻译
+898	Ah, all the heroic fantasy books.		待翻译
+899	Math textbooks.		待翻译
+900	I have something else to do.		待翻译
+901	These are history and geography books.		待翻译
+902	Just old books.		待翻译
+903	Well, they say they are memoirs written by \nour teachers.		待翻译
+904	A lot of books are missing.		待翻译
+905	Next time I am studying for the exams\nI'll know where to start.		待翻译
+906	Only plays.		待翻译
+907	Secretary's Office		待翻译
+908	Dining hall (ground floor)		待翻译
+909	This is how the creatures got in!		待翻译
+910	It's the place we were served...things to eat. 		待翻译
+911	Blood...		待翻译
+912	The menu for the week. No comment...		待翻译
+913	Janitor's room		待翻译
+914	Oh my God! It is...actually, it was...the janitor!		待翻译
+915	You can see there's been a huge fight here.		待翻译
+916	Nothing else interesting to take.		待翻译
+917	The door is blocked.		待翻译
+918	Kitchen(ground floor)		待翻译
+919	Here's where they prepared our daily \nfood poisoning.		待翻译
+920	Kitchen utensils. They could have washed them...		待翻译
+921	The elevator that goes to the upper floor.		待翻译
+922	The freezer, it's full of frozen meat, brrr...		待翻译
+923	The door is locked.		待翻译
+924	Video surveillance room		待翻译
+925	Monitors and a video-recorder.\nWe can watch videos here.		待翻译
+926	Great! This video-recorder is working.		待翻译
+927	Dining hall (1st floor)		待翻译
+928	An electrical control box.\nIt can't be opened without a tool...		待翻译
+929	No need, it's already open.		待翻译
+930	The fuses are already placed.		待翻译
+931	Impossible, the control box is closed.\nI really need a tool.		待翻译
+932	It's useless.		待翻译
+933	No point in touching it.		待翻译
+934	Damn! That way's blocked!		待翻译
+935	There are even dispensers in the dining hall...		待翻译
+936	An electrical control box.\nThe lock looks easy.		待翻译
+937	Kitchen (1st floor)		待翻译
+938	The elevator that goes down to \nthe students' kitchen.		待翻译
+939	The freezer full of cold meat, brrr... 		待翻译
+940	It appears to be simply a cupboard...		待翻译
+941	Having seen the kitchens, who'd want to \neat here!		待翻译
+942	Cutlery.		待翻译
+943	Plates.		待翻译
+944	Nobody finished their plate here, too bad.		待翻译
+945	Teachers' dining hall		待翻译
+946	The light...\nPut it back on! Quick!		待翻译
+947	I never understood anything \nabout contemporary art...		待翻译
+948	A toolbox.		待翻译
+949	Sick bay		待翻译
+950	Great, I don't have a problem with my eyes!		待翻译
+951	How many times did I pretend I was sick\nto skip classes...		待翻译
+952	Nothing useful in here...		待翻译
+953	Leave the drugs, time is short...		待翻译
+954	A computer, but no Internet connection...		待翻译
+955	Yeah... More administration papers...		待翻译
+956	Amphitheater hall		待翻译
+957	This is the procedure to be followed in case \nof fire, earthquake, Extra-Terrestrial invasion...		待翻译
+958	Photos of teachers during a conference... 		待翻译
+959	A photo of Friedman dating from 1902...\nImpossible!		待翻译
+960	It seems that this statue is as old as the school.		待翻译
+961	It's the amphitheater reception \nthat looks over the actors' dressing room.		待翻译
+962	The prospectus for the next conferences...		待翻译
+963	Humano-vegetal symbiosis, \nor the art of knowing nature...		待翻译
+964	Certainly important persons in the history \nof the country...		待翻译
+965	Actors' room (ground floor) 		待翻译
+966	This is where the budding actors change \nbefore going on stage.		待翻译
+967	Artists' entrance		待翻译
+968	These are the sets produced by the \ntheatre workshop.		待翻译
+969	It's the set used for the play "Romeo and Juliet"		待翻译
+970	Without it, we'd have no light, I guess...		待翻译
+971	No point in going up, \nthe trapdoor above is closed.		待翻译
+972	I need something to keep the grids open.		待翻译
+973	Using the elevator:\nfor your safety, make sure you\nactivate the security lever after using it.		待翻译
+974	Amphitheater		待翻译
+975	The amphitheater control panel.		待翻译
+976	1,2,1,2...damn! It doesn't work.		待翻译
+977	In case of fire, consult this plan and leave \nin an orderly manner...		待翻译
+978	Film posters... 		待翻译
+979	Posters...		待翻译
+980	Props room (1st floor)		待翻译
+981	This is certainly the theater workshop boxroom.		待翻译
+982	The trapdoor is blocked.		待翻译
+983	Projection room		待翻译
+984	The school cinema club films...		待翻译
+985	The projector.		待翻译
+986	The power control panel.		待翻译
+987	I can see the all the amphitheater from here.		待翻译
+988	You have to lower the screen to be \nable to project a film.		待翻译
+989	A film projector, \nI can see a reel here!		待翻译
+990	Projection room		待翻译
+991	Corridor		待翻译
+992	That way's blocked.		待翻译
+993	It's locked...		待翻译
+994	Laboratory 1		待翻译
+995	An operating table... That gives me the shivers...		待翻译
+996	All that doesn't seem very catholic.		待翻译
+997	A whole series of books on botany.		待翻译
+998	I'd say this door doesn't open manually.		待翻译
+999	We need something to activate the mechanism.		待翻译
+1000	Guinea pig room 1		待翻译
+1001	It's locked...		待翻译
+1002	Guinea pig room 2		待翻译
+1003	I prefer not to imagine what kind of monster \nwas in this cage.		待翻译
+1004	Horrible! \nThese cages must have contained study subjects.		待翻译
+1005	I think some horrible things happened here.		待翻译
+1006	Prison		待翻译
+1007	The electrical circuit that opens the \ndoors is broken. 		待翻译
+1008	Those syringes look like they have just \nbeen used.		待翻译
+1009	There's something revolting in the sink!		待翻译
+1010	If I could only reach that electrical control box...		待翻译
+1011	I recovered our stuff.		待翻译
+1012	Laboratory 1		待翻译
+1013	This thing reminds me of an electric\nchair.		待翻译
+1014	These shelves have a whole series of \nbooks on botany.		待翻译
+1015	But what is all this equipment for? 		待翻译
+1016	I think it's going to explode!		待翻译
+1017	Corridor		待翻译
+1018	\x01\x03Press and hold \x01Æ\x03   \n\x01to aim at an enemy.		待翻译
+1019	\x01\x03Hold  \x01÷\x03   \n \x01  to activate the light boost mode.\nWatch the temperature gauge!		待翻译
+1020	\x01The gauge shows how much \nthe light is \x03overheating\x01.\n\nWhen it is full, wait until \nthe bulb cools down before\nusing boost mode again.		待翻译
+1021	Greenhouse 1		待翻译
+1022	All these products are certainly toxic.		待翻译
+1023	There are some kind of cuttings in these pots.		待翻译
+1024	I've never seen plants like that!		待翻译
+1025	Room with the door		待翻译
+1026	This door is gigantic! What could it be hiding?		待翻译
+1027	No, I don't have to go!		待翻译
+1028	Cool! Ammunition and first aid kits! 		待翻译
+1029	Looks like professor Walden's bag... 		待翻译
+1030	Prison		待翻译
+1031	Boiler room		待翻译
+1032	I think this is the school boiler.\nIt's also about to burst!		待翻译
+1033	There's no way we can get back up that shaft. 		待翻译
+1034	Corridor		待翻译
+1035	Corridor		待翻译
+1036	Debris is blocking the passageway.		待翻译
+1037	Main corridor		待翻译
+1038	Weird, possibly roots...\nBut there's blood...		待翻译
+1039	Nursery		待翻译
+1040	My God, were there really kids in here?		待翻译
+1041	Mainly toys and pharmaceutical products.		待翻译
+1042	Yeah, I had the same stuffed animal!		待翻译
+1043	Children's drawings...		待翻译
+1044	Cell		待翻译
+1045	Wow... I don't like \nto think what those chains were for.		待翻译
+1046	You'd have to be really desperate to\ndare sleep in there...		待翻译
+1047	Hmmm... \nThey're even worse than those in the school...		待翻译
+1048	Greenhouse 2		待翻译
+1049	Those shelves are full of botany products...		待翻译
+1050	This bench is unusable.		待翻译
+1051	It's just compost...		待翻译
+1052	Machine room		待翻译
+1053	I'm sure its dead,\n but I'm not going to check.		待翻译
+1054	That looks like a generator... \nBut there's no lever or button.		待翻译
+1055	Corridor		待翻译
+1056	I need a tool to bring the ladder down. 		待翻译
+1057	Store		待翻译
+1058	Looks like cleaning products...		待翻译
+1059	Experimentation room		待翻译
+1060	But what's this?		待翻译
+1061	I wonder what all these cages were used for? 		待翻译
+1062	What could be behind this door? \nIn any case, it's shut.		待翻译
+1063	That enormous monster smashed down \nthe door with one blow.		待翻译
+1064	The door was literally thrown.		待翻译
+1065	The kidnapped students must have \nsuffered atrociously.		待翻译
+1066	The transformed students must have been held \nprisoner in this room.		待翻译
+1067	Cages of my size!		待翻译
+1068	The prison for the captured students.		待翻译
+1069	Syringes, weird products.		待翻译
+1070	The case is blocking the passage.		待翻译
+1071	Cell		待翻译
+1072	The freed student is now your teammate.\nUse Â whenever you want to take control.\n\nPress Ã		待翻译
+1073	When a teammate is with you, a second player \ncan take control by pressing the START Å  button \nof the analog controller (DUALSHOCK®2) \nconnected to controller port 2.\n\nPress Ã		待翻译
+1074	When a teammate is with you, a second player\ncan take control by pressing START\non his controller.\n\nPress Ã\n		待翻译
+1075	When a teammate is with you, a second player\ncan take control by pressing START\non his controller.\n\nPress Ã		待翻译
+1076	When a teammate is with you, a second player\ncan take control by pressing START\non his controller.\n\nPress Ã		待翻译
+1077	When a teammate is with you, a second player\ncan take control by pressing START\non his controller.\n\nPress Ã		待翻译
+1078	When a teammate is with you, a second \nplayer can take control\nby pressing the Å button\non the controller assigned to the 2nd player.\n\nPress Ã		待翻译
+1079	Corridor		待翻译
+1080	That seems deep.		待翻译
+1081	Can't open it, it's closed.		待翻译
+1082	Nothing more interesting inside...		待翻译
+1083	Corridor		待翻译
+1084	Physics/Chemistry lab		待翻译
+1085	History/geography classroom		待翻译
+1086	Storage room		待翻译
+1087	Classroom		待翻译
+1088	Physics/Chemistry lab		待翻译
+1089	Classroom		待翻译
+1090	Workshop		待翻译
+1091	Corridor		待翻译
+1092	There's nothing there.		待翻译
+1093	It's broken.		待翻译
+1094	Just old trophies.		待翻译
+1095	The bed has been wrecked, but not recently...		待翻译
+1096	Our basketball team won the championship \nin 1968.		待翻译
+1097	Welcome to 1969! \nThat poster is older than I am!		待翻译
+1098	Waiting room		待翻译
+1099	A chimney flue...		待翻译
+1100	The safe opened when it fell ...		待翻译
+1101	NASA conference, next week. \nObjective, the Moon!		待翻译
+1102	A light from 1953...aaagh!		待翻译
+1103	I sense a presence close by, but I \ncant' see anything...		待翻译
+1104	Police...adventure novels		待翻译
+1105	Study room		待翻译
+1106	The world of the great elders, communicating \nwith the beyond, interesting...		待翻译
+1107	A candle...directly on the table...		待翻译
+1108	This chair does not inspire me with confidence...		待翻译
+1109	Spiritualism in 10 lessons, to be used \nwith caution...		待翻译
+1110	Boys' toilet		待翻译
+1111	Nothing's working.		待翻译
+1112	They have been beyond use for a long time.		待翻译
+1113	Nothing to do here.		待翻译
+1114	The thing that did that must be really \nbig and strong...		待翻译
+1115	Dormitory		待翻译
+1116	There's nothing interesting here.		待翻译
+1117	Really dilapidated... 		待翻译
+1118	I wouldn't lift that curtain! It's swarming \nwith roaches here!		待翻译
+1119	A small corner room... for the rats...		待翻译
+1120			跳过
+1121	Corridor		待翻译
+1122	I don't see anything useful.		待翻译
+1123	Dormitory		待翻译
+1124	There's no water.		待翻译
+1125	It's closed.		待翻译
+1126	More old beds covered in dust and roaches!		待翻译
+1127	Supervisor's room 1		待翻译
+1128	A chimney flue...		待翻译
+1129	The safe has fallen inside. 		待翻译
+1130	There's nothing there.		待翻译
+1131	It's in a filthy state.		待翻译
+1132	Disks, posters... 		待翻译
+1133	Supervisor's room 2		待翻译
+1134	There's nothing special there.		待翻译
+1135	Various books.		待翻译
+1136	There's nothing useful.		待翻译
+1137	Dormitory		待翻译
+1138	There's nothing there.		待翻译
+1139	The faucets are broken.		待翻译
+1140	Dormitory		待翻译
+1141	Girls' toilet 		待翻译
+1142	Dormitory		待翻译
+1143	Sports room		待翻译
+1144	I'm not coming back without my things.		待翻译
+1145	We'll massacre them!		待翻译
+1146	The school installed that here in case\na fire started.		待翻译
+1147	This panel controls the entire gymnasium's \nelectrical system.		待翻译
+1148	These results prove that we are the best!		待翻译
+1149	This door is closed.		待翻译
+1150	This match was memorable.		待翻译
+1151	Press À to use\nspecial aptitude when available.		待翻译
+1152	Cloakrooms		待翻译
+1153	They're not very clean.		待翻译
+1154	These urinals really need to be cleaned.		待翻译
+1155	Considering the state of it, I'd rather not touch it.		待翻译
+1156	No time to do my hair...		待翻译
+1157			跳过
+1158	We'll massacre them!		待翻译
+1159	The mascot of a great team!		待翻译
+1160	I'll have a shower later.		待翻译
+1161	No time to do your hair...		待翻译
+1162	The match report on our last game.		待翻译
+1163	Central courtyard (ground floor)		待翻译
+1164	D: Dining hall		待翻译
+1165	Janitor		待翻译
+1166	C: Library and Classrooms		待翻译
+1167	A: Administration		待翻译
+1168	B: Classroom		待翻译
+1169	1st floor access		待翻译
+1170	It's the school regulations.		待翻译
+1171	Parking		待翻译
+1172	A: Administration		待翻译
+1173	F: Amphitheater		待翻译
+1174	The school play is Saturday night.		待翻译
+1175	I'll only leave when I have finished \nwith this story.		待翻译
+1176	The janitor's delivery truck is really ready \nfor the junkyard. 		待翻译
+1177	No point in trying to climb into the truck, \nI can't pick the locks \non the doors.		待翻译
+1178	Exterior		待翻译
+1179	Gym courtyard		待翻译
+1180	G: Dormitory		待翻译
+1181	H: Gymnasium		待翻译
+1182	These are the latest results by our sports teams.		待翻译
+1183	The door is locked with a padlock.		待翻译
+1184	Central courtyard (1st floor)		待翻译
+1185	Ground floor access		待翻译
+1186	C: Library and Classrooms		待翻译
+1187	D: Dining hall		待翻译
+1188	A lot of useless posters and brochures.		待翻译
+1189	B: Classrooms		待翻译
+1190	Sick bay		待翻译
+1191	The old electrical cabinet, they put it into\nthe building because the students played \nwith it too much.		待翻译
+1192	Gym courtyard		待翻译
+1193	Hey Josh! Get out of our way!		待翻译
+1194	But I've got to finish up my story on the \nbasketball team for the paper.		待翻译
+1195	Yo dog, Kenny, chill out man, leave him alone...		待翻译
+1196	Come on! Let's hit the showers!		待翻译
+1197	Do you know what time it is? You said you were \ncoming home early!		待翻译
+1198	I said that to mom and dad, not to you!		待翻译
+1199	Pfff... It's always the same story with you! \nI know why you don't want to come home!		待翻译
+1200	Kenny!		待翻译
+1201	We finally get rid of mom and dad and you think \nI'm gonna sleep at home?		待翻译
+1202	Wait, Shannon! I'll go with you!		待翻译
+1203	No, that's quite all right, you just go!		待翻译
+1204	Let's beat it, Kenny.\nAre you sticking around?		待翻译
+1205	Yeah, I'm gonna shoot a few more baskets.		待翻译
+1206	Ok, whatever. Catchya later.		待翻译
+1207			跳过
+1208	Hello?		待翻译
+1209	Kenny! You were supposed to call!\nDid you forget about our date?		待翻译
+1210	Ashley! No... You know me better than that...		待翻译
+1211	I just finished practice.\nJust a quick shower and I'll be right there!		待翻译
+1212	Good... and don't be late this time.\nSeeya baby.		待翻译
+1213	Ok, I'll be right there.		待翻译
+1214	Hey! What the...where's my bag?		待翻译
+1215	Oh man!		待翻译
+1216			跳过
+1217	So tell me. How was your date?		待翻译
+1218	Kenny didn't come home last night, you guys \nmust have had a wild time!		待翻译
+1219	Yeah, right! \nIf I see that guy, he's gonna get it!		待翻译
+1220	Huh? What did he do?		待翻译
+1221	He stood me up!		待翻译
+1222	 I'm getting fed up with your brother.		待翻译
+1223	But then...if he wasn't with you... Maybe he...		待翻译
+1224	You... \nyou think that something happened to him?		待翻译
+1225	And Josh...where's Josh...?		待翻译
+1226	Hurry up! Get a move on! 		待翻译
+1227	Pfff... \nThe principal is always watching us like a hawk!		待翻译
+1228	Come on, hurry up!		待翻译
+1229	Mr. Garrison!		待翻译
+1230	Lock the gates...\nand send the latecomers to my office...		待翻译
+1231	Yes...\nTake advantage of the sunshine while it lasts...		待翻译
+1232	Please sit down and be quiet...		待翻译
+1233	Hey ladies!\nWhat are you so gloomy about!		待翻译
+1234	Kenny has disappeared...		待翻译
+1235	You wouldn't know anything about it, \nwould you?		待翻译
+1236	No, I spent the whole night \nworking on my movie... 		待翻译
+1237	Nobody's seen him since last night...		待翻译
+1238	I'm really starting to get worried...		待翻译
+1239	I know! Aliens beamed him up to their ship,		待翻译
+1240	did some experiments on him and finally killed him!		待翻译
+1241	Josh! Please take your seat, young man!		待翻译
+1242	Alright! This morning we are going \nto talk about genetics...		待翻译
+1243	I think we'd better call the cops...		待翻译
+1244	What do you think?		待翻译
+1245	Hey... If he doesn't show up, let's meet at the \ncafeteria at 6 and go look for him...		待翻译
+1246	But the cops would tell my parents!		待翻译
+1247	Great!  My first real investigation!		待翻译
+1248	Pff... nothing works in this crummy school!		待翻译
+1249	We're leaving in 5 minutes anyway...		待翻译
+1250	Quit it, Josh!\nThis is no time for that!		待翻译
+1251	Come on, we need to record our investigation, don't we?		待翻译
+1252	Quiet! Someone's there!		待翻译
+1253	It's locked!		待翻译
+1254	It's okay, it's just the janitor...		待翻译
+1255	But how are we supposed to get out now?		待翻译
+1256			跳过
+1257			跳过
+1258			跳过
+1259			跳过
+1260			跳过
+1261			跳过
+1262	Move over!		待翻译
+1263			跳过
+1264	You've got to get out of here, quick!		待翻译
+1265			跳过
+1266	I don't know...I'll make it my business \nto inform the authorities...		待翻译
+1267			跳过
+1268	It's nothing. Just get out of here!		待翻译
+1269			跳过
+1270	Kenny... Go see Mr. Friedman!		待翻译
+1271			跳过
+1272	I'll open the door to the courtyard for you.\nI have something I need to do...		待翻译
+1273	Remember! The light!		待翻译
+1274			跳过
+1275	Mr. Walden! What are you doing here?		待翻译
+1276	But those things... there...what are they?		待翻译
+1277	Looks like you hurt yourself?		待翻译
+1278	But, I'm looking for Kenny! He's disappeared!		待翻译
+1279	But how? All the exits are locked.		待翻译
+1280	Looks like we got ourselves into a real sticky situation!		待翻译
+1281	Mr. Walden! You saved me!		待翻译
+1282	What's going on here? What are those things?		待翻译
+1283	You don't look so great yourself...		待翻译
+1284	I'd like to, but I have to find Kenny first!		待翻译
+1285	The principal? But we are shut up in this building!		待翻译
+1286	He's not much help.		待翻译
+1287	Mr. Walden! What are you doing here?		待翻译
+1288	But what's going on? What are those things?		待翻译
+1289	Let me have a look...		待翻译
+1290	Not without Kenny. He's been missing since last night.		待翻译
+1291	The principal? But everything is bolted shut!		待翻译
+1292	That's just great.		待翻译
+1293	Miss Ashley, what was your reaction when \nyou saw those creatures??		待翻译
+1294	Get lost.		待翻译
+1295	Do you really think you'll get out of here alive? 		待翻译
+1296	Don't bug me! Okay? I'm calling the cops.		待翻译
+1297	And you Shannon, care to comment?		待翻译
+1298	Cut it out, I'm too scared to kid around.		待翻译
+1299	Oh no! The battery's dead!		待翻译
+1300	Big surprise!  You've been filming for hours!		待翻译
+1301	It's not possible!		待翻译
+1302	So, any luck?		待翻译
+1303	Stupid phone. I get no reception here.		待翻译
+1304	What are we gonna do now?		待翻译
+1305	We don't have any choice; we've got to warn Friedman!		待翻译
+1306			跳过
+1307			跳过
+1308	Nothing dog, I'm just editing my notes...\nIf you want, I can do the same for you for only fifty bucks.		待翻译
+1309			跳过
+1310	And you, why are you hanging around? Is something wrong?		待翻译
+1311			跳过
+1312	Oh dog! I don't know what you've been smoking,\n but you need to stop!		待翻译
+1313			跳过
+1314	Well, everything I see up in this place is wack.		待翻译
+1315			跳过
+1316			跳过
+1317	What? You better quit jerking me around!		待翻译
+1318			跳过
+1319			跳过
+1320	Wow... your story's starting to get interesting! All right, \nI'll go with you... But you'd better not be punking me.		待翻译
+1321			跳过
+1322			跳过
+1323	Stan?		待翻译
+1324	What are you doing here?		待翻译
+1325	Hey, stop clowning around!		待翻译
+1326	What? Haven't you seen? In the hallways? All the \nmonsters creeping around?  It's a real hellhole!		待翻译
+1327	But..don't tell me you didn't see anything. \nYou didn't notice anything bizarre?		待翻译
+1328	So what do you think those noises are?		待翻译
+1329	I'm not kidding! We can't find Kenny!		待翻译
+1330	Even Mr. Walden was injured; he had to go the infirmary!		待翻译
+1331	We're stuck here. We've got to tell Friedman \nif we wanna get out of this school.		待翻译
+1332	Stan?		待翻译
+1333	What are you doing here?		待翻译
+1334	Hey, stop joking around!		待翻译
+1335	What? Haven't you seen? In the hallways? All the \nmonsters creeping around?  It's terrible!		待翻译
+1336	But..don't tell me you didn't see anything.\nYou didn't notice anything bizarre?		待翻译
+1337	What do you think those noises are?		待翻译
+1338	Don't be a jerk! We can't find Kenny!		待翻译
+1339	Even Mr. Walden was injured.		待翻译
+1340	We're stuck here. We need to get Mr. Friedman \nif we want to get out of this school.		待翻译
+1341	Stan?		待翻译
+1342	What are you doing here?		待翻译
+1343	Hey, quit fooling around! Okay?		待翻译
+1344	Haven't you seen? In the hallways? There are all these \nmonsters creeping around? It's a real hell!		待翻译
+1345	But..don't tell me you didn't see anything.\nYou didn't notice anything bizarre?		待翻译
+1346	So what do you think those noises are?		待翻译
+1347	It's not funny! We can't find Kenny!		待翻译
+1348	Even Mr. Walden was injured; he had to go \nto the infirmary!		待翻译
+1349	We're stuck here. We got to tell Friedman if we \nwant to get out of this school.		待翻译
+1350			跳过
+1351	Why are you still here? Why aren't you at home?		待翻译
+1352			跳过
+1353	Here, on the school grounds?		待翻译
+1354			跳过
+1355			跳过
+1356	What? Mr. Walden is here?		待翻译
+1357			跳过
+1358	Go right now and see the janitor. \nHe'll let you out. I'll tell him you're coming!		待翻译
+1359	And don't let me see you back until tomorrow morning!		待翻译
+1360			跳过
+1361	I'll take care of everything. The best thing you can do\n for now is to get out of here...		待翻译
+1362			跳过
+1363			跳过
+1364			跳过
+1365			跳过
+1366			跳过
+1367	Mr. Friedman! The school's been invaded!		待翻译
+1368	The hallways are full of those..."things". \nAnd this time, it's not my fault!		待翻译
+1369	Yeah, all over the place!		待翻译
+1370	If I were you, I'd do something fast. Kenny's disappeared.\nWalden probably called the cops, but...		待翻译
+1371	I was surprised to see him here myself...		待翻译
+1372	But what about the...		待翻译
+1373	Mr. Friedman! The school!		待翻译
+1374	But Sir! There are these weird creatures!		待翻译
+1375	Yes! In the office building, too!		待翻译
+1376	We've got to do something...Kenny's \ndisappeared. Mr. Walden has called the police...		待翻译
+1377	Uh, yes... He said you would help us.		待翻译
+1378	But the creatures?		待翻译
+1379	Mr. Friedman! It's horrible!		待翻译
+1380	But Sir! There are these disgusting creatures!		待翻译
+1381	Yes! They're everywhere!		待翻译
+1382	You've got to do something! Kenny is missing!\nMr. Walden said that he'd call the police but...		待翻译
+1383	And it's a good thing, too, because he saved...		待翻译
+1384	What about Kenny?		待翻译
+1385	Mr. Friedman! It's total chaos!		待翻译
+1386	There are these slimy creatures. \nThey're all over and they're attacking us!		待翻译
+1387	Yes! They're everywhere!		待翻译
+1388	You've got to do something before it gets worse. \nKenny's missing and Mr. Walden, he said...		待翻译
+1389	Yes... I saw him in the attic...		待翻译
+1390	But those creatures...		待翻译
+1391			跳过
+1392			跳过
+1393			跳过
+1394			跳过
+1395	Hey, what the hell is this?		待翻译
+1396	Hey, it's nurse Ms. Wickson...		待翻译
+1397	She looks messed up.		待翻译
+1398			跳过
+1399	I'm gonna see what's up...		待翻译
+1400	What?		待翻译
+1401	It's Ms. Wickson!		待翻译
+1402	Jeez! Looks like it's getting crazy in the infirmary.		待翻译
+1403			跳过
+1404	We'd better hurry up and help her!		待翻译
+1405	What?		待翻译
+1406	The nurse!		待翻译
+1407	What's she doing?		待翻译
+1408	She's asking for help.		待翻译
+1409	I've got to go save her right now!		待翻译
+1410	What?		待翻译
+1411	It's the nurse, Ms. Wickson!		待翻译
+1412	What is she doing?		待翻译
+1413	She's asking for help.		待翻译
+1414	She's in danger! Come on let's go!		待翻译
+1415			跳过
+1416			跳过
+1417			跳过
+1418			跳过
+1419			跳过
+1420			跳过
+1421			跳过
+1422			跳过
+1423			跳过
+1424			跳过
+1425			跳过
+1426			跳过
+1427			跳过
+1428			跳过
+1429			跳过
+1430			跳过
+1431			跳过
+1432			跳过
+1433			跳过
+1434			跳过
+1435			跳过
+1436			跳过
+1437			跳过
+1438			跳过
+1439			跳过
+1440			跳过
+1441	Hey! It's the video surveillance archives!		待翻译
+1442	Somebody's leaving the gym...		待翻译
+1443	Somebody's following him...		待翻译
+1444	Isn't that Kenny?		待翻译
+1445	Fast forward! This part's worthless!		待翻译
+1446	Stop!		待翻译
+1447	That guy, there... It's...Friedman!		待翻译
+1448	Why is Kenny following him?		待翻译
+1449	And where is he going?		待翻译
+1450	Oh, it's a secret passageway!		待翻译
+1451	Kenny? He's not going to follow him down there?		待翻译
+1452			跳过
+1453	Fast forward!		待翻译
+1454	They're coming out!		待翻译
+1455	It's Friedman...		待翻译
+1456	He's locking the door behind him! The bastard!		待翻译
+1457	And who's that guy?		待翻译
+1458	What's he doing?		待翻译
+1459	I just don't get it...		待翻译
+1460	Now he's coming back out.		待翻译
+1461	Sure looks like he's in a hurry!		待翻译
+1462	Oh, the monsters! That's where they're coming from!		待翻译
+1463	He's the one who's been setting them loose!		待翻译
+1464	Hey! It's the video surveillance archives!		待翻译
+1465	Somebody's leaving the gym...		待翻译
+1466	Somebody's following him...		待翻译
+1467	Isn't that Kenny?		待翻译
+1468	Fast forward! This part's worthless!		待翻译
+1469	Stop!		待翻译
+1470	That guy, there... It's...it's Friedman!		待翻译
+1471	Why is Kenny following him?		待翻译
+1472	And where is he going?		待翻译
+1473	Oh, a secret passageway!		待翻译
+1474	Kenny? He's not going to follow him down there?		待翻译
+1475			跳过
+1476	Fast forward!		待翻译
+1477	They're coming out!		待翻译
+1478	It's Friedman...		待翻译
+1479	He's locking the door behind him! The bastard!		待翻译
+1480	And who's that guy?		待翻译
+1481	What's he doing?		待翻译
+1482	I just don't get it...		待翻译
+1483	Now he's coming back out.		待翻译
+1484	Sure looks like he's in a hurry!		待翻译
+1485	Oh, the monsters! That's where they come from!		待翻译
+1486	He's the one who set them loose!		待翻译
+1487	Hey! It's the video surveillance archives!		待翻译
+1488	Somebody's leaving the gym...		待翻译
+1489	Somebody's following him...		待翻译
+1490	Isn't that Kenny?		待翻译
+1491	Fast forward! This part's worthless!		待翻译
+1492	Stop!		待翻译
+1493	That guy, there... It's...Friedman!		待翻译
+1494	Why is Kenny following him?		待翻译
+1495	And where is he going??		待翻译
+1496	Oh, a secret passageway!		待翻译
+1497	Kenny? He's not going to follow him down there?		待翻译
+1498			跳过
+1499	Fast forward!		待翻译
+1500	They're coming out!		待翻译
+1501	It's Friedman...		待翻译
+1502	He's locking the door behind him! The bastard!...		待翻译
+1503	And who's that guy?		待翻译
+1504	What's he doing?		待翻译
+1505	I just don't get it...		待翻译
+1506	Now he's coming back out.		待翻译
+1507	Sure looks like he's in a hurry!		待翻译
+1508	Oh, the monsters! That's where they come from!		待翻译
+1509	He's the one who set them loose!		待翻译
+1510	Hey! It's the video surveillance archives!		待翻译
+1511	Somebody's leaving the gym...		待翻译
+1512	Somebody's following him...		待翻译
+1513	Isn't that Kenny?		待翻译
+1514	Fast forward! This part's worthless!		待翻译
+1515	Stop!		待翻译
+1516	That guy, there... It's...Friedman!		待翻译
+1517	Why is Kenny following him?		待翻译
+1518	And where is he going?		待翻译
+1519	Oh, a secret passageway!		待翻译
+1520	Kenny? He's not going to follow him down there?		待翻译
+1521			跳过
+1522	Fast forward!		待翻译
+1523	They're coming out!		待翻译
+1524	It's Friedman...		待翻译
+1525	He's locking the door behind him! The bastard!...		待翻译
+1526	And who's that guy?		待翻译
+1527	What's he doing?		待翻译
+1528	I just don't get it...		待翻译
+1529	Now he's coming back out.		待翻译
+1530	Sure looks like he's in a hurry!		待翻译
+1531	Oh, the monsters! That's where they come from!		待翻译
+1532	He's the one who set them loose!		待翻译
+1533			跳过
+1534			跳过
+1535			跳过
+1536			跳过
+1537	- Oh, another one......		待翻译
+1538			跳过
+1539			跳过
+1540	- Herbert...		待翻译
+1541			跳过
+1542			跳过
+1543			跳过
+1544			跳过
+1545			跳过
+1546			跳过
+1547			跳过
+1548	Hey, it's me....		待翻译
+1549	- I've been looking all over for Kenny. \nYou haven't seen him around, have you?		待翻译
+1550	- I've been looking all over for Kenny. \nYou haven't seen him around, have you?\n- Kenny?		待翻译
+1551	- I've been looking all over for Kenny. \nYou haven't seen him around, have you?\n- Kenny...		待翻译
+1552	- Whaddya mean, "another one"?\n- Kenny...		待翻译
+1553	- Whaddya mean, "another one"?		待翻译
+1554	- Herbert? So that's the freak who kidnapped Kenny?\n- Herbert... He never let them out before...		待翻译
+1555	- Herbert? So that's the freak who kidnapped Kenny?\n- It's Leonard.		待翻译
+1556	- Herbert? So that's the freak who kidnapped Kenny?		待翻译
+1557	\n\n- That Leonard is gonna get it. 		待翻译
+1558	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- That Leonard is gonna get it. 		待翻译
+1559	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- She's gone AWOL... She doesn't understand a word I say...		待翻译
+1560	It's me, Ms. Wickson...		待翻译
+1561	- We're looking for our friend Kenny. \nYou don't know where he is, do you?		待翻译
+1562	- We're looking for our friend Kenny. \nYou don't know where he is, do you?\n- Kenny?		待翻译
+1563	- We're looking for our friend Kenny. \nYou don't know where he is, do you?\n- Kenny...		待翻译
+1564	- Whaddya mean, "another one"?\n- Kenny...		待翻译
+1565	- Whaddya mean, "another one"?		待翻译
+1566	- Herbert? The maniac who kidnapped Kenny?\n- Herbert... He never let them out before...		待翻译
+1567	- Herbert? The maniac who kidnapped Kenny?\n- It's Leonard.		待翻译
+1568	- Herbert? The maniac who kidnapped Kenny?		待翻译
+1569	\n\n- And who's Leonard?		待翻译
+1570	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n		待翻译
+1571	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- She's lost her mind!		待翻译
+1572	Ms. Wickson...		待翻译
+1573	- We're looking for Kenny. You don't know where he is, do you?		待翻译
+1574	- We're looking for Kenny. You don't know where he is, do you?\n- Kenny?		待翻译
+1575	- We're looking for Kenny. You don't know where he is, do you?\n- Kenny...		待翻译
+1576	- Another one what?\n- Kenny...		待翻译
+1577	- Another one what?		待翻译
+1578	- Herbert? That's the freak who kidnapped Kenny?\n- Herbert... He never let them out before...		待翻译
+1579	- Herbert? That's the freak who kidnapped Kenny?\n- It's Leonard.		待翻译
+1580	- Herbert? That's the freak who kidnapped Kenny?		待翻译
+1581	\n\n- What? Is Leonard the one who's got Kenny? Where's Leonard?		待翻译
+1582	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- What? Is Leonard the one who's got Kenny? Where's Leonard?		待翻译
+1583	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- Pff, she's totally wacked. No use asking her anything...		待翻译
+1584	Ms. Wickson...		待翻译
+1585	- Have you seen my brother, Kenny? Do you know where he is?		待翻译
+1586	- Have you seen my brother, Kenny? Do you know where he is?\n- Kenny?		待翻译
+1587	- Have you seen my brother, Kenny? Do you know where he is?\n- Kenny...		待翻译
+1588	- Whaddya mean "another one"?\n- Kenny...		待翻译
+1589	- Whaddya mean "another one"?		待翻译
+1590	- Herbert? He's the maniac who kidnapped Kenny?\n- Herbert... He never let them out before...		待翻译
+1591	- Herbert? He's the maniac who kidnapped Kenny?\n- It's Leonard.		待翻译
+1592	- Herbert? He's the maniac who kidnapped Kenny?		待翻译
+1593	\n\n- Leonard? The name rings a bell...		待翻译
+1594	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- Leonard? The name rings a bell...		待翻译
+1595	- He wants to get out. There's no way to stop him...\nHe's just too strong...\n- She's totally traumatized, poor Ms. Wickson...		待翻译
+1596			跳过
+1597	I'm looking for Friedman!		待翻译
+1598			跳过
+1599	You know where he is... Where did you see him?		待翻译
+1600			跳过
+1601			跳过
+1602	Possibly...		待翻译
+1603			跳过
+1604	NO!		待翻译
+1605	What about Kenny?		待翻译
+1606			跳过
+1607			跳过
+1608			跳过
+1609	I shouldn't but...\n what's the difference? Here!		待翻译
+1610			跳过
+1611			跳过
+1612	Mr. Walden! What are you doing?		待翻译
+1613	Friedman? If he was here, trust me, \nwe'd know it. He must still be ...		待翻译
+1614	He was in the library, but that \nwas quite a while ago...		待翻译
+1615	Wait! Do you think that Friedman has something to do \nwith what's happening?		待翻译
+1616	Can I go with you?		待翻译
+1617	Well, ever since I found out this stupid school has a \nbasement, I've been thinking Kenny's got to be down there.		待翻译
+1618	And there's a way through the auditorium.		待翻译
+1619	Just one little problem I can't get in without the key!		待翻译
+1620	Hey, thanks!  Hey... Hold on!		待翻译
+1621	Mr. Walden! What are you doing?		待翻译
+1622	You're not gonna find him under there. \nLast time i saw him he was in the...		待翻译
+1623	He was in the library, but that was \nquite a while ago...		待翻译
+1624	Wait! Do you think he knows what's going on?		待翻译
+1625	Can I come?		待翻译
+1626	Well, I just discovered a basement. \nI'm going to look for him down there.		待翻译
+1627	I found a way down from the auditorium, \nbut I don't have the key. 		待翻译
+1628	Could you please give it to me?		待翻译
+1629	Thanks! Hey... Don't go...		待翻译
+1630	Mr. Walden! What are you doing?		待翻译
+1631	I doubt he's in a locker. \nLast time I saw him he was in the...		待翻译
+1632	He was in the library, but that was \nquite a while ago...		待翻译
+1633	Wait! Do you think he knows what's going on?		待翻译
+1634	Can I come?		待翻译
+1635	Did you know this school has a basement? \nI just know Kenny's down there.		待翻译
+1636	We should to be able to go down through the auditorium.		待翻译
+1637	Could you please give me the key?		待翻译
+1638	Thanks! Hey... Don't go...		待翻译
+1639	Mr. Walden! What are you doing?		待翻译
+1640	I don't think he's around here. \nI bet he's still in the...		待翻译
+1641	I saw him in the library, but that \nwas quite a while ago...		待翻译
+1642	Wait! Do you think that Friedman knows what going on?		待翻译
+1643	Can I go with you?		待翻译
+1644	I have reason to believe that Kenny is being \nheld prisoner in the basement.		待翻译
+1645	And there seems to be a way down through the auditorium.		待翻译
+1646	But I need you to give me the key! Do you have one?		待翻译
+1647	Thanks! Hey... Don't go...		待翻译
+1648			跳过
+1649			跳过
+1650			跳过
+1651			跳过
+1652			跳过
+1653			跳过
+1654	Hey, what are these old photos?		待翻译
+1655	Friedman...		待翻译
+1656	The man hasn't aged a bit!		待翻译
+1657	Huh! How bizarre...		待翻译
+1658	Herbert looks just the same in these old photos\nas he does now.		待翻译
+1659	It's... It's freaky!		待翻译
+1660	This is unreal!		待翻译
+1661	Based on these, Friedman should be much older!		待翻译
+1662	He hasn't aged a bit!		待翻译
+1663	Huh? Look at all these old photos...		待翻译
+1664	The principal hasn't aged a bit.		待翻译
+1665	This is really creepy!		待翻译
+1666			跳过
+1667	Get me out of here! Friedman's on his way!		待翻译
+1668			跳过
+1669	I'll be better once I'm outta here! Come on, hurry up!		待翻译
+1670			跳过
+1671	It's Friedman!		待翻译
+1672	No...		待翻译
+1673	Get up...		待翻译
+1674	Don't...		待翻译
+1675	...sleep...		待翻译
+1676			跳过
+1677	Kenny!		待翻译
+1678	You all right? You look messed up.		待翻译
+1679	I got a plan...		待翻译
+1680	Kenny!		待翻译
+1681	You okay? You look weird!		待翻译
+1682	Ok...		待翻译
+1683	Kenny!		待翻译
+1684	My God! You look terrible!		待翻译
+1685	We'll get you out.		待翻译
+1686	Kenny!		待翻译
+1687	You don't look so hot!		待翻译
+1688	Calm down!		待翻译
+1689	Hey, what happened?		待翻译
+1690	Hey... What happened?		待翻译
+1691	Hey, where am I? What happened?		待翻译
+1692	Hey, where am I? What happened?		待翻译
+1693	Ahhhh...		待翻译
+1694			跳过
+1695	But... you've been infected! 		待翻译
+1696			跳过
+1697	Herbert... You've gone too far...		待翻译
+1698	You need to find the...antidote!		待翻译
+1699			跳过
+1700	In the basement...the lab...the big door...		待翻译
+1701			跳过
+1702	The other entrance...the gardens... 		待翻译
+1703			跳过
+1704	Leonard...don't let him go...Forgive us...		待翻译
+1705			跳过
+1706	Ms. Wickson!		待翻译
+1707	No it can't be.		待翻译
+1708	Antidote? What are you talking about?		待翻译
+1709	The basement? I just came from there... \nBut I didn't see any big door!		待翻译
+1710	Another entrance? Where? What gardens?		待翻译
+1711	Ms Wickson! You gotta stay with us!		待翻译
+1712	Ms. Wickson!		待翻译
+1713	So you knew about it!		待翻译
+1714	Antidote? There's an antidote?		待翻译
+1715	The basement? But I just came from there...\nI didn't see any big door!		待翻译
+1716	Another entrance? Where? What gardens?		待翻译
+1717	Ms. Wickson! Ms. Wickson!		待翻译
+1718	Hey! Ms. Wickson!		待翻译
+1719	That bastard Friedman did it!		待翻译
+1720	Friedman has an antidote? Where?		待翻译
+1721	In his lab, right? \nBut how do we get there?		待翻译
+1722	An entrance in the gardens? A different one?		待翻译
+1723	Wickson!		待翻译
+1724	Oh no! Ms. Wickson!		待翻译
+1725	Then it's true?		待翻译
+1726	An antidote? Do you have one?		待翻译
+1727	But I just came from there... \nI didn't see any big door!		待翻译
+1728	Another entrance? The gardens?		待翻译
+1729	Ms. Wickson! Ms. Wickson! No! Don't go! Oh...		待翻译
+1730	My God! Ms. Wickson!		待翻译
+1731	I've been infected?		待翻译
+1732	An antidote? There's an antidote?		待翻译
+1733	The basement? But I just came from there... \nI didn't see a big door!		待翻译
+1734	Another entrance? In the gardens?		待翻译
+1735	Ms. Wickson! Ms. Wickson!		待翻译
+1736	It's December 2nd, 1969.		待翻译
+1737	My name is Alan Gardener and this is my diary...		待翻译
+1738	26! I have now counted 26 cases of missing \npersons connected with the school.		待翻译
+1739	Strange that the police have never come up with \nanything about it...		待翻译
+1740	Our school was founded in 1902 by twin brothers \nHerbert and Leonard Friedman.		待翻译
+1741	Herbert is still our principal.		待翻译
+1742	That would mean he's at least a hundred years old!		待翻译
+1743	I just found their birth certificates.		待翻译
+1744	Judging by that date, they...\nHow have they stayed so young for so long?!		待翻译
+1745	I found this photo of a woman with \nHerbert... or Leonard.		待翻译
+1746	She looks a lot like Ms. Wickson.		待翻译
+1747	According to this marriage certificate, Ms. Wickson \nand Leonard got married in 1885.		待翻译
+1748	Leonard was last seen in 1921. \nHe supposedly died in a plane crash,		待翻译
+1749	but they never found his body, or even the plane...		待翻译
+1750	I found some articles about the Friedman brothers \nand their experiments,		待翻译
+1751	said to be so original that they "went beyond \nhuman morality".		待翻译
+1752	In 1890, they went on an expedition to \nAfrica to find medicinal plants.		待翻译
+1753	They stayed for six months and brought back a \nlarge number of hitherto unknown varieties.		待翻译
+1754	One strange specimen, Mortifilia, became \nthe basic subject of their research.		待翻译
+1755	I have discovered horrible photos of disfigured \npeople in his office...		待翻译
+1756	I absolutely must find his lab.		待翻译
+1757	Underneath the high school! In the basement!		待翻译
+1758	I managed to follow him unnoticed through the \ngardens to the basement of their house.		待翻译
+1759	I searched the lab and according to Friedman's notes,		待翻译
+1760	the antiaging serum has yet to be perfected.		待翻译
+1761	The photos of half-human creatures bear \nwitness to the failed attempts.		待翻译
+1762	Prolonged exposure to the sun results in mutation. 		待翻译
+1763	There is also a big door in one room.		待翻译
+1764	I don't know what's behind it, but I think \nI understand how to open it.		待翻译
+1765	There is a mechanism with little statues,		待翻译
+1766	I've seen three of them around the library and \none in the gardens.		待翻译
+1767	Tomorrow I'll go and try to see what's going on \nbehind that door...		待翻译
+1768			跳过
+1769			跳过
+1770			跳过
+1771			跳过
+1772			跳过
+1773			跳过
+1774			跳过
+1775			跳过
+1776			跳过
+1777			跳过
+1778	You're still here!		待翻译
+1779			跳过
+1780	An antidote? There's an antidote?\nAre you...you're sure of that?		待翻译
+1781			跳过
+1782	But how do you plan on finding that lab?		待翻译
+1783			跳过
+1784	A map? It's...you're going...		待翻译
+1785	Aaahhhrgg!		待翻译
+1786			跳过
+1787			跳过
+1788	Friedman injected me with a virus! \nI need the antidote. 		待翻译
+1789	There'd better be! In one of Friedman's labs...\nbehind the big door...		待翻译
+1790	Easy! With this map! Hey!		待翻译
+1791	What the hell!		待翻译
+1792	HEY! My map! That's my map!		待翻译
+1793	Friedman injected me.\nI've got to find the antidote...		待翻译
+1794	Yes! In a lab behind a big door, according to \nMs. Wickson!		待翻译
+1795	Thanks to this map of the basement. 		待翻译
+1796	What the hell...		待翻译
+1797	HEY! My map!		待翻译
+1798	Friedman made me his guinea pig! \nI need to find the antidote.		待翻译
+1799	I'm absolutely positive! According to Wickson, \nit's behind some big door!		待翻译
+1800	A map of the basement! What?		待翻译
+1801	HEY!		待翻译
+1802	Give me back my map!		待翻译
+1803	I'm infected and I need to find the antidote.		待翻译
+1804	There'd better be one! \nBut we need to find a lab with a big door!		待翻译
+1805	I found a map of the basement!		待翻译
+1806	HEY!		待翻译
+1807	He's getting away with my map!		待翻译
+1808	I'm infected and I need to find the antidote.		待翻译
+1809	I'm positive. Apparently, it's some lab \nin the basement behind a big door.		待翻译
+1810	I found a map of the basement!		待翻译
+1811	Oh my God!		待翻译
+1812	Wait! My map!		待翻译
+1813	Walden, stop! That won't help!		待翻译
+1814	You're lying!		待翻译
+1815	But it won't do you any good!		待翻译
+1816	That's the antidote? Give it to me! Right now!		待翻译
+1817	You've been exposed to too much light. 		待翻译
+1818	No!		待翻译
+1819	Walden! Stop!		待翻译
+1820	Give me the antidote or I'll shoot!		待翻译
+1821	You've already started to mutate!		待翻译
+1822			跳过
+1823			跳过
+1824			跳过
+1825			跳过
+1826			跳过
+1827			跳过
+1828			跳过
+1829			跳过
+1830			跳过
+1831			跳过
+1832			跳过
+1833			跳过
+1834			跳过
+1835			跳过
+1836			跳过
+1837			跳过
+1838			跳过
+1839			跳过
+1840			跳过
+1841			跳过
+1842			跳过
+1843			跳过
+1844			跳过
+1845			跳过
+1846			跳过
+1847			跳过
+1848			跳过
+1849			跳过
+1850	Hurry up! Something's moving up there!		待翻译
+1851	Quick! Something's moving up there!		待翻译
+1852	Quick! Something's moving up there!		待翻译
+1853	Quick! Something's moving up there!		待翻译
+1854	Leonard,forgive me...		待翻译
+1855	I almost found the formula, I almost did it!		待翻译
+1856	Please, no, no... Have pity! No! No more injections! \nIt burns... No... 		待翻译
+1857	- What the hell is this place, anyway? Hey!\n- Please! Not again, it hurts... No... I don't want to go back...		待翻译
+1858	- What the hell is this place, anyway? Hey!\n- Please! Not again, it hurts... No... I don't want to go back...		待翻译
+1859	HA!		待翻译
+1860	Hey, chill out, I'm not going to hurt you!		待翻译
+1861	Huh? Oh... You fell for it too? 		待翻译
+1862	Fell for what?		待翻译
+1863	You don't get it? We've got to get out of here. Quick.		待翻译
+1864	Ok, let's bolt!		待翻译
+1865	Don't abandon me whatever you do! He's nuts.		待翻译
+1866	I won't!		待翻译
+1867			跳过
+1868	Who is that? I can't make it out.		待翻译
+1869	Hey, it's Kenny! He's alive!		待翻译
+1870	We've got to go find him!		待翻译
+1871	Hey, it's Kenny!		待翻译
+1872	He's alive!		待翻译
+1873	We have to go find him!		待翻译
+1874	Hey, it's Kenny!		待翻译
+1875	He's alive!		待翻译
+1876	We've got to go find him!		待翻译
+1877	Hey, it's... Kenny!		待翻译
+1878	He's alive!		待翻译
+1879	We've got to go find him!		待翻译
+1880	Aahhh...		待翻译
+1881			跳过
+1882	Friedman gave us injections of that stuff! \nIf the light hits us, we will be transformed! 		待翻译
+1883			跳过
+1884	The infirmary! We've got to see Wickson!		待翻译
+1885			跳过
+1886	There's no choice... We only have until sunrise... \nAfter that, we're done for!		待翻译
+1887	Yo Kenny, you all right man?\nYo, we got to roll outta here now!		待翻译
+1888	Don't worry about it, man. I'll fix everything. \nI've got cutters, let's go search the rooms.		待翻译
+1889	She's nuts! I don't trust her...		待翻译
+1890	Kenny! What's wrong? Quick, get up,\nwe can't stay here!		待翻译
+1891	Don't worry, we'll find a solution. Now that we have the cutters, \nwe can check out the place where Friedman does his dirty work...		待翻译
+1892	She's with Friedman. She'll never help us!		待翻译
+1893	Kenny! My God! Quick, get up,\nwe can't stay here!		待翻译
+1894	Kenny, baby! Don't worry. Now that we have \nthe cutters, we can search Friedman's hideaway!		待翻译
+1895	She won't be much help.		待翻译
+1896	Kenny! Are you okay? We have to get you out \nof this place. Come on! Get up!		待翻译
+1897	Don't worry, I'll get you out of this mess.\nI've found cutters so I can search Friedman's hideaway.		待翻译
+1898	You're sure? She's not with Friedman?		待翻译
+1899			跳过
+1900	Aliens beamed him up to their ship, did some \nexperiments on him and finally killed him!		待翻译
+1901	NEW GAME	开始新游戏	已有译文
+1902	LOAD	读取进度	已有译文
+1903	OPTIONS	游戏设置	已有译文
+1904	BRIGHTNESS	亮度	已有译文
+1905	SOUND	音效	已有译文
+1906	MONO	单声道	已有译文
+1907	Dolby® Prologic II		待翻译
+1908	ON	是	已有译文
+1909	OFF	否	已有译文
+1910	VIBRATION	振动	已有译文
+1911	SUBTITLES	字幕	已有译文
+1912	BUTTON SETTINGS	手柄	已有译文
+1913	PAUSE	暂停	已有译文
+1914	RESUME	继续游戏	已有译文
+1915	QUIT	退出游戏	已有译文
+1916	Do you really want to quit?	确定要退出吗？	已有译文
+1917	YES	是	已有译文
+1918	NO	否	已有译文
+1919	LOADING	读取	已有译文
+1920	SLOT 1		跳过（PS2/Xbox 遗留）
+1921	SLOT2		跳过（PS2/Xbox 遗留）
+1922	OK		待翻译
+1923	LANGUAGE		待翻译
+1924	ENGLISH		待翻译
+1925	FRANCAIS		待翻译
+1926	DEUTSCH		待翻译
+1927	ITALIANO		待翻译
+1928	ESPAÑOL		待翻译
+1929	SAVING		待翻译
+1930	BACK TO PLACE OF GATHERING	回到集合点	已有译文
+1931	Please tune your screen's brightness\nso that nothing is visible to the left of the red line.		待翻译
+1932	The analog controller (DUALSHOCK®2)\nis not detected. Please insert an analog controller\n(DUALSHOCK®2) to controller port 1.		待翻译
+1933	The analog controller (DUALSHOCK®2)\nis not detected. Please insert an analog controller\n(DUALSHOCK®2) to controller port 2.		待翻译
+1934	The analog controller (DUALSHOCK®2)\nis not detected. Please insert an analog controller\n(DUALSHOCK®2) to controller ports 1 and 2.		待翻译
+1935	Please reconnect the controller\nand press START to continue.		待翻译
+1936	Flashlight "Boost" mode		待翻译
+1937	Lock		待翻译
+1938	Teammate\ninstructions		待翻译
+1939	Pause	暂停	已有译文
+1940	Special skill		待翻译
+1941	Cancel / \nChange target	取消／切换目标	已有译文
+1942	Change Player		待翻译
+1943	Use / Shoot		待翻译
+1944	Select a weapon / \nAim		待翻译
+1945	Select an object / \nMove		待翻译
+1946	Documents		待翻译
+1947	Objects inventory	物品栏	已有译文
+1948	Weapons inventory	武器栏	已有译文
+1949	Previous		待翻译
+1950	Next		待翻译
+1951	DIFFICULTY	难度	已有译文
+1952	EASY	简单	已有译文
+1953	NORMAL	普通	已有译文
+1954	HARD	困难	已有译文
+1955	SPECIAL MODE		待翻译
+1956	BONUS	奖励内容	已有译文
+1957	MUSIC		待翻译
+1958	EXTRA		待翻译
+1959	CREDITS		待翻译
+1960	APPLY CHANGES AND QUIT	应用并退出	已有译文
+1961	No saved game	暂无存档	已有译文
+1962	Making of\nThe making of Obscure, behind-the-scenes		待翻译
+1963	You have unlocked the special Morgenstern bat.\nFind it by re-playing Obscure in special mode.		待翻译
+1964	You have unlocked the "laser gun"\nFind it by re-playing Obscure in special mode \nUse the weapon boost mode to activate the laser		待翻译
+1965	Gallery 1: Production drawings		待翻译
+1966	Gallery 2: Abandoned sketches and bonus images		待翻译
+1967	New outfit for Ashley.\nRe-play Obscure in special mode to see it.		待翻译
+1968	New outfit for Josh.\nRe-play Obscure in special mode to see it.		待翻译
+1969	Video of the prototype		待翻译
+1970	Trailer		待翻译
+1971	New outfit for Stan.\nRe-play Obscure in special mode to see it.		待翻译
+1972	New outfit for Shannon.\nRe-play Obscure in special mode to see it.		待翻译
+1973	New outfit for Kenny.\nRe-play Obscure in special mode to see it.		待翻译
+1974	Finish the game in hard mode  \nto unlock this bonus.		待翻译
+1975	Finish the game in special mode\nto unlock this bonus		待翻译
+1976	Finish the game in normal or hard mode \nto unlock this bonus.		待翻译
+1977	Keep this student alive to the end of \nthe adventure to unlock this bonus.		待翻译
+1978	Visible in every new part of special mode\n(excluding kinematics)		待翻译
+1979	÷  / Æ  : Previous / next track\nÐ : Stop playing		待翻译
+1980	TRAILER		待翻译
+1981	Written and Produced by Olivier Derivière		待翻译
+1982	Press Ã to return to main menu.	按 X 返回主菜单	已有译文
+1983	Damaged game		待翻译
+1984	Please reconnect the controller to controller \nport 1 and press START to continue.		待翻译
+1985	Please reconnect the controller to controller \nport 2 and press START to continue.		待翻译
+1986	Please reconnect the controller to controller \nport 3 and press START to continue.		待翻译
+1987	Please reconnect the controller to controller \nport 4 and press START to continue.		待翻译
+1988	Press START		待翻译
+1989	BUTTON SETTINGS	控制器设置	已有译文
+1990	PLAYER 1		待翻译
+1991	PLAYER 2		待翻译
+1992	MOVES / TEAMMATE	行动记录／队友	已有译文
+1993	FIGHTS	战斗记录	已有译文
+1994	MISCELLANEOUS	其他	已有译文
+1995	Press any key...	按任意键…	已有译文
+1996	Save new settings?	保存新设置？	已有译文
+1997	Default controls	默认控制	已有译文
+1998	Apply changes?	保存设置？	已有译文
+1999	LOAD OPTIONS	载入设置	已有译文
+2000	ACHIEVEMENTS	成就一览	已有译文
+2001	SCREEN RESOLUTION		待翻译
+2002	Select controller	选择手柄	已有译文
+2003	Keyboard		待翻译
+2004	Game controller	游戏手柄	已有译文
+2005	No controller assigned		待翻译
+2006	Select a controller for player 1.		待翻译
+2007	Select a controller for player 2.		待翻译
+2008	I can't run faster! I'm hurt too bad...		待翻译
+2009	No, I can't go any faster.		待翻译
+2010	(ff hhh ff hhh ff)		待翻译
+2011	There's nothing left for us here.		待翻译
+2012	There's nothing left for us here.		待翻译
+2013	I just know there's something else.		待翻译
+2014	I'm positive there's still something left.		待翻译
+2015	There are no locks to pick here!		待翻译
+2016	There's something else I can pick in the corner.		待翻译
+2017	There are more locks here.		待翻译
+2018	Where are they? I wanna fight!		待翻译
+2019	Yo, if Shannon were here, she'd know what to do.		待翻译
+2020	If Shannon were here, she would tell me \nwhat to do.		待翻译
+2021	If Shannon were here, she'd know what to do.		待翻译
+2022	If Shannon were here, she'd help me out.		待翻译
+2023	Josh is better at finding stuff than me.\nHe always finds great stuff. By instinct.		待翻译
+2024	Josh would be able to find something a lot \nbetter than me. He always finds wild stuff.		待翻译
+2025	Josh is better at searching for things.\nHe always finds good stuff, just by instinct...		待翻译
+2026	Josh is better at searching for things.\nHe finds good things by instinct.		待翻译
+2027	Ashley would dig this, she loves fighting.		待翻译
+2028	I need to get Ashley, she knows how to fight!		待翻译
+2029	Ashley would dig this, she loves kicking ass.		待翻译
+2030	Ashley's a better fighter than me!		待翻译
+2031	I'm sick of running! My name's not Kenny!		待翻译
+2032	I'm sick of running! And my name's not Kenny!		待翻译
+2033	I'm tired of this! Kenny's a better runner!		待翻译
+2034	I'm tired of running! It's not like I'm Kenny!		待翻译
+2035	Stan would do that faster than me!		待翻译
+2036	Stan would do that faster than me!		待翻译
+2037	Stan would be faster than that!		待翻译
+2038	Stan would do that faster than me!		待翻译
+2039	I think we have to pick this lock.		待翻译
+2040	Let's see what's in here!		待翻译
+2041	I need someone to help me get to that grating \nin the restroom.		待翻译
+2042	I need a tool to remove that grating in \nthe restroom.		待翻译
+2043	Let's check the place out...		待翻译
+2044	This rusty key must open some old door \naround here.		待翻译
+2045	Let's check out this attic...		待翻译
+2046	We can leave the building now.\nWalden opened the doors for us.		待翻译
+2047	Let's go find Friedman, he must be in his office.		待翻译
+2048	Friedman is in the building.		待翻译
+2049	We need some way to get rid of this chain.\nWith acid, maybe?		待翻译
+2050	We have to break the chain.\nA pair of cutters, some corrosives, whatever!		待翻译
+2051	Let's check this floor out...		待翻译
+2052	Friedman's map seems to be missing something...		待翻译
+2053	The dials should be pointing at something.\nBut what?		待翻译
+2054	Is there anything interesting in the coffer?		待翻译
+2055	Let's get out of this building and go \nto the library. Friedman must be there.		待翻译
+2056	The library building is close to the parking lot.		待翻译
+2057	Quick, let's try to find Friedman!		待翻译
+2058	We need to find the key to the library.		待翻译
+2059	If we find a strong light, we might be able to \nsee through the paper.		待翻译
+2060	Let's use the code to open the coffer.		待翻译
+2061	This key will open the library door.		待翻译
+2062	Let's see what's in the library.		待翻译
+2063	I think it can't stand light.		待翻译
+2064	Friedman told us to go see the janitor, \nso let's go!		待翻译
+2065	The janitor's office is right next to the cafeteria.		待翻译
+2066	Let's check out the office...		待翻译
+2067	This VCR might work.		待翻译
+2068	With this key, we can go through the cafeteria \nand then go help the poor nurse.		待翻译
+2069	Let's see what's in the office...		待翻译
+2070	Let's check out the cafeteria.		待翻译
+2071	We need to find the fuse box to get \nthe lights back on.		待翻译
+2072	There are some fuses missing from the fuse box.		待翻译
+2073	It's a three-phase current, so we need to fix all \nthree connections.		待翻译
+2074	I think the nurse will agree to open \nthe door for us now.		待翻译
+2075	Let's check out the infirmary!		待翻译
+2076	I've seen this hand wheel somewhere before...\nI'm certain it was in the administration building.		待翻译
+2077	I already saw this hand wheel in one of \nthe rooms of the building.		待翻译
+2078	Yeah, this is where I saw one of those weird \nhand wheels.		待翻译
+2079	Let's go back to the filing room.		待翻译
+2080	Let's check the place out...		待翻译
+2081	Let's go.		待翻译
+2082	Now that we have the key to the auditorium, \nlet's go there!		待翻译
+2083	Let's check out the auditorium.		待翻译
+2084	I wonder how the service elevator works.		待翻译
+2085	Damn it, this service elevator doesn't go \ndown to the basement anymore. But it \nused to go down, I'm positive!		待翻译
+2086	There's a ladder in the elevator shaft!		待翻译
+2087	This old elevator doesn't have a sensor. So it \nshould come back up even if the gate is open.		待翻译
+2088	Okay... The board is holding the doors open.\nBut the elevator car is still in my way.		待翻译
+2089	I don't know about this. I've got a bad feeling.		待翻译
+2090	Let's check the place out. What a mess...		待翻译
+2091	Damn, it's dark! We need some light!		待翻译
+2092	Quick, let's bolt!		待翻译
+2093	The lever we picked up must be used \nfor something!		待翻译
+2094	There's something about this room.		待翻译
+2095	These halls give me the creeps.		待翻译
+2096	We can go down by the ladder in the secret \npassageway we discovered.		待翻译
+2097	Let's check out this creepy place.		待翻译
+2098	We have to hurry up and get out of \nthe basement!		待翻译
+2099	Let's go back and see the nurse. Maybe she \nknows something about the antidote.		待翻译
+2100	The padlock would be easy to break with \nthe cutters I saw in the prison.		待翻译
+2101	Let's go back and see the nurse.\nShe'll help us find an antidote.		待翻译
+2102	There are some more padlocks to break off!		待翻译
+2103	This place is freaky. Something terrible must \nhave happened here.		待翻译
+2104	The floor doesn't seem very solid.\nWe'd better watch our step.		待翻译
+2105	The wall is all cracked.		待翻译
+2106	We need to open this coffer. Maybe we \ncould drop it from somewhere really high.		待翻译
+2107	Let's go get the coffer and see if it's \nstill in one piece.		待翻译
+2108	Got it! This is the key to Friedman's \nsecret hideaway, behind the library. \nLet's go see what's in there!		待翻译
+2109	Let's check this place out.		待翻译
+2110	There must be somewhere we can watch \nthis reel of film...		待翻译
+2111	I can't believe Walden. How are we getting out \nof here now?		待翻译
+2112	Alan Gardener's diary says something \nabout statues. We've got to find them if \nwe want to open Friedman's lab.		待翻译
+2113	I'm sure I saw an old projector somewhere \nin this school.		待翻译
+2114	I remember, this is where they show the \nold movies!		待翻译
+2115	I remember the code: 0582. \nAnd I've seen that gate before in \nthe northwest part of the school.		待翻译
+2116	There's no choice, we've gotta go \nthrough these gardens.		待翻译
+2117	This place is freaky. Let's hurry up and \nget out of the gardens!		待翻译
+2118	The passage is closed.There must be some \nhidden mechanism we can trigger.		待翻译
+2119	We need to find 4 statues. But I have the \nfeeling they're not all in the basement.		待翻译
+2120	The three statues we haven't found yet\nmust be somewhere outside the basement.		待翻译
+2121	The last statue is somewhere outside \nthe basement, I just know it.		待翻译
+2122	Try aiming at the roots!		待翻译
+2123	Keep on fighting until the light kills him.		待翻译
+2124	Ok, I'm with you.		待翻译
+2125	Let's move!		待翻译
+2126	Ok, I'm with you.		待翻译
+2127	Let's go!		待翻译
+2128	Okay, I'm right behind you.		待翻译
+2129	I'm right behind you.		待翻译
+2130	Okay, I'm not going anywhere.		待翻译
+2131	Fine, I'll stay here.		待翻译
+2132	I'll stay here.		待翻译
+2133	Ok, I'll stay put.		待翻译
+2134	Right, I won't budge.		待翻译
+2135	You're finally back! You know, \nI almost missed you...		待翻译
+2136	Hey, what took you so long? I was worried!		待翻译
+2137	Ah, there you are!		待翻译
+2138	Oh, finally! What do we do now?		待翻译
+2139	Where were you? I was worried sick!		待翻译
+2140	You're finally back! You know, I almost \nmissed you guys...		待翻译
+2141	Hey, what took you guys so long?\nI was worried.		待翻译
+2142	Ah, there you guys are!		待翻译
+2143	You guys sure took your time!\nWhat do we do now?		待翻译
+2144	Where were you guys? You had me worried!		待翻译
+2145	But where's Josh? Don't tell me he's... dead.		待翻译
+2146	Why isn't Josh with you? Oh no...\nDon't tell me he's been...		待翻译
+2147	And Josh, where's Josh? Is he... dead?		待翻译
+2148	And Josh? Is he? Oh no...		待翻译
+2149	But where is Ashley? Don't tell me she's... dead.		待翻译
+2150	And Ashley? She's not... Oh no...		待翻译
+2151	Why isn't Ashley with you? Oh no...\nDon't tell me she's been...		待翻译
+2152	But, where is Ashley? No... No...		待翻译
+2153	But where is Shannon? Don't tell me she's...\ndead.		待翻译
+2154	And Shannon? She's not... Oh no...		待翻译
+2155	Why isn't Shannon with you? Oh no...\nDon't tell me she's been...		待翻译
+2156	And Shannon? Don't tell me...that... Oh no...		待翻译
+2157	And Stan? He isn't... Oh no...		待翻译
+2158	Why isn't Stan with you? Oh no...\nDon't tell me he's been...		待翻译
+2159	And Stan? Is he...dead?		待翻译
+2160	And Stan? Is he? Oh no...		待翻译
+2161	But where is Kenny? Don't tell me... he's dead...		待翻译
+2162	And Kenny? He isn't... Oh no...		待翻译
+2163	And Kenny? Don't tell me...that... Oh no		待翻译
+2164	But, where is Kenny? He's not...		待翻译
+2165	What the hell is going on!		待翻译
+2166	This isn't happening...		待翻译
+2167	This is some weird shit...		待翻译
+2168	I can't believe this...		待翻译
+2169	(sniff... sniff)		待翻译
+2170	Hey, keep cool!		待翻译
+2171	Ouch! What's your problem?		待翻译
+2172	Hey! Want me to punch your lights out?		待翻译
+2173	What's the matter with you?		待翻译
+2174	Ouuuch!		待翻译
+2175	Dude! You gotta relax!		待翻译
+2176	Hey! Violence never solves anything!		待翻译
+2177	Man!\nI think you've definitely got a screw loose!		待翻译
+2178	You've got a serious problem!		待翻译
+2179	Hey, have you gone nuts or what?		待翻译
+2180	Whoah, chill out, man!		待翻译
+2181	Hey! Are you out of your mind?		待翻译
+2182	Hey... Get a hold of yourself!		待翻译
+2183	What? Are you insane?		待翻译
+2184	Stop it, you're hurting me!		待翻译
+2185	What's your problem, man?		待翻译
+2186	Ouch! Quit it, are you crazy?		待翻译
+2187	Ouch! Don't mess with me!		待翻译
+2188	If you don't stop, I'll kick your ass.		待翻译
+2189	Cut it out already!		待翻译
+2190	Come on dude, fight back!		待翻译
+2191	Fight back!		待翻译
+2192	Fight back!		待翻译
+2193	Fight back!		待翻译
+2194	Fight back!		待翻译
+2195	You like that?		待翻译
+2196	Eat this!		待翻译
+2197	Raaa!		待翻译
+2198	Take that!		待翻译
+2199	Screw you!		待翻译
+2200	That'll calm you down!		待翻译
+2201	Take that!		待翻译
+2202	Suck on that!		待翻译
+2203	Suck on this!		待翻译
+2204	Take that!		待翻译
+2205	Suck on this!		待翻译
+2206	Chew on this!		待翻译
+2207	Get lost!		待翻译
+2208	Don't mess with me!		待翻译
+2209	Filthy beast!		待翻译
+2210	You're gonna love this, come on!		待翻译
+2211	Go to hell!		待翻译
+2212	Hurts, don't it?!?		待翻译
+2213	(Umpf!)		待翻译
+2214	(Umpf!)		待翻译
+2215	(Umpf!)		待翻译
+2216	(Umpf!)		待翻译
+2217	(Umpf!)		待翻译
+2218	Screw you!		待翻译
+2219	(Umpf! Umpf)		待翻译
+2220	Haa!		待翻译
+2221	Look at me! Stan, the man!		待翻译
+2222	Cool!		待翻译
+2223	I am the bomb!		待翻译
+2224	Sweet!		待翻译
+2225	YES!		待翻译
+2226	Who da man?		待翻译
+2227	That takes care of that!		待翻译
+2228	We won!		待翻译
+2229	Game over!		待翻译
+2230	I did it!		待翻译
+2231	Not like this...		待翻译
+2232	Aahh...		待翻译
+2233	Oh no!		待翻译
+2234	I can't...aahh...		待翻译
+2235	Ahhh...		待翻译
+2236	Ahhhhhh...		待翻译
+2237	Ahhhhhh...		待翻译
+2238	Noooo...		待翻译
+2239	Ah... No...		待翻译
+2240	No...		待翻译
+2241	Ahhhhhh...		待翻译
+2242	Ok!		待翻译
+2243	Ok!		待翻译
+2244	Ok!		待翻译
+2245	Ok!		待翻译
+2246	Ok!		待翻译
+2247	(hhrrr)		待翻译
+2248	hahhhh... That hurts...		待翻译
+2249	(hhh ..... hhh...)		待翻译
+2250	(hh hh hh hh )		待翻译
+2251	(hhh hhhh hhh hhhh)		待翻译
+2252	(hhhu)		待翻译
+2253	(hhhu)		待翻译
+2254	(hhhu)		待翻译
+2255	(hhhu)		待翻译
+2256	(hhhu)		待翻译
+2257	Ahhh... that feels good...		待翻译
+2258	Ahhh... that feels great...		待翻译
+2259	Ahhh... that feels great...		待翻译
+2260	Ahhh... that feels great...		待翻译
+2261	Ahhh... that feels great...		待翻译
+2262	Wow, It's on now.		待翻译
+2263	Wow, I'm ready to rock!		待翻译
+2264	Alright, I'm ready to rock!		待翻译
+2265	Yeah, I feel great now.		待翻译
+2266	Ah, I've never felt better!		待翻译
+2267	I'll pay you back some day!		待翻译
+2268	Thanks!		待翻译
+2269	Thanks.		待翻译
+2270	Thanks a lot.		待翻译
+2271	Thanks, that was sweet.		待翻译
+2272	You got it, buddy!  It's all been saved.		待翻译
+2273	Ok, it's recorded.		待翻译
+2274	It's saved.		待翻译
+2275	It's recorded!		待翻译
+2276	All right, it's recorded!		待翻译
+2277	I got this... I can pick this thing.		待翻译
+2278	This lock looks easy...		待翻译
+2279	This lock looks easy...		待翻译
+2280	This lock looks easy...		待翻译
+2281	This lock looks easy...		待翻译
+2282	Sweet!		待翻译
+2283	Cool!		待翻译
+2284	Alright!		待翻译
+2285	Awesome!		待翻译
+2286	Cool!		待翻译
+2287	What is this thing?		待翻译
+2288	What is it?		待翻译
+2289	What is this thing?		待翻译
+2290	What is it?		待翻译
+2291	What's this?		待翻译
+2292	(umpf)		待翻译
+2293	(umpf)		待翻译
+2294	(umrr)		待翻译
+2295	(umpf)		待翻译
+2296	(umpf)		待翻译
+2297	(hum!)		待翻译
+2298	(hum!)		待翻译
+2299	(hum!)		待翻译
+2300	(hum!)		待翻译
+2301	(hum!)		待翻译
+2302	(gymnastics)		待翻译
+2303	(gymnastics)		待翻译
+2304	(gymnastics)		待翻译
+2305	(gymnastics)		待翻译
+2306	(gymnastics)		待翻译
+2307	(hhhh hhhh hhhh hhh hhh)		待翻译
+2308	(hhhh hhhh hhhh hhh hhh)		待翻译
+2309	(hhhh hhhh hhhh hhh hhh)		待翻译
+2310	(hhhh hhhh hhhh hhh hhh)		待翻译
+2311	(hhhh hhhh hhhh hhh hhh)		待翻译
+2312	That does it!		待翻译
+2313	It works!		待翻译
+2314	It works!		待翻译
+2315	It works!		待翻译
+2316	It works!		待翻译
+2317	Where the hell did that come from?		待翻译
+2318	What is that thing?		待翻译
+2319	What is that thing?		待翻译
+2320	What the hell is that?		待翻译
+2321	Oh God! What is that thing?		待翻译
+2322	Oh, what the hell is that?		待翻译
+2323	That thing is gross! Yuck!		待翻译
+2324	My God, what in the world?		待翻译
+2325	(Huuuh )		待翻译
+2326	No! No! No! No!		待翻译
+2327	Oh my God!		待翻译
+2328	Shit, shit, shit...		待翻译
+2329	Damn, damn, damn...		待翻译
+2330	No, no, no...		待翻译
+2331	What the hell!		待翻译
+2332	My God!		待翻译
+2333	My God!		待翻译
+2334	I don't believe it!		待翻译
+2335	Is that for real?		待翻译
+2336	My God!		待翻译
+2337	Holy shit!		待翻译
+2338	Jesus, Joseph and Mary!		待翻译
+2339	Is that for real?		待翻译
+2340	What the hell!		待翻译
+2341	What in the hell?		待翻译
+2342	Dear Lord!		待翻译
+2343	What the hell!		待翻译
+2344	Oh my God!		待翻译
+2345	Oh my God!		待翻译
+2346	I think I'm going throw up!		待翻译
+2347	My God!		待翻译
+2348	I'm gonna hurl!		待翻译
+2349	Ugh! That is gnarly!		待翻译
+2350	Gross!		待翻译
+2351	(Ah!)		待翻译
+2352	(Ah!)		待翻译
+2353	(Ah!)		待翻译
+2354	(Hi!)		待翻译
+2355	(Hi!)		待翻译
+2356	(Aaaahhh!)		待翻译
+2357	(Aaaahhh!)		待翻译
+2358	(Aaaahhh!)		待翻译
+2359	(Hiaaaa!)		待翻译
+2360	(Hiiii!)		待翻译
+2361	Josh! Josh? Aaahh...		待翻译
+2362	Josh! Oh shit!		待翻译
+2363	Josh, no... Josh!		待翻译
+2364	Josh? Noooo!		待翻译
+2365	Ashley! Ashley? Aaahh...		待翻译
+2366	Ashley! Oh no...		待翻译
+2367	Ashley! Oh shit!		待翻译
+2368	Ashley? Noooo!		待翻译
+2369	Shannon! Shannon? Aaahh...		待翻译
+2370	Shannon! Oh no...		待翻译
+2371	Shannon! Oh shit!		待翻译
+2372	Shannon, no... Shannon!		待翻译
+2373	Stan!?! Oh no...		待翻译
+2374	Stan! Shit!		待翻译
+2375	Stan, no... Stan!		待翻译
+2376	Stan? Noooo!		待翻译
+2377	Kenny! Kenny? Aaahh...		待翻译
+2378	Kenny! Oh no...		待翻译
+2379	Kenny, no... Kenny!		待翻译
+2380	Kenny? Noooo!		待翻译
+2381	There are only three of us left now.		待翻译
+2382	There are only three of us left now.		待翻译
+2383	There are only three of us left now.		待翻译
+2384	There are only three of us left now.		待翻译
+2385	There are only three of us left now.		待翻译
+2386	There are only two of us left now!		待翻译
+2387	There are only two of us left now!		待翻译
+2388	There are only two of us left now!		待翻译
+2389	There are only two of us left now!		待翻译
+2390	There are only two of us left now!		待翻译
+2391	They're all dead!		待翻译
+2392	They're all dead!		待翻译
+2393	I can't believe it... They're all dead!		待翻译
+2394	They're all dead!		待翻译
+2395	I don't believe it... They're all dead!		待翻译
+2396	No... No... No...		待翻译
+2397	Help me!		待翻译
+2398	It hurts!		待翻译
+2399	Help...		待翻译
+2400	I can't see a thing down there. I need a flashlight.		待翻译
+2401	It's a real war zone down there, I need a weapon.		待翻译
+2402	No, I've got to find the guy who took my bag.		待翻译
+2403	Damn, that must be Ashley calling me!		待翻译
+2404	Pff... I should have turned off my cell phone.		待翻译
+2405	Ok, let's go.		待翻译
+2406	I should have tried this gun out first!		待翻译
+2407	It's frigging creepy down here...		待翻译
+2408	You should turn up your flashlight, \nit seems to hurt them.		待翻译
+2409	Quick, let's bolt!		待翻译
+2410	The guy who lives here must be a real psycho.		待翻译
+2411	We'll never make it!		待翻译
+2412	It's too strong, let's get out of here!		待翻译
+2413	There's no point coming back here!\nThe only exit is at the end of the long hallway!		待翻译
+2414	There's no point coming back here!\nThe only exit is at the end of the long hallway!		待翻译
+2415	That's enough! I need him alive!		待翻译
+2416	This place reeks!		待翻译
+2417	What's that smell?		待翻译
+2418	What's that smell?		待翻译
+2419	I found an old map of the school.\nThis should help us.		待翻译
+2420	If we get caught we'll be kicked out for sure!		待翻译
+2421	It's me!		待翻译
+2422	Huh?		待翻译
+2423	Huh?		待翻译
+2424	Huh?		待翻译
+2425	But what's behind this door?		待翻译
+2426	But what's behind this door?		待翻译
+2427	But what's behind this door?		待翻译
+2428	Stan's grades really suck.		待翻译
+2429	Stan's a total bonehead.		待翻译
+2430	Stan's grades are really pretty sorry.		待翻译
+2431	Walden opened up the ground floor, \nwe're free at last!		待翻译
+2432	Walden opened up downstairs, we're free!		待翻译
+2433	Walden opened up downstairs, we're free at last!		待翻译
+2434	What on earth is going on here?		待翻译
+2435	What's going on here?		待翻译
+2436	But.. But what's happening?		待翻译
+2437	I don't want to know.		待翻译
+2438	I don't want to know.		待翻译
+2439	I don't want to know.		待翻译
+2440	Shh, don't make so much noise!		待翻译
+2441	Shh, don't make so much noise!		待翻译
+2442	Shh, don't make so much noise!		待翻译
+2443	It isn't me!		待翻译
+2444	It isn't me!		待翻译
+2445	It isn't me!		待翻译
+2446	Where is that draft coming from?		待翻译
+2447	Where is the draft coming from?		待翻译
+2448	Where is the draft coming from?		待翻译
+2449	Take my hand.		待翻译
+2450	Ok.		待翻译
+2451	Ok.		待翻译
+2452	...It's dark in here...		待翻译
+2453	Don't even think about it!		待翻译
+2454	Don't even think about it!		待翻译
+2455	I think we can enter the courtyard now.		待翻译
+2456	Let's go into the courtyard.		待翻译
+2457	Let's go see what's happening outside.		待翻译
+2458	But what is that stuff in the attic?		待翻译
+2459	Walden, I could never stand him.		待翻译
+2460	Let's find this moron before it gets dark.\nI'm starting to get cold.		待翻译
+2461	My God, what's going on in this school?		待翻译
+2462	My God, what's going on in this school?		待翻译
+2463	My God, what's going on in this school?		待翻译
+2464	Yeah, it's worse than my room...		待翻译
+2465	Let's find Friedman.		待翻译
+2466	No kidding, it looks like my brother's room.		待翻译
+2467	Yo, I'm out, dog!		待翻译
+2468	LET'S GET OUTTA HERE!		待翻译
+2469	GET OUT!		待翻译
+2470	LET'S GO!		待翻译
+2471	Hey, let me fight!		待翻译
+2472	Hey, I can fight too!		待翻译
+2473	Hey, I wanna fight too!		待翻译
+2474	Hey, I can fight too!		待翻译
+2475	Don't you want me to come with you?		待翻译
+2476	We've got to find their weak point!		待翻译
+2477	Walden said something about light!		待翻译
+2478	The windows! The windows!		待翻译
+2479	The windows! Quick! Light!		待翻译
+2480	You can't see a damned thing in here!		待翻译
+2481	You can't even see in front of your face here!		待翻译
+2482	Damn, you can't see anything.		待翻译
+2483	It's pitch black in here.		待翻译
+2484	I took three paper cups. That should be enough.		待翻译
+2485	I took three paper cups. That should be enough.		待翻译
+2486	I took three paper cups. That should be enough.		待翻译
+2487	I took three paper cups. That should be enough.		待翻译
+2488	That was my last cup.		待翻译
+2489	Damn, that was my last cup.		待翻译
+2490	Damn, that was my last cup.		待翻译
+2491	That was my last cup.		待翻译
+2492	Quick, the cup is disappearing!		待翻译
+2493	Quick, the cup is disappearing!		待翻译
+2494	Quick, the cup is disappearing!		待翻译
+2495	Quick, the cup is disappearing!		待翻译
+2496	Yo, what's his problem?		待翻译
+2497	Hey, is he out of his mind?		待翻译
+2498	Hey, is he out of his mind?		待翻译
+2499	Is he out of his mind?		待翻译
+2500	This school is totally wacked		待翻译
+2501	What the hell's going on here?		待翻译
+2502	This school is going to hell!		待翻译
+2503	This school is falling to pieces...		待翻译
+2504	Yeah, this is ridiculous!		待翻译
+2505	Yeah, we'd better not hang around!		待翻译
+2506	Yeah, I'm starting to be sorry I came!		待翻译
+2507	Yeah, it's a total mess!		待翻译
+2508	Mr. Friedman, are you in there?		待翻译
+2509	Mr. Friedman, are you there?		待翻译
+2510	Mr. Friedman, are you there?		待翻译
+2511	Mr. Friedman, are you there?		待翻译
+2512	Friedman is in the library... Let's go!		待翻译
+2513	Friedman is in the library... Let's go!		待翻译
+2514	Friedman is in the library... Let's go!		待翻译
+2515	Friedman is in the library... Let's go!		待翻译
+2516	Yo, check it! This flashlight is dope!		待翻译
+2517	Perfect! This flashlight is a real lifesaver!		待翻译
+2518	A flashlight! This will come in handy.		待翻译
+2519	This flashlight will be useful.		待翻译
+2520	Finally a place to chill.		待翻译
+2521	This place looks quieter.		待翻译
+2522	It seems calmer in here.		待翻译
+2523	I hope it's more peaceful in here.		待翻译
+2524	Come on! Fight for your life!		待翻译
+2525	Don't give up! Keep fighting!		待翻译
+2526	Come on! Fight!		待翻译
+2527	Fight for your life!		待翻译
+2528	Yo! You need some help?		待翻译
+2529	Do you need some help?		待翻译
+2530	You want me to help?		待翻译
+2531	Do you need a hand?		待翻译
+2532	Look at them up there!		待翻译
+2533	Upside down! THEY'RE WALKING ON THE CEILING!		待翻译
+2534	That's just great!		待翻译
+2535	Oh, my God...		待翻译
+2536	Haaa! There are too many of them!		待翻译
+2537	Haaa! Doesn't it ever stop?		待翻译
+2538	Haaa! They're too much for us!		待翻译
+2539	Haaa! We'll never get out of here!		待翻译
+2540	Use the light!		待翻译
+2541	Use the light!		待翻译
+2542	Use the light!		待翻译
+2543	Use the light!		待翻译
+2544	Help! Kill the monsters! Make them go away! \nPlease! Help! Somebody, please help!\nHerbert! What are they doing here? You need \nto fix the lights. Quick!		待翻译
+2545	Who is it?\nI'm not opening up until the lights \nare back on!		待翻译
+2546	Oh man... there are some fuses missing!		待翻译
+2547	Damn, there are fuses missing!		待翻译
+2548	There are fuses missing!		待翻译
+2549	Oh no... We need more fuses!		待翻译
+2550	I need a tape player.		待翻译
+2551	I need a tape player.		待翻译
+2552	I need a tape player.		待翻译
+2553	I need a tape player.		待翻译
+2554	I've seen this hand wheel somewhere before...		待翻译
+2555	I've seen this hand wheel somewhere before...		待翻译
+2556	I've seen this hand wheel somewhere before...		待翻译
+2557	I've seen this hand wheel somewhere before...		待翻译
+2558	We need to lower the screen \nso we can watch the movie.		待翻译
+2559	We need to lower the screen\nso we can watch the movie.		待翻译
+2560	We need to lower the screen\nso we can show the movie.		待翻译
+2561	We need to lower the screen\nso we can watch the movie.		待翻译
+2562	It's too quiet in here...		待翻译
+2563	It's too quiet, something's not right.		待翻译
+2564	It's too quiet in here...		待翻译
+2565	It's too quiet, something's not right.		待翻译
+2566	Don't worry I'll take care of everything!		待翻译
+2567	Let's stay together.		待翻译
+2568	Yeah, this place gives me the creeps.		待翻译
+2569	Yeah, let's stick together.		待翻译
+2570	It's deep down there!		待翻译
+2571	Those noises are coming from downstairs...		待翻译
+2572	It's deep down there!		待翻译
+2573	Those noises are coming from downstairs...		待翻译
+2574	I wonder what's down there.		待翻译
+2575	There's got to be some way down!		待翻译
+2576	I wonder what's down there.		待翻译
+2577	There's got to be some way down!		待翻译
+2578	Testing 1,2... Mic check 1.2.3...		待翻译
+2579	Testing 1,2... 1.2.3...		待翻译
+2580	Testing 1,2... 1.2.3...		待翻译
+2581	Testing 1,2... 1.2.3...		待翻译
+2582	I've got a hunch something's wrong.		待翻译
+2583	Oh man! What kind of place is this?		待翻译
+2584	If people only knew what was under this school...		待翻译
+2585	Where are we?		待翻译
+2586	Who would have thought this was \nunder the school?		待翻译
+2587	It's incredibly heavy!		待翻译
+2588	It's incredibly heavy!		待翻译
+2589	I see some cutters that could come in handy \nonce we find a way out of here!		待翻译
+2590	Hey! We need to get our stuff!		待翻译
+2591	With these cutters we can open all \nthe big padlocks!		待翻译
+2592	We've got to go see the nurse. I'm in pain...		待翻译
+2593	I hope Wickson will be able to help us out.		待翻译
+2594	I hope Wickson will be able to help us out.		待翻译
+2595	We have to go see the nurse. I'm in pain...		待翻译
+2596	The nurse will be able to help us.		待翻译
+2597	Wasn't there some story about some \nkids disappearing from the dormitory?		待翻译
+2598	The dormitory.\nThis is where they had all those disappearances.		待翻译
+2599	It sure doesn't look too comfy in here.		待翻译
+2600	It's been abandoned ever since \nthose people went missing.		待翻译
+2601	The dorm... \nI heard some people went missing there.		待翻译
+2602	Yeah... smells like a morgue...		待翻译
+2603	Yeah... smells like a morgue...		待翻译
+2604	Yep, sure is creepy...		待翻译
+2605	Yeah. We'd better stay alert...		待翻译
+2606	Yeah...\nI'm not so sure it's a good idea to go there...		待翻译
+2607	We've got to find an antidote, \nI don't feel so good.		待翻译
+2608	We've got to find an antidote, \nI don't feel so good.		待翻译
+2609	We've got to find an antidote, \nI don't feel so good.		待翻译
+2610	We've got to find an antidote,\nI don't feel so good.		待翻译
+2611	We've got to find an antidote,\nI don't feel so good.		待翻译
+2612	(HAAAAAA!)		待翻译
+2613	(HAAAAAA!)		待翻译
+2614	(NOOOOO!)		待翻译
+2615	(HAAAAAA!)		待翻译
+2616	(HAAA!)		待翻译
+2617	Sweet, the coffer broke when it fell.		待翻译
+2618	Perfect, the coffer broke when it fell.		待翻译
+2619	Cool, the coffer broke when it fell.		待翻译
+2620	Great, the coffer broke when it fell.		待翻译
+2621	Excellent, the coffer broke when it fell.		待翻译
+2622	A map of the basement!		待翻译
+2623	A map of the basement!		待翻译
+2624	A map of the basement!		待翻译
+2625	A map of the basement!		待翻译
+2626	A map of the basement!		待翻译
+2627	This must be the key to the office in the library.		待翻译
+2628	The key to the office in the library!		待翻译
+2629	This must be the key to the office in \nthe library.		待翻译
+2630	The key to the office in the library!		待翻译
+2631	The office in the library might be \nopened by this key.		待翻译
+2632	Let's go to the library. This key will \ncome in handy.		待翻译
+2633	Let's go to the library. This key will \ncome in handy.		待翻译
+2634	Let's go to the library. This key will \ncome in handy.		待翻译
+2635	Let's go to the library. This key will \ncome in handy.		待翻译
+2636	Let's go to the library. This key will \ncome in handy.		待翻译
+2637	Here we are at last! Friedman sure has \na thing for Africa.		待翻译
+2638	Here we are at last! Friedman's famous hideaway.		待翻译
+2639	Here we are at last! Just wait till I catch up \nwith you, Friedman!		待翻译
+2640	Here we are at last!		待翻译
+2641	Here we are at last! Friedman sure \nhas a thing for Africa.		待翻译
+2642	What an asshole! He stole my map!		待翻译
+2643	Oh no... he stole my map, that son of a bitch!		待翻译
+2644	He stole my map, that scumbag!		待翻译
+2645	That bastard! He stole my map...		待翻译
+2646	Oh no... He stole my map... I don't believe it!		待翻译
+2647	He locked the door. What happened to him? \nHe looks like a freak.		待翻译
+2648	He's locked the door from the outside.\nHe must be contaminated, too.		待翻译
+2649	It's impossible to open it from this side...\nWhy'd he leave it like that?		待翻译
+2650	It's useless, I can't open it! He looks so \nstrange, like one of those things.		待翻译
+2651	He locked the door. He must be infected too.		待翻译
+2652	Oh no...		待翻译
+2653	Oh no...		待翻译
+2654	Oh no...		待翻译
+2655	Oh no...		待翻译
+2656	Oh no...		待翻译
+2657	We can't get through there.\nThe door's been welded shut.		待翻译
+2658	We can't get through there.\nThe door's been welded shut.		待翻译
+2659	We can't get through there anymore.\nThe door's been welded shut.		待翻译
+2660	We can't get through there.\nThe door's been welded shut.		待翻译
+2661	We can't get through there.\nThe door's been welded shut.		待翻译
+2662	These gardens are creepy, \nlet's get out of here!		待翻译
+2663	Let's get out of the woods, fast!		待翻译
+2664	What the hell?\nThe woods are crawling with them!		待翻译
+2665	Let's get out of these gardens, quick!		待翻译
+2666	God, it's creepy here!		待翻译
+2667	We're freezing our asses out here!		待翻译
+2668	It's so cold!		待翻译
+2669	It's frigging cold out here.		待翻译
+2670	It's cold!		待翻译
+2671	It's really cold out here!		待翻译
+2672	Here we are once again in the underground!		待翻译
+2673	Guess I'm back down here!		待翻译
+2674	Back into this hellhole!		待翻译
+2675	It's more of these horrible hallways...		待翻译
+2676	These horrible hallways again...		待翻译
+2677	What the hell is all of this?		待翻译
+2678	What's this thing?		待翻译
+2679	What are these machines?		待翻译
+2680	What's all this machinery?		待翻译
+2681	What's all this for?		待翻译
+2682	The vibrations are coming from \nbehind this door.		待翻译
+2683	The vibrations are coming from \nbehind this door.		待翻译
+2684	The vibrations are coming from \nbehind this door.		待翻译
+2685	The vibrations are coming from \nbehind this door.		待翻译
+2686	The vibrations are coming from \nbehind this door.		待翻译
+2687	Three more statues to go.		待翻译
+2688	Three more statues to go.		待翻译
+2689	Three more statues to go.		待翻译
+2690	Three more statues to go.		待翻译
+2691	Three more statues to go.		待翻译
+2692	Okay! Two more to go.		待翻译
+2693	Okay! Two more statues to go.		待翻译
+2694	Okay! Two more statues to go.		待翻译
+2695	Okay! Two more statues to go.		待翻译
+2696	Okay! Two more statues to go.		待翻译
+2697	Just one more statue to find!		待翻译
+2698	Just one more statue to find!		待翻译
+2699	Just one more statue to find!		待翻译
+2700	Just one more statue to find!		待翻译
+2701	Just one more statue to find!		待翻译
+2702	It's useless, he's like invincible!		待翻译
+2703	It's useless, he's invincible!		待翻译
+2704	It's no use, he's like invincible!		待翻译
+2705	It's useless, it's like he's invincible!		待翻译
+2706	It's useless, it's like he's invincible!		待翻译
+2707	He always hides a gun in here!		待翻译
+2708	It's blocked! Let's push the cage away!		待翻译
+2709	It's blocked! Let's push the cage away!		待翻译
+2710	The Sharks... our star basketball team!		待翻译
+2711	Our basketball team! Kenny's the captain!		待翻译
+2712	The Sharks! Big deal! A bunch of show-offs...		待翻译
+2713	Sweet! We'll be able to burn some real holes \nwith that stuff...		待翻译
+2714	H2 SO4, sulfuric acid! I'd better be careful \nnot to burn myself.		待翻译
+2715	Acid! That stuff's really dangerous!		待翻译
+2716	It's sulfuric acid! I'd better be careful!		待翻译
+2717	Check it, a gun! No more fooling around.		待翻译
+2718	A gun! This is getting serious now!		待翻译
+2719	This looks old... I hope it still works.		待翻译
+2720	A gun! Now that evens up the odds!		待翻译
+2721	Today, at 5:38 pm.		待翻译
+2722			跳过
+2723			跳过
+2724	Man, those noises keep getting louder!\nWhere are they coming from?		待翻译
+2725	Those noises keep getting louder!\nWhere can they be coming from?		待翻译
+2726	The banging keeps getting louder!\nWhere can it be coming from? 		待翻译
+2727	Where are those noises coming from?		待翻译
+2728	Something's collapsed!		待翻译
+2729	Something's collapsed!		待翻译
+2730	Something's collapsed!		待翻译
+2731	Something's collapsed!		待翻译
+2732	Hey? Anybody there? Mr. Garrison?		待翻译
+2733	Mr. Garrisson? Are you there?		待翻译
+2734	Mr. Garrisson? Everything okay?		待翻译
+2735	Mr. Garrisson? You're okay?		待翻译
+2736	Oh my God!		待翻译
+2737	How horrible!		待翻译
+2738	Oh my God!		待翻译
+2739	Oh my God!		待翻译
+2740	The stairway collapsed!		待翻译
+2741	Look! The stairway collapsed!		待翻译
+2742	The stairway collapsed!		待翻译
+2743	The stairway collapsed!		待翻译
+2744	Josh had to go die on us!\nAnd now we're trapped...		待翻译
+2745	Oh no... I can't believe it. Josh is dead!		待翻译
+2746	Oh no... Josh is dead! This can't be happening!		待翻译
+2747	Ashley, she's dead. And here we are, \nwe're trapped...		待翻译
+2748	It can't be... Ashley is dead! \nAnd now we're stuck! We're all screwed!		待翻译
+2749	No... Ashley is dead! This can't be happening!		待翻译
+2750	Shannon, she's dead! \nAnd here we are, we're trapped...		待翻译
+2751	It can't be... \nShannon is dead! And now we're stuck!\nWe're all screwed!		待翻译
+2752	Oh no... I can't believe it! Shannon's dead.		待翻译
+2753	It can't be... Stan is dead! And now we're stuck!\nWe're all screwed!		待翻译
+2754	Oh no... I can't believe it! Stan's dead.		待翻译
+2755	Oh no... Stan is dead! This can't be happening!		待翻译
+2756	Crap, now we can't go back up!		待翻译
+2757	This can't be! The elevator collapsed.\nWe're stuck!		待翻译
+2758	Oh no! Now I'm stuck here!		待翻译
+2759	Oh no! Now I'm stuck here.\nThis can't be happening!		待翻译
+2760	Man... It reeks!		待翻译
+2761	What's that smell?		待翻译
+2762	What's that smell? I can't stand it!		待翻译
+2763	It smells like chemicals...		待翻译
+2764	Man... It's about time!		待翻译
+2765	Phew... I can breathe again...		待翻译
+2766	Out at last!		待翻译
+2767	Fresh air at last!		待翻译
+2768	Phew... I can breathe again...		待翻译
+2769	What was that number?		待翻译
+2770	I think I saw a sort of code...		待翻译
+2771	What a weird movie... \nAnd what's that number supposed to be?		待翻译
+2772	Friedman is really nuts. \nWhy would he film his notes?		待翻译
+2773	0582, what does that mean?		待翻译
+2774	First it's "The Haunting" and now "Psycho". \nWhat's next?		待翻译
+2775	The house of mystery...\nI can see my article already!		待翻译
+2776	Oh! It's the house from last night!		待翻译
+2777	We're finally out of there!\nI've never been one for the great outdoors!		待翻译
+2778	An old Victorian house...		待翻译
+2779	That banging's getting louder all the time.		待翻译
+2780	The banging's getting louder and louder.\nI must be getting close!		待翻译
+2781	That thudding again! I can't be far away...		待翻译
+2782	That banging has me freaked out.\nBut I need to keep going.		待翻译
+2783	Those thuds are getting louder.\nI gotta stay cool...		待翻译
+2784	Yo, throw me the gun.		待翻译
+2785	Hey, give me a gun!		待翻译
+2786	Hey, give me a gun!		待翻译
+2787	Hey, give me a gun!		待翻译
+2788	Hey, I need a gun!		待翻译
+2789	I'm out of bullets!		待翻译
+2790	I'm out of ammo!		待翻译
+2791	I'm out of bullets!		待翻译
+2792	I'm out of bullets!		待翻译
+2793	I'm out of bullets!		待翻译
+2794	I'm out of bullets!		待翻译
+2795	My battery is dead!		待翻译
+2796	Damn battery's dead!		待翻译
+2797	My battery is dead!		待翻译
+2798	Hey, my battery's dead!		待翻译
+2799	Shoot! My battery's dead!		待翻译
+2800	What are you waiting for? Start fighting!		待翻译
+2801	Don't just stand there, do something!		待翻译
+2802	What are you waiting for? Start fighting!		待翻译
+2803	What are you waiting for? Start fighting!		待翻译
+2804	What are you waiting for? Start fighting!		待翻译
+2805	Hey! You need some help?		待翻译
+2806	Do you need any help?		待翻译
+2807	Need some help? 		待翻译
+2808	Need some help?		待翻译
+2809	Need some help?		待翻译
+2810	Where are you going?		待翻译
+2811	You're leaving me here all alone?		待翻译
+2812	Where are you going?		待翻译
+2813	You're leaving without me?		待翻译
+2814	You're leaving me all alone?		待翻译
+2815	We gotta roll, now!		待翻译
+2816	Let's go!		待翻译
+2817	Let's split!		待翻译
+2818	Let's get out of here!		待翻译
+2819	Let's go!		待翻译
+2820	I don't know how to pick this lock.\nMaybe we can cut it...		待翻译
+2821	It's a padlock. With a big pair of cutters,\nI could open it.		待翻译
+2822	It's a padlock. With a big pair of cutters, \nit will be easy!		待翻译
+2823	It's a padlock. I need a big pair of cutters.		待翻译
+2824	It's a padlock. With a big pair of cutters,\nI might be able to get it open.		待翻译
+2825	Where is this light coming from?		待翻译
+2826	Where are they? I wanna fight!		待翻译
+2827	Where'd they go? I wanna kick some ass!		待翻译
+2828	So where are they? I feel like fighting!		待翻译
+2829	Where did they go to? Come on, let's fight!		待翻译
+2830	Friedman's office is located in the west \npart of the school.		待翻译
+2831	That's it. I've seen a handwheel like this\nin the administrative building.		待翻译
+2832	That's it. I've seen a handwheel like this\nin the administration building.		待翻译
+2833	That's it. I've seen a handwheel like this\nin the administrative building.		待翻译
+2834	It's around here I'm sure. \nNear the teacher's lounge.\nI could use a handwheel like this there.		待翻译
+2835	It's around here I'm sure. Near the \nteacher's lounge. I could use a handwheel \nlike this.		待翻译
+2836	It's close: I'm sure. Near the teacher's lounge.\nI could use a handwheel like this there.		待翻译
+2837	We need to keep this open to get down.		待翻译
+2838	We have to keep this grate open to get down.		待翻译
+2839	We need to keep this open to get down.		待翻译
+2840	It's useless!		待翻译
+2841	It's useless!		待翻译
+2842	It's useless!		待翻译
+2843	It's useless!		待翻译
+2844	It's useless!		待翻译
+2845	It's not doing anything.		待翻译
+2846	It's useless!		待翻译
+2847	It's not doing anything.		待翻译
+2848	It's not doing anything.		待翻译
+2849	It's not doing anything.		待翻译
+2850	It's not working.		待翻译
+2851	It's useless!		待翻译
+2852	It's not working.		待翻译
+2853	It's not working.		待翻译
+2854	It's not working.		待翻译
+2855	huh?		待翻译
+2856	huh?		待翻译
+2857	huh?		待翻译
+2858	huh?		待翻译
+2859	huh?		待翻译
+2860	Josh went to the meeting point.		待翻译
+2861	Josh went to the meeting point.		待翻译
+2862	Josh went to the meeting point.		待翻译
+2863	Josh went to the meeting point.		待翻译
+2864	Ashley went to the meeting point.		待翻译
+2865	Ashley's gone to the meeting point.		待翻译
+2866	Ashley's gone to the meeting point.		待翻译
+2867	Ashley's gone to the meeting point.		待翻译
+2868	Shannon went to the meeting point.		待翻译
+2869	Shannon's gone to the meeting point.		待翻译
+2870	Shannon's gone to the meeting point.		待翻译
+2871	Shannon's gone to the meeting point.		待翻译
+2872	Stan's gone to the meeting point.		待翻译
+2873	Stan went to the meeting point.		待翻译
+2874	Stan went to the meeting point.		待翻译
+2875	Stan's gone to the meeting point.		待翻译
+2876	Kenny went to the meeting point.		待翻译
+2877	Kenny's gone to the meeting point.		待翻译
+2878	Kenny went to the meeting point.		待翻译
+2879	Kenny's gone to the meeting point.		待翻译
+2880	I'm going to the meeting point.		待翻译
+2881	I'm going to the meeting point.		待翻译
+2882	I'm going to the meeting point.		待翻译
+2883	I'm going to the meeting point.		待翻译
+2884	I'm going to the meeting point.		待翻译
+2885	I think there are still some locks to break.		待翻译
+2886	I think there are still more locks to cut.		待翻译
+2887	I think there are still some locks to break.		待翻译
+2888	I think there are still some locks to break.		待翻译
+2889	I think there are still some locks to break.		待翻译
+2890	Careful. This floor seems pretty weak.		待翻译
+2891	This doesn't look too steady.		待翻译
+2892	Calm down. It doesn't seem that strong.		待翻译
+2893	Calm down. It doesn't seem that strong.		待翻译
+2894	Be careful, the floor seems weak.		待翻译
+2895	I still got to find 3 statues, and I don't think\nthey're in the basement.		待翻译
+2896	The other 3 statues must be outside the basement.		待翻译
+2897	I still have to find 3 statues.\nI don't think they're in the basement.		待翻译
+2898	I still have to find 3 statues.\nI don't think they're in the basement.		待翻译
+2899	I still have to find 3 statues.\nBut I don't think they're in the basement.		待翻译
+2900	I wonder if I missed anything in the second floor \nof the library. Maybe there's a statue there.		待翻译
+2901	I think I saw a statue above the library.		待翻译
+2902	I wonder if I missed anything in the second floor \nof the library. Maybe there's a statue there.		待翻译
+2903	I wonder if I missed anything in the second floor \nof the library. Maybe there's a statue there.		待翻译
+2904	I wonder if I missed anything in the second floor \nof the library. Maybe there's a statue there.		待翻译
+2905	I remember seeing a statue in the dorm.		待翻译
+2906	I remember seeing a statue in the dorm.		待翻译
+2907	I remember seeing a statue in the dorm.		待翻译
+2908	I'm sure I saw a statue in the dorm.		待翻译
+2909	I remember seeing a statue in the dorm.		待翻译
+2910	I wonder if there was a statue near the \ngazebo in the garden.		待翻译
+2911	I remember seeing a statue in the garden.		待翻译
+2912	I wonder if there was a statue near the \ngazebo in the garden.		待翻译
+2913	I wonder if there was a statue near the \ngazebo in the garden.		待翻译
+2914	Maybe there's a statue in the \ngazebo near the garden.		待翻译
+2915	I'm not sure I've fully checked out \nFriedman's secret hideaway.\nMaybe I should head back towards the library.		待翻译
+2916	Maybe I should look for a statue in \nFriedman's secret hideway.		待翻译
+2917	I'm not sure I've fully investigated \nFriedman's secret hideaway.\nMaybe I should head back towards the library.		待翻译
+2918	I'm not sure I've fully investigated \nFriedman's secret hideaway.\nMaybe I should head back towards the library.		待翻译
+2919	I'm not sure I've fully investigated \nFriedman's secret hideaway.\nMaybe I should head back towards the library.		待翻译
+2920	I didn't know there was a garden \nbehind this iron door.		待翻译
+2921	This wall seems pretty weak.		待翻译
+2922	I think we can tear down this wall.		待翻译
+2923	This wall seems pretty weak.		待翻译
+2924	This wall seems pretty weak.		待翻译
+2925	This wall seems pretty weak.		待翻译
+2926	So you've been captured too!		待翻译
+2927	There's something else to do here.		待翻译
+2928	We should find Friedman's laboratory		待翻译
+2929	We have to find the Machinery Room \nto open the big door.		待翻译
+2930	The statuettes are placed correctly\nbut there's still something missing.		待翻译
+2931	Ashley would dig this, she's a great fighter.		待翻译
+2932	I need Ashley, she's a good fighter!		待翻译
+2933	Ashley would dig this, she loves kicking ass.		待翻译
+2934	Ashley would love this, she's a great fighter!		待翻译
+2935	Where did they go? I wanna kick some ass!		待翻译
+2936	So where are they? I feel like fighting.		待翻译
+2937	Josh is always faster at finding stuff than me.\nHe always finds great stuff by pure instinct.		待翻译
+2938	Josh is better at searching for stuff than me.\nHe always finds great stuff.		待翻译
+2939	Josh is better at finding stuff than me.\nHe always finds great stuff, just by instinct...		待翻译
+2940	Josh can always find everything.\nHe always turns out the best stuff.		待翻译
+2941	That does it!		待翻译
+2942	It works!		待翻译
+2943	I did it!		待翻译
+2944	Yo, I did it!		待翻译
+2945	It works!		待翻译
+2946	This should be no problem for me.		待翻译
+2947	This lock looks easy...		待翻译
+2948	I think I can pick this.		待翻译
+2949	I'm sure I can pick this.		待翻译
+2950	I think I can pick this.		待翻译
+2951	This lock looks easy...		待翻译
+2952	This should be no problem for me.		待翻译
+2953	I should be able to pick this lock.		待翻译
+2954	I've never felt better in my life.		待翻译
+2955	Wow, I'm ready to rock!		待翻译
+2956	Wow, I'm ready to rock!		待翻译
+2957	I'm ready to rock!		待翻译
+2958	Ah, I feel great now!		待翻译
+2959	(hhhu)		待翻译
+2960	(hhhu)		待翻译
+2961	(hhhu)		待翻译
+2962	(hhhu)		待翻译
+2963	Ahhh... That feels great.		待翻译
+2964	Ahhh... That feels great.		待翻译
+2965	I feel better.		待翻译
+2966	I feel okay now.		待翻译
+2967	Ahh, I feel much better now.		待翻译
+2968	(Umpf!)		待翻译
+2969	Suck on this!		待翻译
+2970	Go to hell!		待翻译
+2971	(Umpf!)		待翻译
+2972	(Umpf!)		待翻译
+2973	Haa!		待翻译
+2974	There's nothing left for us here.		待翻译
+2975	I know there's something else.		待翻译
+2976	What are you doing, fight back, c'mon!		待翻译
+2977	Hey, fight back!		待翻译
+2978	Yo, if Shannon were here, \nshe'd know what to do.		待翻译
+2979	If Shannon were here, \nshe would tell me what to do.		待翻译
+2980	If Shannon were here, she'd be able to help.		待翻译
+2981	I wish Shannon were here.\nShe always knows what to do.		待翻译
+2982	hahhhh... That hurts...		待翻译
+2983	(hh hh hh hh)		待翻译
+2984	(hhh hhhh hhh hhhh)		待翻译
+2985	I'm sick of this! Kenny's a much \nbetter runner than me!		待翻译
+2986	I'm sick of running! And my name's not Kenny!		待翻译
+2987	I'm tired of running! Kenny's a better athlete!		待翻译
+2988	I'm sick of this. Kenny's a much better runner.		待翻译
+2989	It's all been taking care of.		待翻译
+2990	Ok, it's recorded.		待翻译
+2991	It's done.		待翻译
+2992	It's done!		待翻译
+2993	Ok, it's been saved now!		待翻译
+2994	Ok, it's recorded.		待翻译
+2995	I took care of it!		待翻译
+2996	Ok, I took care of it.		待翻译
+2997	There are no more locks!		待翻译
+2998	There are no locks left.		待翻译
+2999	There are more locks in the corner.		待翻译
+3000	Somewhere there's a lock I can crack open.		待翻译
+3001	Ok, I'll go with you!		待翻译
+3002	Let's move!		待翻译
+3003	Ok, I'll go with you!		待翻译
+3004	I'm right behind you.		待翻译
+3005	Alright, I'll go with you!		待翻译
+3006	Ok, I got your back!		待翻译
+3007	Let's move!		待翻译
+3008	Okay, let's move		待翻译
+3009	Okay, let's move!		待翻译
+3010	Let's split right now!		待翻译
+3011	Let's move!		待翻译
+3012	Let's bounce!		待翻译
+3013	Come on, let's go!		待翻译
+3014	Let's split!		待翻译
+3015	Right, man!		待翻译
+3016	Ok!		待翻译
+3017	Ok!		待翻译
+3018	Got it!		待翻译
+3019	Got it!		待翻译
+3020	Okay, I won't go anywhere!		待翻译
+3021	Fine, I'll stay here.		待翻译
+3022	Yeah, I'll stay put		待翻译
+3023	Fine, I'll stay here.		待翻译
+3024	Fine, I'll stay here.		待翻译
+3025	Ok, I'll stay here		待翻译
+3026	Fine, I'll stay here.		待翻译
+3027	Don't worry, I'm not moving.		待翻译
+3028	Ok, I'll stay put.		待翻译
+3029	I'm out of ammo!		待翻译
+3030	I'm out of bullets!		待翻译
+3031	I'm all out of ammo!		待翻译
+3032	I'm out of ammo!		待翻译
+3033	I'm out of ammo!		待翻译
+3034	I'm out of ammo!		待翻译
+3035	I'm out of ammo!		待翻译
+3036	I'm out of ammo		待翻译
+3037	Damn, I'm all out!		待翻译
+3038	Damn, I'm all out!		待翻译
+3039	Damn, I'm all out!		待翻译
+3040	Hey dog, you need me?		待翻译
+3041	Do you want me to help you?		待翻译
+3042	You need a hand?		待翻译
+3043	Can I help you?		待翻译
+3044	Do you want me to help you?		待翻译
+3045	Hey, do you need a hand?		待翻译
+3046	Want any help?		待翻译
+3047	Do you need me to help you out?		待翻译
+3048	Do you need a hand?		待翻译
+3049	Do you need a hand?		待翻译
+3050	Yo, trust me, I'm going to get you back, dog!		待翻译
+3051	Thanks!		待翻译
+3052	Thanks a lot.		待翻译
+3053	Thanks, that helped a lot.		待翻译
+3054	Cool!		待翻译
+3055	Check this out, Stan the man!		待翻译
+3056	That takes care of that!		待翻译
+3057	That'll teach you!		待翻译
+3058	Alright!		待翻译
+3059	(Sniff! Tof! Tof!)		待翻译
+3060	(Sniff! Tof! Tof!)		待翻译
+3061	(Sniff! Tof! Tof!)		待翻译
+3062	(Sniff! Tof! Tof!)		待翻译
+3063	(Sniff! Tof! Tof!)		待翻译
+3064	Hello?		待翻译
+3065	Mrs. Smith? This is Ms. Wickson.		待翻译
+3066	Could you ask Mr. Friedman to come see\nme as soon as possible?		待翻译
+3067	It's an emergency! I can't leave the infirmary!		待翻译
+3068	Make sure he comes quick! Thanks!		待翻译
+3069	Today, at 6:50 pm.		待翻译
+3070	Herbert?		待翻译
+3071	If, if you're there, pick up the phone...		待翻译
+3072	Please... Come quickly...		待翻译
+3073	I, I don't know what's going on, but I... I think \nit has something to do with the experiments...		待翻译
+3074	I saw several students...who...well...		待翻译
+3075	It's really bad, come quick!		待翻译
+3076	Oh no!		待翻译
+3077	÷  : Boost		待翻译

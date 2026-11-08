@@ -1,0 +1,47 @@
+hook patch 2026-10-26 · clearflash9_arm（黑屏遮罩扩展）
+=========================================================
+目标：主界面【首次进入】与【切屏回来】都"黑屏直到文字出现"。
+
+【源码件】
+  version_clearflash8_baseline.dll   028ec9a88266ba1526aeeabe930c16e6  (装机基线, 备份)
+【补丁件】
+  version_c93e_clearflash9_arm.dll   0c17dfc07b666255b04652dbf0cbe541  (282112 bytes, 同尺寸)
+
+【改动（仅两处，差分已审计）】
+  P1  file 0x37984..0x379FF  CAVE_ST 重写（115 字节代码 + int3 填充）
+      保留原门控：stage0 / D_AB8 / g_fontTex / tex==g_fontTex
+                  -> D_BOUND=1 & D_EVER=1（word 一次写）
+                  -> D_LAST = D_FRAMES（xchg 捕获旧值）
+      新增：若【旧 D_LAST == 0】（即本次是进程内第一次绑字体）
+            -> QPC 写入 D_RST（武装黑屏窗口）
+            -> QPF 重算 D_WIN = qpf*3（约 3 秒上限）
+  P2  file 0x3791E  0x03 -> 0x14：D_STABLE 稳定判定 3 帧 -> 20 帧
+      （黑屏最短由 ~50ms 提升到 ~333ms @60fps，肉眼可见）
+
+【地址依据（三处既有 cave 交叉验证）】
+  edx=0x10038189  D_RST 0x10048760  D_WIN 0x10048764  D_BOUND 0x1004876C
+  D_EVER 0x1004876D  D_LAST 0x10048770  D_FRAMES 0x10041498
+  g_fontTex 0x10041670  D_AB8 0x100486B8  qpf_tmp 0x10048768
+  IAT QPC 0x1003F5A4  IAT QPF 0x1003F5A8
+  已校验：新 cave 引用的绝对地址全部包含在既有 CAVE_R/CAVE_P 的引用集合内。
+
+【静态校验记录】
+  PE 头完整 / 7 section / 尺寸不变
+  capstone 逐条反汇编 = 设计意图（门控跳转、word 写、xchg、QPC、QPF、序言复刻、jmp 0x10004B25）
+  栈平衡仿真：所有分支点 esp==0；序言复刻后 esp==-12（设计）
+  行为仿真：首次武装 1 次 / 后续不重复 / 门控拦截 / 帧号 0 边界
+  差分审计：变更字节全部落在 0x37984..0x379FF 与 0x3791E
+  ★ 运行期未做真机验证——由用户在游戏内验收（黑屏时机/时长/是否误伤 3D）。
+
+【预期行为】
+  启动 -> 首次出现文字时黑屏（<=3 秒上限），连续 20 帧文字稳定后放行
+  切屏（Reset）-> 黑屏，同样 20 帧稳定后放行（比以前多黑 ~330ms，可见）
+  3D 场景：无 Reset 不武装；D_STABLE 保持 1 -> 不黑（不应误伤字幕）
+  ★ 若发现 3D 场景/字幕前出现黑闪，说明需要引入 UI/3D 判别（DIP 窗口），
+    回滚后另做一版。
+
+【使用】
+  install_patch.bat     装补丁（校验源 md5 -> 备份当前 version.dll 到
+                        _obscure_backup\pre_clearflash9 -> 覆盖 -> 再校验）
+  rollback_clearflash9.bat  回滚到 clearflash8（用本目录的 baseline dll，md5 校验）
+  另：稳定保底版_V1.0\restore_baseline.bat 亦可整包回滚（含图集/表）
