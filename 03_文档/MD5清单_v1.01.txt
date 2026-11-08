@@ -1,0 +1,224 @@
+====================================================================================
+ ObsCure 汉化 · 交付包 v1.02 关键文件清单（MD5 + SHA-256）
+ 生成：2026-10-26 23:47   署名：fwzang
+ 形态：单文件 exe（无 bat/ps1）；装完自动退出、主界面置顶、装完自校验、说明 v1.02
+ 版本：文件名 v1.02 / 属性 1.0.0.2
+ 遮罩：本包所有 version.dll 副本均为【切屏黑屏遮罩开】= file 0x37954 为 73 24
+====================================================================================
+
+  ★ 发布件 · 精简版（单文件，双击即用）
+    文件   01_安装包/精简版/ObsCure汉化安装器_v1.02.exe
+    大小   36227148
+    MD5    9280e6508e1f2098241b56bc4e6967d8
+    SHA256 07c05c782825fc5525ba3cd5770284fc7265045e79fc8bb6fdb10777497273ae
+
+  ★ 发布件 · 加强版（单文件，双击即用）
+    文件   01_安装包/加强版/ObsCure加强汉化版安装器_v1.02.exe
+    大小   1680524307
+    MD5    70844a6a2604702d297392b995b22260
+    SHA256 46598d9f6ba478fb2cb594561c4bc4cd451158596da593153a7505a64c70fa5a
+
+  游戏说明 · 包内副本（GBK）
+    文件   01_安装包/精简版/DISCLAIMER.txt
+    大小   1754
+    MD5    9c7f87588f1bbdde714a3de1efec33d7
+    SHA256 a5ee1aa4c4ebe2313ffa3805dda4c59a2832de116021d408628aa44261cbe122
+
+  游戏说明 · 释放到游戏目录（UTF-8 BOM）
+    文件   01_安装包/免责声明.txt
+    大小   2492
+    MD5    550456cafc2aa3447038cd6bd2a8181e
+    SHA256 a18c1450c38a4b601f0813d3833953389ee8d9ccb7840859f98eea4932facd50
+
+  游戏说明 · 唯一源（编译进 exe）
+    文件   02_源码/安装器_v2/info_o1.txt
+    大小   2464
+    MD5    23034db96f8b392cdd9aa30b0705cbd2
+    SHA256 3b891780f2f50d3dfdf8165873b782fdc69669aa2e61ba9c87e5f83cc6994242
+
+  游戏说明 · gen_info.py 生成物
+    文件   02_源码/安装器_v2/info_o1.h
+    大小   2725
+    MD5    3b0b4eb9afdd7bea39f19cc902e8ef17
+    SHA256 a35ba64f881b8da3150dff79a5ff4b46da27b41ec73095e93745cb4134bc229a
+
+  安装说明（精简）
+    文件   01_安装包/精简版/安装说明.txt
+    大小   4010
+    MD5    85cd5e08f42706b6a43b06e037eddef5
+    SHA256 27d9475d51533a770006b1c24594abd85c826883475e80dbc71e245bc6c6ec22
+
+  安装说明（加强）
+    文件   01_安装包/加强版/安装说明.txt
+    大小   3765
+    MD5    b918e81f6b5ee349f786dec7c5d0ca37
+    SHA256 12f9a99c6d6f54a875838d55a0e9b807f07b45a0f5c01a41cd3e3e283f111884
+
+  文档 · 安装包结构（单文件版）
+    文件   01_安装包/README_安装包结构.md
+    大小   3724
+    MD5    f943dc83644b4f36bed45e722f66e716
+    SHA256 8e94eee1734b85df8b7cc70b090439ea6061a969250220f5785f73120b63aa78
+
+  历史 · 精简 v1.01（即时回退）
+    文件   01_安装包/_历史版本/ObsCure汉化安装器_v1.01.exe
+    大小   36222922
+    MD5    637e076b58ec6d3d28f5e1839faca57d
+    SHA256 f41fd603667c570d6b7b032d4d25a17cfca18e5bc6fb305e4536f702f8ad16bd
+
+  历史 · 加强 v1.01（即时回退）
+    文件   01_安装包/_历史版本/ObsCure加强汉化版安装器_v1.01.exe
+    大小   1680520081
+    MD5    89f801a98a52500b153796ddf35ece3d
+    SHA256 811644923ff4c4a785a620e2f1a22a26bc0f58513fc21d343a9bbf16f01bbeac
+
+  源码 · 安装器（v1.02 已修补）
+    文件   02_源码/安装器_v2/setup_o1.c
+    大小   55944
+    MD5    24e17e736d9dc1ef26d040e3fed5a05b
+    SHA256 61df71cca3a076e83da2c74f3db42ee650973c10cd847e3939794a6cc0b8a6cc
+
+  构建 · v1.02 骨架（未挂载荷）
+    文件   02_源码/安装器_v2/setup_v102_build.exe
+    大小   196669
+    MD5    4b2352492f5e4f61fa7f2ab6d66b413e
+    SHA256 fa2a390e9d617d0dc045ad7f39ca6b3de3cccbf14e9c8e866e33fdc1eb210b46
+
+  工具 · 骨架+载荷重打包
+    文件   02_源码/产线工具/repack_installer.py
+    大小   3846
+    MD5    0048c76a0c1a54a549b091d2dfc0b753
+    SHA256 047b36413b1d8076a3a87a4c95a9b4020c98990594b5d885132bdc4454d2d2cf
+
+  稳定保底版 V1.0（遮罩开）
+    文件   稳定保底版_V1.0.zip
+    大小   2196815
+    MD5    f17449cab80b31aef97d3dd786e148b9
+    SHA256 7d1ceb5ecbf2c58979b0749cb05e39846b1df204037865b583974147be4524ec
+
+  组件 · version.dll（门控 73 24）
+    文件   稳定保底版_V1.0/version.dll
+    大小   282112
+    MD5    0c17dfc07b666255b04652dbf0cbe541
+    SHA256 9852f616b95b7b41ccb7fbba679889fe424e03fd6498910983d7d5ffe04bf6e7
+
+  组件 · dinput8.dll
+    文件   稳定保底版_V1.0/dinput8.dll
+    大小   2152448
+    MD5    b8c51891352e3e7bfc2c30f2c903b46c
+    SHA256 9a2bb218ab014fa4ad56104108c26ae48bf3e22595c126cd4f41367c799da722
+
+  组件 · big_atlas_c.raw
+    文件   稳定保底版_V1.0/big_atlas_c.raw
+    大小   8388608
+    MD5    99a1244494b42d9cb9572e92335720ff
+    SHA256 e33ae3b0f4fa17f54bb1ed1796ce8872e676bd8911f84b112e0e68f51173e8e9
+
+  组件 · table_c.bin
+    文件   稳定保底版_V1.0/table_c.bin
+    大小   16220
+    MD5    6a498e9d8478b48ff9b3dc0e29f5c183
+    SHA256 2eb36270e719f603eab1679902b332cb6f49c8bd03d18aa8f02444ecfb03201b
+
+  文档 · 交接（含构建/齐全性流程）
+    文件   03_文档/交接说明_下次开工.md
+    大小   7261
+    MD5    605ae3b457569e56421cdc942d3c6a5e
+    SHA256 e42411b1a538f7462be41cc2f21eada1ce69954a34742ef15ea53b81ee79b918
+
+  文档 · 版更说明
+    文件   03_文档/版本更新说明_v1.01.md
+    大小   14156
+    MD5    a735693aaefd68033e27adf84941771a
+    SHA256 248b26bd546d57f58935465efc15aeaab2931902b112e52ec0baced366db7b22
+
+  文档 · v1.02 定稿说明
+    文件   03_文档/版本更新说明_v1.02_定稿.md
+    大小   2838
+    MD5    2083e4bf1cfd60e91fb0228a1b79bf66
+    SHA256 ca3751fa1a0e8d238b94caf16cfede83ea6b33e937cd0f31c12345c8de11dd58
+
+  文档 · 归档清理记录
+    文件   03_文档/归档清单_清理记录_2026-10-26.md
+    大小   4116
+    MD5    d5b1b380afa1be9c2de8449244eca815
+    SHA256 4974502b5ee426358bc5121b404a72d7d2c8254e7360ddcafe92cf1466b11999
+
+  报告 · 技术死结论
+    文件   03_文档/报告_2026-10-26/技术死结论报告_最终核验_2026-10-26.md
+    大小   7304
+    MD5    8c1edc2d599a57ef498c20fc6b67bc22
+    SHA256 632ec024f198a160318443818b4e3738fb1c717d61e7e7cd0703fd4ffb524336
+
+  报告 · 决策
+    文件   03_文档/报告_2026-10-26/决策报告_静态拆弹_2026-10-26.md
+    大小   6953
+    MD5    f0a48b5fd539c92ed5f648a3d73a7b5a
+    SHA256 ec3622409ce54c4c0eacd774cb1533030910964d231092cf402b1e038e317534
+
+  报告 · 方案B 推演
+    文件   03_文档/报告_2026-10-26/方案B_静态推演报告.md
+    大小   13759
+    MD5    33523457fecbb2d76409856e3d7d77ab
+    SHA256 502a51153310f3ab80d3ad1b8feaad8c12af744d59627d924579f62f3ec5327a
+
+  报告 · CAVE 复盘
+    文件   03_文档/报告_2026-10-26/CAVE改造_失败复盘_说明.md
+    大小   8719
+    MD5    8672593870b790f716bc911050cf4ff7
+    SHA256 a2ad09ae5222be443aaf9c8c7d2eb9e4eb5b7f4cceb201ecdc8e31bb28833ab7
+
+  报告 · 发布帖文案（现行）
+    文件   03_文档/报告_2026-10-26/发布帖文案_V1.02.md
+    大小   3271
+    MD5    ac0284af974c99528addae5f430e8f8d
+    SHA256 943331added7702bdcadba6a7b0d42971e6f4501324e47b9ce61c53476a3a308
+
+  工具 · 遮罩校验（发布前必跑）
+    文件   02_源码/产线工具/verify_mask_state.py
+    大小   3155
+    MD5    2f739c0ca975c7367a20fb908243b0d1
+    SHA256 ddd0e49e4718fcc32bfbd01c44e6c1ba96102f85a944168585f769167b8aec1c
+
+  工具 · payload 更新
+    文件   02_源码/产线工具/patch_installer_101.py
+    大小   6238
+    MD5    2f085e9cba155b2d99cba89bb2eba0a9
+    SHA256 f539b00b5e7c7bbb0865879eb497bf085d1ad66a81e0b48ce5fb26a2011bd8ef
+
+  工具 · 版本号改名
+    文件   02_源码/产线工具/patch_version_101.py
+    大小   5027
+    MD5    49c659ef18ba8fd8bcf276cbee68e0b5
+    SHA256 0f9e152f1a8f5d03ba949df3f7ff88182501bd5b6e32bddcf7c59fdf61e69ddd
+
+  工具 · 崩溃转储分析
+    文件   02_源码/产线工具/analyze_dump.py
+    大小   3563
+    MD5    c73cb80afe16f8f6f0c081d896a8fb6f
+    SHA256 5b4f7fe6a83a062b3e4517a6e834d6148ed16a58f766638dd1183eb0afe6b6bd
+
+  工具 · 图集生成（真源）
+    文件   02_源码/产线工具/make_atlas_retail.py
+    大小   14237
+    MD5    e3729aa7c0c5903953be633e916107b4
+    SHA256 acaa3d703cc717b11d6af88d5f3e67b5301353ab72e20f4a4b1f9803cbb9104c
+
+  反编译 · watchdog_swap
+    文件   06_独有资产/ghidra反编译_2026-10-26/func_10006270.txt
+    大小   11615
+    MD5    e598b474070b349351d1478d61360269
+    SHA256 5d743ae843ca74b655c748b8ad0d748e0998e189d5993f20f0457f167e9f2162
+
+  记忆 · 长期结论
+    文件   07_项目记忆/memory/MEMORY.md
+    大小   16572
+    MD5    77282c161e0deca2a8b85161418ffa40
+    SHA256 35fb62480058c7b84282675e1a06429369e4cf68ffcebefcb509e755d7443fd8
+
+  记忆 · 本日全记录
+    文件   07_项目记忆/memory/2026-10-26.md
+    大小   35738
+    MD5    0a75d003721cbb9c54749e1d6793b8ca
+    SHA256 0d16b3c619f32e708ceb635b13d0ab94146c77258db5babab7c7d8e93aab9dbc
+

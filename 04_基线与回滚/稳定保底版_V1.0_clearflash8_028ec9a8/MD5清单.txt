@@ -1,0 +1,34 @@
+稳定保底版_V1.0  ·  2026-10-26 01:08 建档
+=========================================
+
+【建档时游戏目录状态 = 本包内容（可完整回滚）】
+  version.dll       028ec9a88266ba1526aeeabe930c16e6
+  dinput8.dll       b8c51891352e3e7bfc2c30f2c903b46c
+  big_atlas_c.raw   99a1244494b42d9cb9572e92335720ff   （V1 右下投影汉字 + V4b 端黑20px 英文/数字）
+  table_c.bin       6a498e9d8478b48ff9b3dc0e29f5c183   （153 条记录改指向，记录数 1622 不变）
+
+【模式确认：切屏黑屏直到文字出现】
+  version.dll = clearflash8（c93e + Clear 遮罩），行为：
+    切屏/Reset 后由 CAVE_P 调用 Clear 保持黑屏，直到「连续 3 帧绑字体」判定文字绘制稳定
+    （D_STABLE=1）才放行 -> 画面与文字一起出现，无空白、无竖条。
+  运行时无 swap_mode.txt -> 换绑判据 = mode A（tex == g_fontTex）。
+  本构建为 nolog/nodump 版：不生成 __RUNTIME__ 日志与贴图 dump。
+  ★ 后续任何 hook 实验必须保留这一行为；本包即该模式的唯一存档基线。
+
+【游戏本体参考 MD5（未打包：体积 3.5GB，均为安装器写入的翻译基底，未改动）】
+  cachpack.hvp      7f12e2abf8563ad6b29dcb8a9bd038be
+  datapack.hvp      bfe692bad858b7b9c826dc820795d0f2
+  strmpack.hvp      ae1138b04143261be8cbe9925bb3e491
+  kinepack.hvp      9411a4c3770186f357f82739cb0fdc9e
+  Obscure.exe       32030ad1cd1c605ac1e1211c3b16612a
+  binkw32.dll       0221507d68fc65fa3dd9188c268bb7b3
+  steam_api.dll     33b0c87731a30aa830b0fcb09fa47094
+  说明：游戏目录无 d3d9.dll；D3D9 设备 vtable 钩子内嵌在 version.dll 内。
+
+【恢复方法】
+  双击 restore_baseline.bat（校验包内 md5 -> 备份当前文件 -> 覆盖 -> 再校验）
+  手动恢复：把本目录 4 个文件直接复制回游戏根目录（覆盖）即可。
+
+【校验方法】
+  certutil -hashfile version.dll MD5
+  与上表比对；任何一项不符即为被改动过的状态，用 restore_baseline.bat 回滚。
