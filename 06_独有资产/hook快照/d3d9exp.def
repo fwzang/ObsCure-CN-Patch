@@ -1,0 +1,19 @@
+LIBRARY d3d9
+EXPORTS
+    Direct3DCreate9=Direct3DCreate9@4 @37
+    Direct3DCreate9Ex=Stub_Create9Ex @38
+    Direct3DCreate9On12=Stub_Create9On12 @20
+    Direct3DCreate9On12Ex=Stub_Create9On12Ex @21
+    Direct3DShaderValidatorCreate9=Stub_ShaderValidator @24
+    PSGPError=Stub_PSGPError @25
+    PSGPSampleTexture=Stub_PSGPSampleTexture @26
+    DebugSetLevel=Stub_DebugSetLevel @34
+    DebugSetMute=Stub_DebugSetMute @35
+    Direct3D9EnableMaximizedWindowedModeShim=Stub_MaxWinShim @36
+    D3DPERF_BeginEvent=Stub_PERFBeginEvent @27
+    D3DPERF_EndEvent=Stub_PERFEndEvent @28
+    D3DPERF_GetStatus=Stub_PERFGetStatus @29
+    D3DPERF_QueryRepeatFrame=Stub_PERFQueryRepeat @30
+    D3DPERF_SetMarker=Stub_PERFSetMarker @31
+    D3DPERF_SetOptions=Stub_PERFSetOptions @32
+    D3DPERF_SetRegion=Stub_PERFSetRegion @33

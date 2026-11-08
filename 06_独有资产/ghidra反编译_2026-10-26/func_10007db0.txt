@@ -1,0 +1,94 @@
+=== TARGET 0x10007db0 ===
+function : FUN_10007db0
+entry    : 10007db0
+body     : [[10007db0, 10007de7]]
+
+--- global data refs (from -> to [type]) ---
+  10007db0 -> 10041a6c [READ]
+  10007dc0 -> 10089c2c [READ]
+  10007dc0 -> 10089c30 [READ]
+  10007dda -> 10041a6c [WRITE]
+  10007de0 -> 10089c2c [DATA]
+
+--- call targets ---
+
+--- decompiled C ---
+
+/* WARNING: Globals starting with '_' overlap smaller symbols at the same address */
+
+void FUN_10007db0(void)
+
+{
+  int *piVar1;
+  undefined4 uVar2;
+  undefined4 uVar3;
+  undefined4 uVar4;
+  undefined4 uVar5;
+  undefined4 uVar6;
+  int in_ECX;
+  int iVar7;
+  CHAR aCStack_11c [200];
+  CHAR aCStack_54 [64];
+  int iStack_14;
+  
+  if (0 < DAT_10041a6c) {
+    iVar7 = 0;
+    do {
+      if ((&DAT_10089c2c)[iVar7] == in_ECX) {
+        return;
+      }
+      iVar7 = iVar7 + 1;
+    } while (DAT_10041a6c != iVar7);
+    if (7 < DAT_10041a6c) {
+      aCStack_11c[0] = '\0';
+      iStack_14 = in_ECX;
+      lstrcatA(aCStack_11c,&DAT_1003a4e6);
+      wsprintfA(aCStack_54,"%p",DAT_10089c2c);
+      lstrcatA(aCStack_11c,aCStack_54);
+      lstrcatA(aCStack_11c,&DAT_1003a515);
+      wsprintfA(aCStack_54,"%p");
+      lstrcatA(aCStack_11c,aCStack_54);
+      lstrcatA(aCStack_11c,"\r\n");
+      FUN_10001a60();
+      iVar7 = DAT_10089c48;
+      uVar6 = DAT_10089c40._4_4_;
+      uVar5 = (undefined4)DAT_10089c40;
+      uVar4 = DAT_10089c38._4_4_;
+      uVar3 = (undefined4)DAT_10089c38;
+      uVar2 = _DAT_10089c34;
+      DAT_10089c2c = DAT_10089c30;
+      DAT_10089c48 = iStack_14;
+      DAT_10089c40._4_4_ = iVar7;
+      DAT_10089c40._0_4_ = uVar6;
+      DAT_10089c38._4_4_ = uVar5;
+      DAT_10089c38._0_4_ = uVar4;
+      _DAT_10089c34 = uVar3;
+      DAT_10089c30 = uVar2;
+      return;
+    }
+  }
+  piVar1 = &DAT_10089c2c + DAT_10041a6c;
+  DAT_10041a6c = DAT_10041a6c + 1;
+  *piVar1 = in_ECX;
+  return;
+}
+
+
+
+--- instruction listing ---
+0x10007DB0  a1 6c 1a 04 10         MOV EAX
+0x10007DB5  85 c0                  TEST EAX
+0x10007DB7  7e 1e                  JLE 0x10007dd7
+0x10007DB9  31 d2                  XOR EDX
+0x10007DBB  0f 1f 44 00 00         NOP dword ptr [EAX + EAX*0x1]
+0x10007DC0  39 0c 95 2c 9c 08 10   CMP dword ptr [EDX*0x4 + 0x10089c2c]
+0x10007DC7  0f 84 e5 00 00 00      JZ 0x10007eb2
+0x10007DCD  42                     INC EDX
+0x10007DCE  39 d0                  CMP EAX
+0x10007DD0  75 ee                  JNZ 0x10007dc0
+0x10007DD2  83 f8 07               CMP EAX
+0x10007DD5  7f 11                  JG 0x10007de8
+0x10007DD7  8d 50 01               LEA EDX
+0x10007DDA  89 15 6c 1a 04 10      MOV dword ptr [0x10041a6c]
+0x10007DE0  89 0c 85 2c 9c 08 10   MOV dword ptr [EAX*0x4 + 0x10089c2c]
+0x10007DE7  c3                     RET <UNSUPPORTED>

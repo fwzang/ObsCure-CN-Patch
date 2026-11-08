@@ -1,0 +1,84 @@
+=== TARGET 0x10001a60 ===
+function : FUN_10001a60
+entry    : 10001a60
+body     : [[10001a60, 10001ad8]]
+
+--- global data refs (from -> to [type]) ---
+  10001a6d -> 10041460 [DATA]
+  10001a72 -> 10041708 [DATA]
+  10001a77 -> 1003f9dc [READ]
+  10001a7d -> 10039469 [DATA]
+  10001a87 -> 1003f9d0 [READ]
+  10001aa1 -> 1003f958 [READ]
+  10001ab6 -> 1003f9e0 [READ]
+  10001ac5 -> 1003f9cc [READ]
+  10001acc -> 1003f950 [READ]
+
+--- call targets ---
+
+--- decompiled C ---
+
+void FUN_10001a60(void)
+
+{
+  HANDLE hFile;
+  DWORD nNumberOfBytesToWrite;
+  LPCSTR in_ECX;
+  DWORD local_10;
+  
+  lstrcpynA(&DAT_10041708,&DAT_10041460,400);
+  lstrcatA(&DAT_10041708,"x_hook.log");
+  hFile = CreateFileA(&DAT_10041708,4,3,(LPSECURITY_ATTRIBUTES)0x0,3,0x80,(HANDLE)0x0);
+  if (hFile != (HANDLE)0xffffffff) {
+    local_10 = 0;
+    nNumberOfBytesToWrite = lstrlenA(in_ECX);
+    WriteFile(hFile,in_ECX,nNumberOfBytesToWrite,&local_10,(LPOVERLAPPED)0x0);
+    CloseHandle(hFile);
+  }
+  return;
+}
+
+
+
+--- instruction listing ---
+0x10001A60  55                     PUSH EBP
+0x10001A61  89 e5                  MOV EBP
+0x10001A63  57                     PUSH EDI
+0x10001A64  56                     PUSH ESI
+0x10001A65  50                     PUSH EAX
+0x10001A66  89 ce                  MOV ESI
+0x10001A68  68 90 01 00 00         PUSH 0x190
+0x10001A6D  68 60 14 04 10         PUSH 0x10041460
+0x10001A72  68 08 17 04 10         PUSH 0x10041708
+0x10001A77  ff 15 dc f9 03 10      CALL dword ptr [0x1003f9dc]
+0x10001A7D  68 69 94 03 10         PUSH 0x10039469
+0x10001A82  68 08 17 04 10         PUSH 0x10041708
+0x10001A87  ff 15 d0 f9 03 10      CALL dword ptr [0x1003f9d0]
+0x10001A8D  6a 00                  PUSH 0x0
+0x10001A8F  68 80 00 00 00         PUSH 0x80
+0x10001A94  6a 03                  PUSH 0x3
+0x10001A96  6a 00                  PUSH 0x0
+0x10001A98  6a 03                  PUSH 0x3
+0x10001A9A  6a 04                  PUSH 0x4
+0x10001A9C  68 08 17 04 10         PUSH 0x10041708
+0x10001AA1  ff 15 58 f9 03 10      CALL dword ptr [0x1003f958]
+0x10001AA7  83 f8 ff               CMP EAX
+0x10001AAA  74 26                  JZ 0x10001ad2
+0x10001AAC  89 c7                  MOV EDI
+0x10001AAE  c7 45 f4 00 00 00 00   MOV dword ptr [EBP + -0xc]
+0x10001AB5  56                     PUSH ESI
+0x10001AB6  ff 15 e0 f9 03 10      CALL dword ptr [0x1003f9e0]
+0x10001ABC  8d 4d f4               LEA ECX
+0x10001ABF  6a 00                  PUSH 0x0
+0x10001AC1  51                     PUSH ECX
+0x10001AC2  50                     PUSH EAX
+0x10001AC3  56                     PUSH ESI
+0x10001AC4  57                     PUSH EDI
+0x10001AC5  ff 15 cc f9 03 10      CALL dword ptr [0x1003f9cc]
+0x10001ACB  57                     PUSH EDI
+0x10001ACC  ff 15 50 f9 03 10      CALL dword ptr [0x1003f950]
+0x10001AD2  83 c4 04               ADD ESP
+0x10001AD5  5e                     POP ESI
+0x10001AD6  5f                     POP EDI
+0x10001AD7  5d                     POP EBP
+0x10001AD8  c3                     RET <UNSUPPORTED>

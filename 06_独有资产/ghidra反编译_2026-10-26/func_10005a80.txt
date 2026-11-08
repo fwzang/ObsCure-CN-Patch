@@ -1,0 +1,522 @@
+=== TARGET 0x10005A80 ===
+function : FUN_10005a80
+entry    : 10005a80
+body     : [[10005a80, 10005ea1]]
+
+--- global data refs (from -> to [type]) ---
+  10005a88 -> 100419d4 [READ]
+  10005ad7 -> 1003f9d0 [READ]
+  10005add -> 1003a7e3 [DATA]
+  10005af0 -> 10039221 [DATA]
+  10005af6 -> 1003f9e8 [READ]
+  10005b03 -> 1003a800 [DATA]
+  10005b23 -> 1003a532 [DATA]
+  10005b2e -> 10039494 [DATA]
+  10005b41 -> 1003a630 [DATA]
+  10005b4c -> 10039211 [DATA]
+  10005b5f -> 10039165 [DATA]
+  10005b9e -> 1003a825 [DATA]
+  10005bab -> 10041a70 [WRITE]
+  10005bb0 -> 10048ab4 [READ]
+  10005bb9 -> 10041898 [READ]
+  10005bbe -> 1004100c [WRITE]
+  10005bd0 -> 1003a802 [DATA]
+  10005be1 -> 10041a70 [READ]
+  10005bff -> 1003a81c [DATA]
+  10005c13 -> 100394c0 [DATA]
+  10005c26 -> 10039530 [DATA]
+  10005c6b -> 100419dc [READ]
+  10005caa -> 1003a853 [DATA]
+  10005d52 -> 1003a876 [DATA]
+  10005d7a -> 1003a891 [DATA]
+  10005dd3 -> 100411b8 [DATA]
+  10005dd8 -> 1003f958 [READ]
+  10005e04 -> 1003f9ac [READ]
+  10005e20 -> 1003f950 [READ]
+  10005e26 -> 1003a899 [DATA]
+  10005e2d -> 1003a8ba [DATA]
+  10005e55 -> 1003a8d2 [DATA]
+  10005e98 -> 1003a8ff [DATA]
+
+--- call targets ---
+
+--- decompiled C ---
+
+void FUN_10005a80(void)
+
+{
+  int *piVar1;
+  int iVar2;
+  int iVar3;
+  code *pcVar4;
+  HANDLE hFile;
+  BOOL BVar5;
+  undefined4 uVar6;
+  int *in_ECX;
+  bool bVar7;
+  CHAR local_2a4 [256];
+  CHAR local_1a4 [64];
+  CHAR local_164 [240];
+  CHAR local_74 [64];
+  code *local_34;
+  DWORD local_30;
+  int *local_2c;
+  int local_28;
+  int local_24;
+  int local_20;
+  int local_1c;
+  int *local_18;
+  int local_14;
+  
+  if (in_ECX == (int *)0x0) {
+    return;
+  }
+  pcVar4 = DAT_100419d4;
+  if (DAT_100419d4 == (code *)0x0) {
+    pcVar4 = *(code **)(*in_ECX + 0x5c);
+  }
+  local_1c = 0;
+  local_2c = in_ECX;
+  local_14 = (*pcVar4)();
+  local_2a4[0] = '\0';
+  lstrcatA(local_2a4,"[3B] CreateTexture(DEFAULT) ");
+  wsprintfA(local_1a4,"%d",0x200);
+  lstrcatA(local_2a4,local_1a4);
+  lstrcatA(local_2a4,"x");
+  wsprintfA(local_1a4,"%d",0x1000);
+  lstrcatA(local_2a4,local_1a4);
+  lstrcatA(local_2a4," hr=0x");
+  wsprintfA(local_1a4,"%lX",local_14);
+  lstrcatA(local_2a4,local_1a4);
+  lstrcatA(local_2a4," tex=");
+  wsprintfA(local_1a4,"%p",local_1c);
+  lstrcatA(local_2a4,local_1a4);
+  lstrcatA(local_2a4,"\r\n");
+  FUN_10001a60();
+  iVar2 = local_1c;
+  piVar1 = local_2c;
+  if (local_1c == 0) {
+    return;
+  }
+  if (local_14 < 0) {
+    return;
+  }
+  if (((*local_2c != 0) && (pcVar4 = *(code **)(*local_2c + 0xc), pcVar4 != (code *)0x0)) &&
+     (iVar3 = (*pcVar4)(local_2c), iVar3 == 0)) {
+    iVar3 = *piVar1;
+    if (((iVar3 == 0) || (*(code **)(iVar3 + 0x5c) == (code *)0x0)) ||
+       (*(code **)(iVar3 + 0x7c) == (code *)0x0)) goto LAB_10005ba8;
+    pcVar4 = *(code **)(iVar3 + 0x5c);
+    if (DAT_100419d4 != (code *)0x0) {
+      pcVar4 = DAT_100419d4;
+    }
+    local_34 = *(code **)(iVar3 + 0x7c);
+    if (DAT_100419dc != (code *)0x0) {
+      local_34 = DAT_100419dc;
+    }
+    local_18 = (int *)0x0;
+    iVar3 = (*pcVar4)(piVar1,0x200,0x1000,1,0,0x15,2,&local_18,0);
+    local_164[0] = '\0';
+    lstrcatA(local_164,&DAT_1003a853);
+    local_14 = iVar3;
+    wsprintfA(local_74,"%lX",iVar3);
+    lstrcatA(local_164,local_74);
+    lstrcatA(local_164," tex=");
+    wsprintfA(local_74,"%p",local_18);
+    lstrcatA(local_164,local_74);
+    lstrcatA(local_164,"\r\n");
+    FUN_10001a60();
+    if ((local_18 == (int *)0x0) || (local_14 < 0)) goto LAB_10005ba8;
+    local_28 = *local_18;
+    local_20 = 0;
+    local_24 = 0;
+    local_14 = (**(code **)(local_28 + 0x4c))(local_18,0,&local_24,0,0);
+    local_164[0] = '\0';
+    lstrcatA(local_164,&DAT_1003a876);
+    wsprintfA(local_74,"%lX",local_14);
+    lstrcatA(local_164,local_74);
+    lstrcatA(local_164," Pitch=");
+    wsprintfA(local_74,"%ld",local_24);
+    lstrcatA(local_164,local_74);
+    lstrcatA(local_164,"\r\n");
+    FUN_10001a60();
+    if ((-1 < local_14) && (local_20 != 0)) {
+      hFile = CreateFileA(&DAT_100411b8,0x80000000,1,(LPSECURITY_ATTRIBUTES)0x0,3,0x80,(HANDLE)0x0);
+      if (hFile != (HANDLE)0xffffffff) {
+        iVar3 = 0;
+        do {
+          local_30 = 0;
+          BVar5 = ReadFile(hFile,(LPVOID)(local_24 * iVar3 + local_20),0x800,&local_30,
+                           (LPOVERLAPPED)0x0);
+          if ((BVar5 == 0) || (local_30 == 0)) break;
+          bVar7 = iVar3 != 0xfff;
+          iVar3 = iVar3 + 1;
+        } while (bVar7);
+        CloseHandle(hFile);
+      }
+      FUN_10001a60();
+      (**(code **)(local_28 + 0x50))(local_18,0);
+    }
+    uVar6 = (*local_34)(local_2c,local_18,iVar2);
+    local_164[0] = '\0';
+    lstrcatA(local_164,"[3B] UpdateTexture(SYSTEMMEM->DEFAULT) hr=0x");
+    wsprintfA(local_74,"%lX",uVar6);
+    lstrcatA(local_164,local_74);
+    lstrcatA(local_164,"\r\n");
+    FUN_10001a60();
+    (**(code **)(local_28 + 8))(local_18);
+  }
+  FUN_10001a60();
+LAB_10005ba8:
+  DAT_10041a70 = local_1c;
+  if (DAT_10048ab4 == '\x01') {
+    DAT_1004100c = DAT_10041898;
+  }
+  local_164[0] = '\0';
+  lstrcatA(local_164,&DAT_1003a802);
+  wsprintfA(local_74,"%p",DAT_10041a70);
+  lstrcatA(local_164,local_74);
+  lstrcatA(local_164," (frame=");
+  wsprintfA(local_74,"%ld",DAT_10041898);
+  lstrcatA(local_164,local_74);
+  lstrcatA(local_164,")\r\n");
+  FUN_10001a60();
+  return;
+}
+
+
+
+--- instruction listing ---
+0x10005A80  85 c9                  TEST ECX
+0x10005A82  0f 84 b7 01 00 00      JZ 0x10005c3f
+0x10005A88  a1 d4 19 04 10         MOV EAX
+0x10005A8D  85 c0                  TEST EAX
+0x10005A8F  75 05                  JNZ 0x10005a96
+0x10005A91  8b 01                  MOV EAX
+0x10005A93  8b 40 5c               MOV EAX
+0x10005A96  55                     PUSH EBP
+0x10005A97  89 e5                  MOV EBP
+0x10005A99  53                     PUSH EBX
+0x10005A9A  57                     PUSH EDI
+0x10005A9B  56                     PUSH ESI
+0x10005A9C  81 ec 94 02 00 00      SUB ESP
+0x10005AA2  c7 45 e8 00 00 00 00   MOV dword ptr [EBP + -0x18]
+0x10005AA9  8d 55 e8               LEA EDX
+0x10005AAC  6a 00                  PUSH 0x0
+0x10005AAE  52                     PUSH EDX
+0x10005AAF  6a 00                  PUSH 0x0
+0x10005AB1  6a 15                  PUSH 0x15
+0x10005AB3  6a 00                  PUSH 0x0
+0x10005AB5  6a 01                  PUSH 0x1
+0x10005AB7  68 00 10 00 00         PUSH 0x1000
+0x10005ABC  68 00 02 00 00         PUSH 0x200
+0x10005AC1  89 4d d8               MOV dword ptr [EBP + -0x28]
+0x10005AC4  51                     PUSH ECX
+0x10005AC5  ff d0                  CALL EAX
+0x10005AC7  89 45 f0               MOV dword ptr [EBP + -0x10]
+0x10005ACA  c6 85 60 fd ff ff 00   MOV byte ptr [EBP + 0xfffffd60]
+0x10005AD1  8d 9d 60 fd ff ff      LEA EBX
+0x10005AD7  8b 3d d0 f9 03 10      MOV EDI
+0x10005ADD  68 e3 a7 03 10         PUSH 0x1003a7e3
+0x10005AE2  53                     PUSH EBX
+0x10005AE3  ff d7                  CALL EDI
+0x10005AE5  8d b5 60 fe ff ff      LEA ESI
+0x10005AEB  68 00 02 00 00         PUSH 0x200
+0x10005AF0  68 21 92 03 10         PUSH 0x10039221
+0x10005AF5  56                     PUSH ESI
+0x10005AF6  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005AFC  83 c4 0c               ADD ESP
+0x10005AFF  56                     PUSH ESI
+0x10005B00  53                     PUSH EBX
+0x10005B01  ff d7                  CALL EDI
+0x10005B03  68 00 a8 03 10         PUSH 0x1003a800
+0x10005B08  53                     PUSH EBX
+0x10005B09  ff d7                  CALL EDI
+0x10005B0B  68 00 10 00 00         PUSH 0x1000
+0x10005B10  68 21 92 03 10         PUSH 0x10039221
+0x10005B15  56                     PUSH ESI
+0x10005B16  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005B1C  83 c4 0c               ADD ESP
+0x10005B1F  56                     PUSH ESI
+0x10005B20  53                     PUSH EBX
+0x10005B21  ff d7                  CALL EDI
+0x10005B23  68 32 a5 03 10         PUSH 0x1003a532
+0x10005B28  53                     PUSH EBX
+0x10005B29  ff d7                  CALL EDI
+0x10005B2B  ff 75 f0               PUSH dword ptr [EBP + -0x10]
+0x10005B2E  68 94 94 03 10         PUSH 0x10039494
+0x10005B33  56                     PUSH ESI
+0x10005B34  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005B3A  83 c4 0c               ADD ESP
+0x10005B3D  56                     PUSH ESI
+0x10005B3E  53                     PUSH EBX
+0x10005B3F  ff d7                  CALL EDI
+0x10005B41  68 30 a6 03 10         PUSH 0x1003a630
+0x10005B46  53                     PUSH EBX
+0x10005B47  ff d7                  CALL EDI
+0x10005B49  ff 75 e8               PUSH dword ptr [EBP + -0x18]
+0x10005B4C  68 11 92 03 10         PUSH 0x10039211
+0x10005B51  56                     PUSH ESI
+0x10005B52  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005B58  83 c4 0c               ADD ESP
+0x10005B5B  56                     PUSH ESI
+0x10005B5C  53                     PUSH EBX
+0x10005B5D  ff d7                  CALL EDI
+0x10005B5F  68 65 91 03 10         PUSH 0x10039165
+0x10005B64  53                     PUSH EBX
+0x10005B65  ff d7                  CALL EDI
+0x10005B67  89 d9                  MOV ECX
+0x10005B69  e8 f2 be ff ff         CALL 0x10001a60
+0x10005B6E  8b 5d e8               MOV EBX
+0x10005B71  85 db                  TEST EBX
+0x10005B73  0f 84 bc 00 00 00      JZ 0x10005c35
+0x10005B79  83 7d f0 00            CMP dword ptr [EBP + -0x10]
+0x10005B7D  0f 88 b2 00 00 00      JS 0x10005c35
+0x10005B83  8b 75 d8               MOV ESI
+0x10005B86  8b 06                  MOV EAX
+0x10005B88  85 c0                  TEST EAX
+0x10005B8A  74 12                  JZ 0x10005b9e
+0x10005B8C  8b 40 0c               MOV EAX
+0x10005B8F  85 c0                  TEST EAX
+0x10005B91  74 0b                  JZ 0x10005b9e
+0x10005B93  56                     PUSH ESI
+0x10005B94  ff d0                  CALL EAX
+0x10005B96  85 c0                  TEST EAX
+0x10005B98  0f 84 a2 00 00 00      JZ 0x10005c40
+0x10005B9E  b9 25 a8 03 10         MOV ECX
+0x10005BA3  e8 b8 be ff ff         CALL 0x10001a60
+0x10005BA8  8b 45 e8               MOV EAX
+0x10005BAB  a3 70 1a 04 10         MOV [0x10041a70]
+0x10005BB0  80 3d b4 8a 04 10 01   CMP byte ptr [0x10048ab4]
+0x10005BB7  75 0a                  JNZ 0x10005bc3
+0x10005BB9  a1 98 18 04 10         MOV EAX
+0x10005BBE  a3 0c 10 04 10         MOV [0x1004100c]
+0x10005BC3  c6 85 a0 fe ff ff 00   MOV byte ptr [EBP + 0xfffffea0]
+0x10005BCA  8d b5 a0 fe ff ff      LEA ESI
+0x10005BD0  68 02 a8 03 10         PUSH 0x1003a802
+0x10005BD5  56                     PUSH ESI
+0x10005BD6  8b 1d d0 f9 03 10      MOV EBX
+0x10005BDC  ff d3                  CALL EBX
+0x10005BDE  8d 5d 90               LEA EBX
+0x10005BE1  ff 35 70 1a 04 10      PUSH dword ptr [0x10041a70]
+0x10005BE7  68 11 92 03 10         PUSH 0x10039211
+0x10005BEC  53                     PUSH EBX
+0x10005BED  a1 e8 f9 03 10         MOV EAX
+0x10005BF2  ff d0                  CALL EAX
+0x10005BF4  83 c4 0c               ADD ESP
+0x10005BF7  53                     PUSH EBX
+0x10005BF8  56                     PUSH ESI
+0x10005BF9  ff 15 d0 f9 03 10      CALL dword ptr [0x1003f9d0]
+0x10005BFF  68 1c a8 03 10         PUSH 0x1003a81c
+0x10005C04  56                     PUSH ESI
+0x10005C05  8b 3d d0 f9 03 10      MOV EDI
+0x10005C0B  ff d7                  CALL EDI
+0x10005C0D  ff 35 98 18 04 10      PUSH dword ptr [0x10041898]
+0x10005C13  68 c0 94 03 10         PUSH 0x100394c0
+0x10005C18  53                     PUSH EBX
+0x10005C19  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005C1F  83 c4 0c               ADD ESP
+0x10005C22  53                     PUSH EBX
+0x10005C23  56                     PUSH ESI
+0x10005C24  ff d7                  CALL EDI
+0x10005C26  68 30 95 03 10         PUSH 0x10039530
+0x10005C2B  56                     PUSH ESI
+0x10005C2C  ff d7                  CALL EDI
+0x10005C2E  89 f1                  MOV ECX
+0x10005C30  e8 2b be ff ff         CALL 0x10001a60
+0x10005C35  81 c4 94 02 00 00      ADD ESP
+0x10005C3B  5e                     POP ESI
+0x10005C3C  5f                     POP EDI
+0x10005C3D  5b                     POP EBX
+0x10005C3E  5d                     POP EBP
+0x10005C3F  c3                     RET <UNSUPPORTED>
+0x10005C40  8b 0e                  MOV ECX
+0x10005C42  85 c9                  TEST ECX
+0x10005C44  0f 84 5e ff ff ff      JZ 0x10005ba8
+0x10005C4A  8b 41 5c               MOV EAX
+0x10005C4D  85 c0                  TEST EAX
+0x10005C4F  0f 84 53 ff ff ff      JZ 0x10005ba8
+0x10005C55  8b 51 7c               MOV EDX
+0x10005C58  85 d2                  TEST EDX
+0x10005C5A  0f 84 48 ff ff ff      JZ 0x10005ba8
+0x10005C60  8b 0d d4 19 04 10      MOV ECX
+0x10005C66  85 c9                  TEST ECX
+0x10005C68  0f 45 c1               CMOVNZ EAX
+0x10005C6B  8b 0d dc 19 04 10      MOV ECX
+0x10005C71  85 c9                  TEST ECX
+0x10005C73  0f 45 d1               CMOVNZ EDX
+0x10005C76  89 55 d0               MOV dword ptr [EBP + -0x30]
+0x10005C79  c7 45 ec 00 00 00 00   MOV dword ptr [EBP + -0x14]
+0x10005C80  8d 4d ec               LEA ECX
+0x10005C83  6a 00                  PUSH 0x0
+0x10005C85  51                     PUSH ECX
+0x10005C86  6a 02                  PUSH 0x2
+0x10005C88  6a 15                  PUSH 0x15
+0x10005C8A  6a 00                  PUSH 0x0
+0x10005C8C  6a 01                  PUSH 0x1
+0x10005C8E  68 00 10 00 00         PUSH 0x1000
+0x10005C93  68 00 02 00 00         PUSH 0x200
+0x10005C98  56                     PUSH ESI
+0x10005C99  ff d0                  CALL EAX
+0x10005C9B  89 c7                  MOV EDI
+0x10005C9D  c6 85 a0 fe ff ff 00   MOV byte ptr [EBP + 0xfffffea0]
+0x10005CA4  8d 85 a0 fe ff ff      LEA EAX
+0x10005CAA  68 53 a8 03 10         PUSH 0x1003a853
+0x10005CAF  50                     PUSH EAX
+0x10005CB0  8b 35 d0 f9 03 10      MOV ESI
+0x10005CB6  ff d6                  CALL ESI
+0x10005CB8  8d 75 90               LEA ESI
+0x10005CBB  89 7d f0               MOV dword ptr [EBP + -0x10]
+0x10005CBE  57                     PUSH EDI
+0x10005CBF  68 94 94 03 10         PUSH 0x10039494
+0x10005CC4  56                     PUSH ESI
+0x10005CC5  a1 e8 f9 03 10         MOV EAX
+0x10005CCA  ff d0                  CALL EAX
+0x10005CCC  83 c4 0c               ADD ESP
+0x10005CCF  56                     PUSH ESI
+0x10005CD0  8d bd a0 fe ff ff      LEA EDI
+0x10005CD6  57                     PUSH EDI
+0x10005CD7  8b 35 d0 f9 03 10      MOV ESI
+0x10005CDD  ff d6                  CALL ESI
+0x10005CDF  68 30 a6 03 10         PUSH 0x1003a630
+0x10005CE4  57                     PUSH EDI
+0x10005CE5  ff d6                  CALL ESI
+0x10005CE7  ff 75 ec               PUSH dword ptr [EBP + -0x14]
+0x10005CEA  68 11 92 03 10         PUSH 0x10039211
+0x10005CEF  8d 45 90               LEA EAX
+0x10005CF2  50                     PUSH EAX
+0x10005CF3  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005CF9  83 c4 0c               ADD ESP
+0x10005CFC  8d 45 90               LEA EAX
+0x10005CFF  50                     PUSH EAX
+0x10005D00  57                     PUSH EDI
+0x10005D01  ff d6                  CALL ESI
+0x10005D03  68 65 91 03 10         PUSH 0x10039165
+0x10005D08  57                     PUSH EDI
+0x10005D09  ff d6                  CALL ESI
+0x10005D0B  89 f9                  MOV ECX
+0x10005D0D  e8 4e bd ff ff         CALL 0x10001a60
+0x10005D12  8b 45 ec               MOV EAX
+0x10005D15  85 c0                  TEST EAX
+0x10005D17  0f 84 8b fe ff ff      JZ 0x10005ba8
+0x10005D1D  83 7d f0 00            CMP dword ptr [EBP + -0x10]
+0x10005D21  0f 88 81 fe ff ff      JS 0x10005ba8
+0x10005D27  8b 10                  MOV EDX
+0x10005D29  c7 45 e4 00 00 00 00   MOV dword ptr [EBP + -0x1c]
+0x10005D30  c7 45 e0 00 00 00 00   MOV dword ptr [EBP + -0x20]
+0x10005D37  8d 4d e0               LEA ECX
+0x10005D3A  6a 00                  PUSH 0x0
+0x10005D3C  6a 00                  PUSH 0x0
+0x10005D3E  51                     PUSH ECX
+0x10005D3F  6a 00                  PUSH 0x0
+0x10005D41  50                     PUSH EAX
+0x10005D42  89 55 dc               MOV dword ptr [EBP + -0x24]
+0x10005D45  ff 52 4c               CALL dword ptr [EDX + 0x4c]
+0x10005D48  89 45 f0               MOV dword ptr [EBP + -0x10]
+0x10005D4B  c6 85 a0 fe ff ff 00   MOV byte ptr [EBP + 0xfffffea0]
+0x10005D52  68 76 a8 03 10         PUSH 0x1003a876
+0x10005D57  57                     PUSH EDI
+0x10005D58  ff d6                  CALL ESI
+0x10005D5A  ff 75 f0               PUSH dword ptr [EBP + -0x10]
+0x10005D5D  68 94 94 03 10         PUSH 0x10039494
+0x10005D62  8d 75 90               LEA ESI
+0x10005D65  56                     PUSH ESI
+0x10005D66  a1 e8 f9 03 10         MOV EAX
+0x10005D6B  ff d0                  CALL EAX
+0x10005D6D  83 c4 0c               ADD ESP
+0x10005D70  56                     PUSH ESI
+0x10005D71  57                     PUSH EDI
+0x10005D72  8b 35 d0 f9 03 10      MOV ESI
+0x10005D78  ff d6                  CALL ESI
+0x10005D7A  68 91 a8 03 10         PUSH 0x1003a891
+0x10005D7F  57                     PUSH EDI
+0x10005D80  ff d6                  CALL ESI
+0x10005D82  ff 75 e0               PUSH dword ptr [EBP + -0x20]
+0x10005D85  68 c0 94 03 10         PUSH 0x100394c0
+0x10005D8A  8d 45 90               LEA EAX
+0x10005D8D  50                     PUSH EAX
+0x10005D8E  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005D94  83 c4 0c               ADD ESP
+0x10005D97  8d 45 90               LEA EAX
+0x10005D9A  50                     PUSH EAX
+0x10005D9B  57                     PUSH EDI
+0x10005D9C  ff d6                  CALL ESI
+0x10005D9E  68 65 91 03 10         PUSH 0x10039165
+0x10005DA3  57                     PUSH EDI
+0x10005DA4  ff d6                  CALL ESI
+0x10005DA6  89 f9                  MOV ECX
+0x10005DA8  e8 b3 bc ff ff         CALL 0x10001a60
+0x10005DAD  83 7d f0 00            CMP dword ptr [EBP + -0x10]
+0x10005DB1  0f 88 8b 00 00 00      JS 0x10005e42
+0x10005DB7  83 7d e4 00            CMP dword ptr [EBP + -0x1c]
+0x10005DBB  0f 84 81 00 00 00      JZ 0x10005e42
+0x10005DC1  6a 00                  PUSH 0x0
+0x10005DC3  68 80 00 00 00         PUSH 0x80
+0x10005DC8  6a 03                  PUSH 0x3
+0x10005DCA  6a 00                  PUSH 0x0
+0x10005DCC  6a 01                  PUSH 0x1
+0x10005DCE  68 00 00 00 80         PUSH 0x80000000
+0x10005DD3  68 b8 11 04 10         PUSH 0x100411b8
+0x10005DD8  ff 15 58 f9 03 10      CALL dword ptr [0x1003f958]
+0x10005DDE  83 f8 ff               CMP EAX
+0x10005DE1  74 4a                  JZ 0x10005e2d
+0x10005DE3  89 c7                  MOV EDI
+0x10005DE5  31 f6                  XOR ESI
+0x10005DE7  c7 45 d4 00 00 00 00   MOV dword ptr [EBP + -0x2c]
+0x10005DEE  8b 45 e0               MOV EAX
+0x10005DF1  0f af c6               IMUL EAX
+0x10005DF4  03 45 e4               ADD EAX
+0x10005DF7  6a 00                  PUSH 0x0
+0x10005DF9  8d 4d d4               LEA ECX
+0x10005DFC  51                     PUSH ECX
+0x10005DFD  68 00 08 00 00         PUSH 0x800
+0x10005E02  50                     PUSH EAX
+0x10005E03  57                     PUSH EDI
+0x10005E04  ff 15 ac f9 03 10      CALL dword ptr [0x1003f9ac]
+0x10005E0A  85 c0                  TEST EAX
+0x10005E0C  74 11                  JZ 0x10005e1f
+0x10005E0E  83 7d d4 00            CMP dword ptr [EBP + -0x2c]
+0x10005E12  74 0b                  JZ 0x10005e1f
+0x10005E14  81 fe ff 0f 00 00      CMP ESI
+0x10005E1A  8d 76 01               LEA ESI
+0x10005E1D  75 c8                  JNZ 0x10005de7
+0x10005E1F  57                     PUSH EDI
+0x10005E20  ff 15 50 f9 03 10      CALL dword ptr [0x1003f950]
+0x10005E26  b9 99 a8 03 10         MOV ECX
+0x10005E2B  eb 05                  JMP 0x10005e32
+0x10005E2D  b9 ba a8 03 10         MOV ECX
+0x10005E32  e8 29 bc ff ff         CALL 0x10001a60
+0x10005E37  6a 00                  PUSH 0x0
+0x10005E39  ff 75 ec               PUSH dword ptr [EBP + -0x14]
+0x10005E3C  8b 45 dc               MOV EAX
+0x10005E3F  ff 50 50               CALL dword ptr [EAX + 0x50]
+0x10005E42  53                     PUSH EBX
+0x10005E43  ff 75 ec               PUSH dword ptr [EBP + -0x14]
+0x10005E46  ff 75 d8               PUSH dword ptr [EBP + -0x28]
+0x10005E49  ff 55 d0               CALL dword ptr [EBP + -0x30]
+0x10005E4C  89 c6                  MOV ESI
+0x10005E4E  c6 85 a0 fe ff ff 00   MOV byte ptr [EBP + 0xfffffea0]
+0x10005E55  68 d2 a8 03 10         PUSH 0x1003a8d2
+0x10005E5A  8d 9d a0 fe ff ff      LEA EBX
+0x10005E60  53                     PUSH EBX
+0x10005E61  8b 3d d0 f9 03 10      MOV EDI
+0x10005E67  ff d7                  CALL EDI
+0x10005E69  56                     PUSH ESI
+0x10005E6A  68 94 94 03 10         PUSH 0x10039494
+0x10005E6F  8d 75 90               LEA ESI
+0x10005E72  56                     PUSH ESI
+0x10005E73  ff 15 e8 f9 03 10      CALL dword ptr [0x1003f9e8]
+0x10005E79  83 c4 0c               ADD ESP
+0x10005E7C  56                     PUSH ESI
+0x10005E7D  53                     PUSH EBX
+0x10005E7E  ff d7                  CALL EDI
+0x10005E80  68 65 91 03 10         PUSH 0x10039165
+0x10005E85  53                     PUSH EBX
+0x10005E86  ff d7                  CALL EDI
+0x10005E88  89 d9                  MOV ECX
+0x10005E8A  e8 d1 bb ff ff         CALL 0x10001a60
+0x10005E8F  ff 75 ec               PUSH dword ptr [EBP + -0x14]
+0x10005E92  8b 45 dc               MOV EAX
+0x10005E95  ff 50 08               CALL dword ptr [EAX + 0x8]
+0x10005E98  b9 ff a8 03 10         MOV ECX
+0x10005E9D  e9 01 fd ff ff         JMP 0x10005ba3
